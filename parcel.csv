@@ -1,0 +1,3970 @@
+﻿no,province,provinceID,district,districtID,neighborhood,neighborhoodID
+1,Amasya,27,Merkez,152,Abacı Köyü,126993
+2,Amasya,27,Merkez,152,Akbilek,206525
+3,Amasya,27,Merkez,152,Aksalur Köyü,126995
+4,Amasya,27,Merkez,152,Aktaş Köyü,126996
+5,Amasya,27,Merkez,152,Akyazı Köyü,127000
+6,Amasya,27,Merkez,152,Alakadı Köyü,126997
+7,Amasya,27,Merkez,152,Albayrak Köyü,180699
+8,Amasya,27,Merkez,152,Ardıçlar Köyü,126998
+9,Amasya,27,Merkez,152,Avşar Köyü,127001
+10,Amasya,27,Merkez,152,Aydınca Köyü,127328
+11,Amasya,27,Merkez,152,Aydınlık Köyü,126999
+12,Amasya,27,Merkez,152,Aydoğdu Köyü,127002
+13,Amasya,27,Merkez,152,Bağlarüstü Köyü,127005
+14,Amasya,27,Merkez,152,Bağlıca Köyü,127009
+15,Amasya,27,Merkez,152,Bayat Köyü,127007
+16,Amasya,27,Merkez,152,Beke Köyü,127004
+17,Amasya,27,Merkez,152,Beldağı Köyü,127003
+18,Amasya,27,Merkez,152,Beyazıtpaşa,127215
+19,Amasya,27,Merkez,152,Boğa Köyü,127006
+20,Amasya,27,Merkez,152,Boğaz Köyü,127011
+21,Amasya,27,Merkez,152,Böke Köyü,127008
+22,Amasya,27,Merkez,152,Bulduklu Köyü,127010
+23,Amasya,27,Merkez,152,Büyükkızılca Köyü,201432
+24,Amasya,27,Merkez,152,Çakallar,206526
+25,Amasya,27,Merkez,152,Çatalçam Köyü,127014
+26,Amasya,27,Merkez,152,Çavuş Köyü,127012
+27,Amasya,27,Merkez,152,Çengelkayı Köyü,127015
+28,Amasya,27,Merkez,152,Çiğdemlik Köyü,127013
+29,Amasya,27,Merkez,152,Çivi Köyü,127326
+30,Amasya,27,Merkez,152,Dadıkavakçayırı Köyü,127016
+31,Amasya,27,Merkez,152,Damudere Köyü,127017
+32,Amasya,27,Merkez,152,Değirmendere Köyü,127019
+33,Amasya,27,Merkez,152,Demetevler,166229
+34,Amasya,27,Merkez,152,Dere,127216
+35,Amasya,27,Merkez,152,Direkli Köyü,127018
+36,Amasya,27,Merkez,152,Doğantepe Köyü,127332
+37,Amasya,27,Merkez,152,Duruca Köyü,201421
+38,Amasya,27,Merkez,152,Eliktekke Köyü,127327
+39,Amasya,27,Merkez,152,Ermiş Köyü,127318
+40,Amasya,27,Merkez,152,Eskikızılca Köyü,201422
+41,Amasya,27,Merkez,152,Ezinepazarı Köyü,127333
+42,Amasya,27,Merkez,152,Fethiye,126974
+43,Amasya,27,Merkez,152,Fındıklı Köyü,127020
+44,Amasya,27,Merkez,152,Gerne Köyü,126994
+45,Amasya,27,Merkez,152,Gökdere Köyü,127021
+46,Amasya,27,Merkez,152,Gökmedrese,126976
+47,Amasya,27,Merkez,152,Göllübağları,206527
+48,Amasya,27,Merkez,152,Gözlek Köyü,127022
+49,Amasya,27,Merkez,152,Gümüşlü,126975
+50,Amasya,27,Merkez,152,Hacı İlyas,126981
+51,Amasya,27,Merkez,152,Halıfeli Köyü,127023
+52,Amasya,27,Merkez,152,Hasabdal Köyü,127024
+53,Amasya,27,Merkez,152,Hatunye,126979
+54,Amasya,27,Merkez,152,Helkis,126980
+55,Amasya,27,Merkez,152,Helvacı,126977
+56,Amasya,27,Merkez,152,Hızırpaşa,126978
+57,Amasya,27,Merkez,152,Ilgazi Köyü,127025
+58,Amasya,27,Merkez,152,İbecik Köyü,127026
+59,Amasya,27,Merkez,152,İhsaniye,126982
+60,Amasya,27,Merkez,152,İlyas Köyü,127027
+61,Amasya,27,Merkez,152,İpekköy Köyü,127067
+62,Amasya,27,Merkez,152,Kale Köyü,127030
+63,Amasya,27,Merkez,152,Kaleboğazı Köyü,127036
+64,Amasya,27,Merkez,152,Kapıkaya Köyü,127047
+65,Amasya,27,Merkez,152,Karaali Köyü,127042
+66,Amasya,27,Merkez,152,Karaçavuş Köyü,127028
+67,Amasya,27,Merkez,152,Karaibrahim Köyü,127043
+68,Amasya,27,Merkez,152,Karakise Köyü,127029
+69,Amasya,27,Merkez,152,Karaköprü Köyü,127032
+70,Amasya,27,Merkez,152,Karasenir Köyü,127046
+71,Amasya,27,Merkez,152,Karataş Köyü,127040
+72,Amasya,27,Merkez,152,Karsan Köyü,127041
+73,Amasya,27,Merkez,152,Kayabaşı Köyü,127045
+74,Amasya,27,Merkez,152,Kayacık Köyü,127335
+75,Amasya,27,Merkez,152,Kayrak Köyü,127031
+76,Amasya,27,Merkez,152,Keçili Köyü,205315
+77,Amasya,27,Merkez,152,Keşlik Köyü,127035
+78,Amasya,27,Merkez,152,Kızılkışlacık Köyü,127050
+79,Amasya,27,Merkez,152,Kızoğlu Köyü,170991
+80,Amasya,27,Merkez,152,Kızseki Köyü,127037
+81,Amasya,27,Merkez,152,Kirazlıdere,126983
+82,Amasya,27,Merkez,152,Koza,166230
+83,Amasya,27,Merkez,152,Köyceğiz Köyü,127038
+84,Amasya,27,Merkez,152,Kurşunlu,126984
+85,Amasya,27,Merkez,152,Kutu Köyü,127048
+86,Amasya,27,Merkez,152,Kuzgeçe Köyü,127039
+87,Amasya,27,Merkez,152,Küçükkızılca Köyü,127044
+88,Amasya,27,Merkez,152,Mahmatlar Köyü,127053
+89,Amasya,27,Merkez,152,Mehmet Paşa,126985
+90,Amasya,27,Merkez,152,Meşeliçiftliği Köyü,127052
+91,Amasya,27,Merkez,152,Musa Köyü,127054
+92,Amasya,27,Merkez,152,Oluz Köyü,127071
+93,Amasya,27,Merkez,152,Ormanözü Köyü,127055
+94,Amasya,27,Merkez,152,Ortaköy Köyü,127057
+95,Amasya,27,Merkez,152,Ovasaray Köyü,127056
+96,Amasya,27,Merkez,152,Özfındıklı Köyü,205316
+97,Amasya,27,Merkez,152,Pirinççi,126986
+98,Amasya,27,Merkez,152,Saraycık Köyü,127060
+99,Amasya,27,Merkez,152,Sarayözü Köyü,127063
+100,Amasya,27,Merkez,152,Sarıalan Köyü,127062
+101,Amasya,27,Merkez,152,Sarıkız Köyü,170191
+102,Amasya,27,Merkez,152,Sarımeşe Köyü,127061
+103,Amasya,27,Merkez,152,Sarıyar Köyü,127069
+104,Amasya,27,Merkez,152,Savadiye,126987
+105,Amasya,27,Merkez,152,Saz Köyü,127059
+106,Amasya,27,Merkez,152,Sevincer Köyü,127058
+107,Amasya,27,Merkez,152,Sıracevizler Köyü,127068
+108,Amasya,27,Merkez,152,Sofular,126988
+109,Amasya,27,Merkez,152,Soma Köyü,127316
+110,Amasya,27,Merkez,152,Şamlar,126990
+111,Amasya,27,Merkez,152,Şehirüstü,126989
+112,Amasya,27,Merkez,152,Şeyhcui Köyü,127066
+113,Amasya,27,Merkez,152,Şeyhsadi Köyü,127065
+114,Amasya,27,Merkez,152,Tatar Köyü,127070
+115,Amasya,27,Merkez,152,Tuzsuz Köyü,127315
+116,Amasya,27,Merkez,152,Uygur/İnönü,203829
+117,Amasya,27,Merkez,152,Uygur/Yeni,203828
+118,Amasya,27,Merkez,152,Üçler,126991
+119,Amasya,27,Merkez,152,Ümük Köyü,127317
+120,Amasya,27,Merkez,152,Yağcıabdal Köyü,127321
+121,Amasya,27,Merkez,152,Yağmur Köyü,127320
+122,Amasya,27,Merkez,152,Yassıçal Köyü,127334
+123,Amasya,27,Merkez,152,Yassıçal/Erkonaş,204633
+124,Amasya,27,Merkez,152,Yassıçal/Filingirler,204632
+125,Amasya,27,Merkez,152,Yassıçal/Gölönü,204634
+126,Amasya,27,Merkez,152,Yavru Köyü,127319
+127,Amasya,27,Merkez,152,Yazıbağları,206528
+128,Amasya,27,Merkez,152,Yeniköy Köyü,127064
+129,Amasya,27,Merkez,152,Yeşildere Köyü,205317
+130,Amasya,27,Merkez,152,Yeşilöz Köyü,127322
+131,Amasya,27,Merkez,152,Yeşilyenice/Boğaziçi,204630
+132,Amasya,27,Merkez,152,Yeşilyenice/Yenimahalle,204631
+133,Amasya,27,Merkez,152,Yıkılgan Köyü,127324
+134,Amasya,27,Merkez,152,Yıldız Köyü,205495
+135,Amasya,27,Merkez,152,Yolyanı Köyü,127323
+136,Amasya,27,Merkez,152,Yuva Köyü,127325
+137,Amasya,27,Merkez,152,Yuvacık Köyü,201423
+138,Amasya,27,Merkez,152,Yüzevler,126992
+139,Amasya,27,Merkez,152,Ziyere Köyü,127330
+140,Amasya,27,Göynücek,153,Abacı Köyü,48601
+141,Amasya,27,Göynücek,153,Alan Köyü,155733
+142,Amasya,27,Göynücek,153,Ardıçpınar Köyü,152928
+143,Amasya,27,Göynücek,153,Asar Köyü,48233
+144,Amasya,27,Göynücek,153,Ayvalıpınar Köyü,46778
+145,Amasya,27,Göynücek,153,Başpınar Köyü,48260
+146,Amasya,27,Göynücek,153,Bekdemir Köyü,153475
+147,Amasya,27,Göynücek,153,Beşiktepe Köyü,48569
+148,Amasya,27,Göynücek,153,Cumhuriyet,48315
+149,Amasya,27,Göynücek,153,Çamurlu Köyü,48268
+150,Amasya,27,Göynücek,153,Çayan Köyü,48868
+151,Amasya,27,Göynücek,153,Çaykışla Köyü,48095
+152,Amasya,27,Göynücek,153,Çulpara Köyü,48369
+153,Amasya,27,Göynücek,153,Damlaçimen Köyü,47234
+154,Amasya,27,Göynücek,153,Davutevi Köyü,48128
+155,Amasya,27,Göynücek,153,Gediksaray Köyü,46779
+156,Amasya,27,Göynücek,153,Gökçeli Köyü,153432
+157,Amasya,27,Göynücek,153,Harmancık Köyü,48311
+158,Amasya,27,Göynücek,153,Hasanbey Köyü,154244
+159,Amasya,27,Göynücek,153,Ilısu Köyü,48239
+160,Amasya,27,Göynücek,153,İkizyaka Köyü,48328
+161,Amasya,27,Göynücek,153,Kafarlı Köyü,134259
+162,Amasya,27,Göynücek,153,Karaşar Köyü,48337
+163,Amasya,27,Göynücek,153,Karayakup Köyü,48661
+164,Amasya,27,Göynücek,153,Kertme Köyü,48306
+165,Amasya,27,Göynücek,153,Kervansaray Köyü,47463
+166,Amasya,27,Göynücek,153,Kışlabeyi Köyü,47181
+167,Amasya,27,Göynücek,153,Konuralan Köyü,47496
+168,Amasya,27,Göynücek,153,Koyuncu Köyü,48909
+169,Amasya,27,Göynücek,153,Kuyulu Kavaklı Köyü,136511
+170,Amasya,27,Göynücek,153,Merkez,47098
+171,Amasya,27,Göynücek,153,Penpeli Köyü,157204
+172,Amasya,27,Göynücek,153,Sığırçayı Köyü,47199
+173,Amasya,27,Göynücek,153,Şarklı Köyü,47172
+174,Amasya,27,Göynücek,153,Şeyhler Köyü,48302
+175,Amasya,27,Göynücek,153,Şeyhoğlu Köyü,155865
+176,Amasya,27,Göynücek,153,Tencirli Köyü,48809
+177,Amasya,27,Göynücek,153,Terzi Köyü,153622
+178,Amasya,27,Göynücek,153,Yassıkışla Köyü,48334
+179,Amasya,27,Göynücek,153,Yeni,48289
+180,Amasya,27,Göynücek,153,Yeniköy Köyü,47136
+181,Amasya,27,Gümüşhacıköy,154,Adatepe,154889
+182,Amasya,27,Gümüşhacıköy,154,Ağcadede,205877
+183,Amasya,27,Gümüşhacıköy,154,Akpınar Köyü,156987
+184,Amasya,27,Gümüşhacıköy,154,Alören Köyü,150030
+185,Amasya,27,Gümüşhacıköy,154,Artıkabat,154975
+186,Amasya,27,Gümüşhacıköy,154,Aşağıovacık Köyü,203119
+187,Amasya,27,Gümüşhacıköy,154,Bacakoğlu Köyü,152929
+188,Amasya,27,Gümüşhacıköy,154,Bademli Köyü,153458
+189,Amasya,27,Gümüşhacıköy,154,Balıklı Köyü,150031
+190,Amasya,27,Gümüşhacıköy,154,Beden Köyü,155953
+191,Amasya,27,Gümüşhacıköy,154,Camikebir,205875
+192,Amasya,27,Gümüşhacıköy,154,Cumara,155387
+193,Amasya,27,Gümüşhacıköy,154,Çal Köyü,203118
+194,Amasya,27,Gümüşhacıköy,154,Çavuş Köyü,149845
+195,Amasya,27,Gümüşhacıköy,154,Çay,155974
+196,Amasya,27,Gümüşhacıköy,154,Çetmi Köyü,157206
+197,Amasya,27,Gümüşhacıköy,154,Çıtlıbağlıca Köyü,134062
+198,Amasya,27,Gümüşhacıköy,154,Çiftçioğlu Köyü,136676
+199,Amasya,27,Gümüşhacıköy,154,Derbentobruğu Köyü,155176
+200,Amasya,27,Gümüşhacıköy,154,Doluca Köyü,157557
+201,Amasya,27,Gümüşhacıköy,154,Dumanlı Köyü,154888
+202,Amasya,27,Gümüşhacıköy,154,Eslemez Köyü,152108
+203,Amasya,27,Gümüşhacıköy,154,Güblüce Köyü,154955
+204,Amasya,27,Gümüşhacıköy,154,Güllüce Köyü,155335
+205,Amasya,27,Gümüşhacıköy,154,Güvemözü Köyü,134551
+206,Amasya,27,Gümüşhacıköy,154,Hacıyahya,151938
+207,Amasya,27,Gümüşhacıköy,154,Irgat,205876
+208,Amasya,27,Gümüşhacıköy,154,İmirler Köyü,153017
+209,Amasya,27,Gümüşhacıköy,154,Kağnıcı Köyü,154882
+210,Amasya,27,Gümüşhacıköy,154,Karaali Köyü,153654
+211,Amasya,27,Gümüşhacıköy,154,Karacaören Köyü,153623
+212,Amasya,27,Gümüşhacıköy,154,Karakaya Köyü,152304
+213,Amasya,27,Gümüşhacıköy,154,Keçiköy Köyü,153943
+214,Amasya,27,Gümüşhacıköy,154,Kılıçaslan Köyü,152666
+215,Amasya,27,Gümüşhacıköy,154,Kırca Köyü,155748
+216,Amasya,27,Gümüşhacıköy,154,Kızık Köyü,152916
+217,Amasya,27,Gümüşhacıköy,154,Kızılca Köyü,155484
+218,Amasya,27,Gümüşhacıköy,154,Kiziroğlu Köyü,155567
+219,Amasya,27,Gümüşhacıköy,154,Koltuk Köyü,134948
+220,Amasya,27,Gümüşhacıköy,154,Konuktepe Köyü,134836
+221,Amasya,27,Gümüşhacıköy,154,Korkut Köyü,154577
+222,Amasya,27,Gümüşhacıköy,154,Köseler Köyü,153784
+223,Amasya,27,Gümüşhacıköy,154,Kutluca Köyü,155760
+224,Amasya,27,Gümüşhacıköy,154,Kuzalan Köyü,154069
+225,Amasya,27,Gümüşhacıköy,154,Ovabaşı Köyü,133770
+226,Amasya,27,Gümüşhacıköy,154,Pusacık Köyü,154706
+227,Amasya,27,Gümüşhacıköy,154,Sallar Köyü,134804
+228,Amasya,27,Gümüşhacıköy,154,Saray,134683
+229,Amasya,27,Gümüşhacıköy,154,Saraycık Köyü,135090
+230,Amasya,27,Gümüşhacıköy,154,Sarayözü Köyü,154104
+231,Amasya,27,Gümüşhacıköy,154,Sekü Köyü,134837
+232,Amasya,27,Gümüşhacıköy,154,Şıhlar,205878
+233,Amasya,27,Gümüşhacıköy,154,Tekke,205879
+234,Amasya,27,Gümüşhacıköy,154,Yazıyerı Köyü,157313
+235,Amasya,27,Gümüşhacıköy,154,Yenicami,205880
+236,Amasya,27,Gümüşhacıköy,154,Yeniköy Köyü,203117
+237,Amasya,27,Hamamözü,155,Alan Köyü,153548
+238,Amasya,27,Hamamözü,155,Arkutbey,155582
+239,Amasya,27,Hamamözü,155,Arpaderesi Köyü,157513
+240,Amasya,27,Hamamözü,155,Çayköy Köyü,47488
+241,Amasya,27,Hamamözü,155,Damladere Köyü,47248
+242,Amasya,27,Hamamözü,155,Dede Köyü,153240
+243,Amasya,27,Hamamözü,155,Göçeri Köyü,47082
+244,Amasya,27,Hamamözü,155,Göl Köyü,153488
+245,Amasya,27,Hamamözü,155,Hamamözü,47308
+246,Amasya,27,Hamamözü,155,Hamitkaplan,154510
+247,Amasya,27,Hamamözü,155,Hıdırlar Köyü,47559
+248,Amasya,27,Hamamözü,155,Kızılcaören Köyü,47551
+249,Amasya,27,Hamamözü,155,Köprübaşı,155354
+250,Amasya,27,Hamamözü,155,Mağraobruğu Köyü,155749
+251,Amasya,27,Hamamözü,155,Saray,206529
+252,Amasya,27,Hamamözü,155,Sarayözü Köyü,47036
+253,Amasya,27,Hamamözü,155,Tekçam Köyü,47142
+254,Amasya,27,Hamamözü,155,Tepe Köyü,155735
+255,Amasya,27,Hamamözü,155,Umarca Köyü,153447
+256,Amasya,27,Hamamözü,155,Yemişen Köyü,47060
+257,Amasya,27,Hamamözü,155,Yukarıovacık Köyü,47155
+258,Amasya,27,Merzifon,156,Abide Hatun,171294
+259,Amasya,27,Merzifon,156,Akören Köyü,155356
+260,Amasya,27,Merzifon,156,Akpınar Köyü,155679
+261,Amasya,27,Merzifon,156,Aksungur Köyü,153001
+262,Amasya,27,Merzifon,156,Aktarla Köyü,153802
+263,Amasya,27,Merzifon,156,Alıcık Köyü,155738
+264,Amasya,27,Merzifon,156,Alişar Köyü,153190
+265,Amasya,27,Merzifon,156,Aşağıbük Köyü,151776
+266,Amasya,27,Merzifon,156,Bağlarbaşı,203598
+267,Amasya,27,Merzifon,156,Bahçecik Köyü,151761
+268,Amasya,27,Merzifon,156,Bahçelievler,204898
+269,Amasya,27,Merzifon,156,Balgöze Köyü,151915
+270,Amasya,27,Merzifon,156,Bayat Köyü,151370
+271,Amasya,27,Merzifon,156,Bayazıt Köyü,153515
+272,Amasya,27,Merzifon,156,Buğdaylı,156139
+273,Amasya,27,Merzifon,156,Bulak Köyü,154057
+274,Amasya,27,Merzifon,156,Büyükçay Köyü,155275
+275,Amasya,27,Merzifon,156,Camicedit,158751
+276,Amasya,27,Merzifon,156,Çamlıca Köyü,134406
+277,Amasya,27,Merzifon,156,Çavundur Köyü,152902
+278,Amasya,27,Merzifon,156,Çaybaşı Köyü,155117
+279,Amasya,27,Merzifon,156,Çayır Köyü,157207
+280,Amasya,27,Merzifon,156,Çayırözü Köyü,153309
+281,Amasya,27,Merzifon,156,Çobanören Köyü,156693
+282,Amasya,27,Merzifon,156,Demirpınar Köyü,153216
+283,Amasya,27,Merzifon,156,Derealan Köyü,153560
+284,Amasya,27,Merzifon,156,Diphacı Köyü,154263
+285,Amasya,27,Merzifon,156,Elmayolu Köyü,155769
+286,Amasya,27,Merzifon,156,Esentepe Köyü,151356
+287,Amasya,27,Merzifon,156,Eskicami,155075
+288,Amasya,27,Merzifon,156,Eymir Köyü,153136
+289,Amasya,27,Merzifon,156,Gazimahbup,155238
+290,Amasya,27,Merzifon,156,Gelinsini Köyü,157208
+291,Amasya,27,Merzifon,156,Gökçebağ Köyü,158568
+292,Amasya,27,Merzifon,156,Gümüştepe Köyü,154087
+293,Amasya,27,Merzifon,156,Hacet Köyü,155288
+294,Amasya,27,Merzifon,156,Hacıbalı,153111
+295,Amasya,27,Merzifon,156,Hacıhasan,155706
+296,Amasya,27,Merzifon,156,Hacıyakup Köyü,153678
+297,Amasya,27,Merzifon,156,Han Köyü,155339
+298,Amasya,27,Merzifon,156,Harmanlar,134091
+299,Amasya,27,Merzifon,156,Hayrettin Köyü,155488
+300,Amasya,27,Merzifon,156,Hırka Köyü,153597
+301,Amasya,27,Merzifon,156,Hocasüleyman,154916
+302,Amasya,27,Merzifon,156,İnalan Köyü,153679
+303,Amasya,27,Merzifon,156,Kamışlı Köyü,155944
+304,Amasya,27,Merzifon,156,Karacakaya Köyü,156869
+305,Amasya,27,Merzifon,156,Karamağara Köyü,158778
+306,Amasya,27,Merzifon,156,Karamustafapaşa Köyü,153215
+307,Amasya,27,Merzifon,156,Karatepe Köyü,153045
+308,Amasya,27,Merzifon,156,Karşıyaka Köyü,155885
+309,Amasya,27,Merzifon,156,Kayadüzü Köyü,156338
+310,Amasya,27,Merzifon,156,Kıreymir Köyü,149837
+311,Amasya,27,Merzifon,156,Kızıleğrek Köyü,155459
+312,Amasya,27,Merzifon,156,Koç Köyü,154958
+313,Amasya,27,Merzifon,156,Kuyu Köyü,135219
+314,Amasya,27,Merzifon,156,Küçükçay Köyü,155098
+315,Amasya,27,Merzifon,156,Kümbethatun,205167
+316,Amasya,27,Merzifon,156,Mahmutlu Köyü,155688
+317,Amasya,27,Merzifon,156,Mahzen,156326
+318,Amasya,27,Merzifon,156,Mehmetakifersoy,157523
+319,Amasya,27,Merzifon,156,Muşruf Köyü,205482
+320,Amasya,27,Merzifon,156,Naccar,155315
+321,Amasya,27,Merzifon,156,Nusratiye,153539
+322,Amasya,27,Merzifon,156,Ortabük Köyü,156492
+323,Amasya,27,Merzifon,156,Ortaova Köyü,155304
+324,Amasya,27,Merzifon,156,Osmanoğlu Köyü,156891
+325,Amasya,27,Merzifon,156,Oymaağaç Köyü,157433
+326,Amasya,27,Merzifon,156,Oymak Köyü,154940
+327,Amasya,27,Merzifon,156,Pekmezci Köyü,158938
+328,Amasya,27,Merzifon,156,Saraycık Köyü,156325
+329,Amasya,27,Merzifon,156,Sarıbuğday Köyü,151916
+330,Amasya,27,Merzifon,156,Sarıköy Köyü,155131
+331,Amasya,27,Merzifon,156,Sazlıca Köyü,158939
+332,Amasya,27,Merzifon,156,Selimiye Köyü,153655
+333,Amasya,27,Merzifon,156,Sofular,158991
+334,Amasya,27,Merzifon,156,Şeyhyeni Köyü,135092
+335,Amasya,27,Merzifon,156,Tavşan,157543
+336,Amasya,27,Merzifon,156,Türkoğlu Köyü,207121
+337,Amasya,27,Merzifon,156,Uzunyazı Köyü,153609
+338,Amasya,27,Merzifon,156,Yakup Köyü,158387
+339,Amasya,27,Merzifon,156,Yalnız Köyü,156339
+340,Amasya,27,Merzifon,156,Yaylacık Köyü,152934
+341,Amasya,27,Merzifon,156,Yenice Köyü,153046
+342,Amasya,27,Merzifon,156,Yenimahalle,171293
+343,Amasya,27,Merzifon,156,Yeşilören Köyü,155505
+344,Amasya,27,Merzifon,156,Yeşiltepe Köyü,153516
+345,Amasya,27,Merzifon,156,Yolüstü Köyü,156532
+346,Amasya,27,Merzifon,156,Yukarıbük Köyü,159128
+347,Amasya,27,Merzifon,156,Yunus Emre,180682
+348,Amasya,27,Suluova,157,Akören Köyü,133937
+349,Amasya,27,Suluova,157,Alabedir Köyü,153149
+350,Amasya,27,Suluova,157,Armutlu Köyü,203121
+351,Amasya,27,Suluova,157,Arucak Köyü,156695
+352,Amasya,27,Suluova,157,Aşağı Karasu Köyü,153307
+353,Amasya,27,Suluova,157,Ata,154597
+354,Amasya,27,Suluova,157,Ayrancı Köyü,134697
+355,Amasya,27,Suluova,157,Bayırlı Köyü,154724
+356,Amasya,27,Suluova,157,Beyazıt,155005
+357,Amasya,27,Suluova,157,Bireylül,154631
+358,Amasya,27,Suluova,157,Borsa,157073
+359,Amasya,27,Suluova,157,Borsa 1 A,134698
+360,Amasya,27,Suluova,157,Boyalı Köyü,134414
+361,Amasya,27,Suluova,157,Cevizdibi,156602
+362,Amasya,27,Suluova,157,Cumhuriyet,157909
+363,Amasya,27,Suluova,157,Cürlü Köyü,157463
+364,Amasya,27,Suluova,157,Çayüstü Köyü,152111
+365,Amasya,27,Suluova,157,Çukurören Köyü,156013
+366,Amasya,27,Suluova,157,Derebaşalan Köyü,157371
+367,Amasya,27,Suluova,157,Dereköy Köyü,153789
+368,Amasya,27,Suluova,157,Deveci Köyü,156329
+369,Amasya,27,Suluova,157,Eğribük Köyü,153948
+370,Amasya,27,Suluova,157,Eraslan Köyü,160559
+371,Amasya,27,Suluova,157,Eski Çeltek,154099
+372,Amasya,27,Suluova,157,Eymir,158587
+373,Amasya,27,Suluova,157,Feruz (Ortayazı) Köyü,157476
+374,Amasya,27,Suluova,157,Girne,155669
+375,Amasya,27,Suluova,157,Girne 1-A,160145
+376,Amasya,27,Suluova,157,Hacı Bayram,158951
+377,Amasya,27,Suluova,157,Hacıhayta,158557
+378,Amasya,27,Suluova,157,Hakala (Yolpınar) Köyü,156740
+379,Amasya,27,Suluova,157,Harmanağılı Köyü,158010
+380,Amasya,27,Suluova,157,Hürriyet,154436
+381,Amasya,27,Suluova,157,Kanatpınar Köyü,155317
+382,Amasya,27,Suluova,157,Kapancı Köyü,153790
+383,Amasya,27,Suluova,157,Karaağaç Köyü,153949
+384,Amasya,27,Suluova,157,Kazanlı Köyü,134063
+385,Amasya,27,Suluova,157,Kerimoğlu Köyü,158375
+386,Amasya,27,Suluova,157,Kıranbaşalan Köyü,156014
+387,Amasya,27,Suluova,157,Kolay Köyü,156753
+388,Amasya,27,Suluova,157,Kulu Köyü,153047
+389,Amasya,27,Suluova,157,Kurnaz Köyü,156768
+390,Amasya,27,Suluova,157,Kuzalan Köyü,158763
+391,Amasya,27,Suluova,157,Küpeli Köyü,158764
+392,Amasya,27,Suluova,157,Maarif,203120
+393,Amasya,27,Suluova,157,Magosa,152950
+394,Amasya,27,Suluova,157,Oğulbağı Köyü,153862
+395,Amasya,27,Suluova,157,Orta,158078
+396,Amasya,27,Suluova,157,Özalakadı Köyü,154596
+397,Amasya,27,Suluova,157,Pazar,158109
+398,Amasya,27,Suluova,157,Salucu Köyü,158873
+399,Amasya,27,Suluova,157,Saraydüzü,205803
+400,Amasya,27,Suluova,157,Saygılı Köyü,158093
+401,Amasya,27,Suluova,157,Seyfe Köyü,154595
+402,Amasya,27,Suluova,157,Sinezi Köyü,153863
+403,Amasya,27,Suluova,157,Soku Köyü,135094
+404,Amasya,27,Suluova,157,Şeker,158856
+405,Amasya,27,Suluova,157,Uzunoba Köyü,157046
+406,Amasya,27,Suluova,157,Yeni,156185
+407,Amasya,27,Suluova,157,Yenidoğan,156410
+408,Amasya,27,Suluova,157,Yüzbeyi Köyü,154803
+409,Amasya,27,Taşova,158,Alçakbel Köyü,48244
+410,Amasya,27,Taşova,158,Alpaslan Köyü,47218
+411,Amasya,27,Taşova,158,Altınlı Köyü,47290
+412,Amasya,27,Taşova,158,Andıran Köyü,48274
+413,Amasya,27,Taşova,158,Ardıçönü Köyü,47494
+414,Amasya,27,Taşova,158,Arpaderesi Köyü,47444
+415,Amasya,27,Taşova,158,Ballıca Köyü,47173
+416,Amasya,27,Taşova,158,Belevi Köyü,47078
+417,Amasya,27,Taşova,158,Boraboy Köyü,205318
+418,Amasya,27,Taşova,158,Çakırsu Köyü,47473
+419,Amasya,27,Taşova,158,Çalkaya Köyü,47423
+420,Amasya,27,Taşova,158,Çambükü Köyü,48400
+421,Amasya,27,Taşova,158,Çaydibi Köyü,47402
+422,Amasya,27,Taşova,158,Çılkıdır Köyü,48612
+423,Amasya,27,Taşova,158,Dereköy Köyü,47220
+424,Amasya,27,Taşova,158,Dereli Köyü,47264
+425,Amasya,27,Taşova,158,Destek Köyü,47140
+426,Amasya,27,Taşova,158,Devre Köyü,48332
+427,Amasya,27,Taşova,158,Doğu,47145
+428,Amasya,27,Taşova,158,Dörtyol Köyü,48374
+429,Amasya,27,Taşova,158,Durucasu Köyü,48246
+430,Amasya,27,Taşova,158,Elmakırı Köyü,47512
+431,Amasya,27,Taşova,158,Esençay Köyü,47070
+432,Amasya,27,Taşova,158,Gemibükü Köyü,47058
+433,Amasya,27,Taşova,158,Geydoğan Köyü,47244
+434,Amasya,27,Taşova,158,Gökpınar Köyü,48243
+435,Amasya,27,Taşova,158,Güngörmüş Köyü,48141
+436,Amasya,27,Taşova,158,Gürsu Köyü,47441
+437,Amasya,27,Taşova,158,Güvendik Köyü,47538
+438,Amasya,27,Taşova,158,Hacıbey Köyü,136679
+439,Amasya,27,Taşova,158,Hüsnüoğlu Köyü,47436
+440,Amasya,27,Taşova,158,Ilıca Köyü,155134
+441,Amasya,27,Taşova,158,Ilıpınar Köyü,47508
+442,Amasya,27,Taşova,158,Karabük Köyü,47277
+443,Amasya,27,Taşova,158,Karamuk Köyü,156437
+444,Amasya,27,Taşova,158,Karlık Köyü,47352
+445,Amasya,27,Taşova,158,Karsavul Köyü,47475
+446,Amasya,27,Taşova,158,Kavaloluğu Köyü,47184
+447,Amasya,27,Taşova,158,Kırkharman Köyü,156227
+448,Amasya,27,Taşova,158,Kızgüldüren Köyü,47448
+449,Amasya,27,Taşova,158,Korubaşı Köyü,47505
+450,Amasya,27,Taşova,158,Kozluca Köyü,47085
+451,Amasya,27,Taşova,158,Kumluca Köyü,47237
+452,Amasya,27,Taşova,158,Mercimek Köyü,157247
+453,Amasya,27,Taşova,158,Mülkbükü Köyü,47316
+454,Amasya,27,Taşova,158,Özbaraklı Köyü,48143
+455,Amasya,27,Taşova,158,Sanayi,48103
+456,Amasya,27,Taşova,158,Sepetli Köyü,47262
+457,Amasya,27,Taşova,158,Sofualan Köyü,203122
+458,Amasya,27,Taşova,158,Şahinler Köyü,47073
+459,Amasya,27,Taşova,158,Şeyhli Köyü,47059
+460,Amasya,27,Taşova,158,Tatlıpınar Köyü,47280
+461,Amasya,27,Taşova,158,Tekke Köyü,153848
+462,Amasya,27,Taşova,158,Tekpınar Köyü,48100
+463,Amasya,27,Taşova,158,Tepe,47190
+464,Amasya,27,Taşova,158,Tutluk Köyü,156438
+465,Amasya,27,Taşova,158,Türkmendamı Köyü,48130
+466,Amasya,27,Taşova,158,Uluköy Köyü,48370
+467,Amasya,27,Taşova,158,Yayladibi Köyü,47113
+468,Amasya,27,Taşova,158,Yaylasaray Köyü,47063
+469,Amasya,27,Taşova,158,Yemişen,47210
+470,Amasya,27,Taşova,158,Yeni,47319
+471,Amasya,27,Taşova,158,Yenidere Köyü,47417
+472,Amasya,27,Taşova,158,Yerkozlu Köyü,158402
+473,Amasya,27,Taşova,158,Yeşılırmak,48281
+474,Amasya,27,Taşova,158,Yeşiltepe Köyü,47531
+475,Amasya,27,Taşova,158,Yeşilyurt Köyü,48124
+476,Amasya,27,Taşova,158,Yolaçan Köyü,48123
+477,Amasya,27,Taşova,158,Yukarıbaraklı Köyü,158976
+478,Çorum,41,Alaca,326,Akçaköy Köyü,163243
+479,Çorum,41,Alaca,326,Akçiçek Köyü,205412
+480,Çorum,41,Alaca,326,Akören Köyü,158045
+481,Çorum,41,Alaca,326,Akpınar Köyü,161720
+482,Çorum,41,Alaca,326,Altıntaş Köyü,158172
+483,Çorum,41,Alaca,326,Avutmuş Köyü,161504
+484,Çorum,41,Alaca,326,Ayhan,158227
+485,Çorum,41,Alaca,326,Bahçeli Köyü,205400
+486,Çorum,41,Alaca,326,Balçıkhisar Köyü,162124
+487,Çorum,41,Alaca,326,Belpınar Köyü,163484
+488,Çorum,41,Alaca,326,Beşiktepe Köyü,160589
+489,Çorum,41,Alaca,326,Bolatçık Köyü,161255
+490,Çorum,41,Alaca,326,Bozdoğan Köyü,156834
+491,Çorum,41,Alaca,326,Büyükcamili Köyü,160467
+492,Çorum,41,Alaca,326,Büyükdona Köyü,159731
+493,Çorum,41,Alaca,326,Büyükhırka Köyü,161104
+494,Çorum,41,Alaca,326,Büyükkeşlik Köyü,160131
+495,Çorum,41,Alaca,326,Büyüksöğütözü Köyü,157831
+496,Çorum,41,Alaca,326,Cengizhan,158931
+497,Çorum,41,Alaca,326,Cumhuriyet,163265
+498,Çorum,41,Alaca,326,Çal Köyü,161636
+499,Çorum,41,Alaca,326,Çatak Köyü,159980
+500,Çorum,41,Alaca,326,Çatalbaş Köyü,161344
+501,Çorum,41,Alaca,326,Çatalkaya Köyü,156000
+502,Çorum,41,Alaca,326,Çelebibağ Köyü,163000
+503,Çorum,41,Alaca,326,Çetederesi Köyü,159446
+504,Çorum,41,Alaca,326,Çevreli Köyü,161539
+505,Çorum,41,Alaca,326,Çırçır Köyü,156665
+506,Çorum,41,Alaca,326,Çikhasan Köyü,159968
+507,Çorum,41,Alaca,326,Çomar(Yeşilyurt) Köyü,156666
+508,Çorum,41,Alaca,326,Çopraşık Köyü,161334
+509,Çorum,41,Alaca,326,Çöplü Köyü,159952
+510,Çorum,41,Alaca,326,Dedepınar Köyü,161245
+511,Çorum,41,Alaca,326,Değirmendere Köyü,158634
+512,Çorum,41,Alaca,326,Değirmenönü Köyü,161890
+513,Çorum,41,Alaca,326,Denizhan,160433
+514,Çorum,41,Alaca,326,Dereyazıcı Köyü,157211
+515,Çorum,41,Alaca,326,Dölderesi Köyü,156083
+516,Çorum,41,Alaca,326,Eskiyapar Köyü,158330
+517,Çorum,41,Alaca,326,Evci Köyü,156091
+518,Çorum,41,Alaca,326,Fakılar Köyü,161908
+519,Çorum,41,Alaca,326,Gazipaşa Köyü,159641
+520,Çorum,41,Alaca,326,Gerdekkaya Köyü,156688
+521,Çorum,41,Alaca,326,Geven Köyü,161345
+522,Çorum,41,Alaca,326,Gökören Köyü,161731
+523,Çorum,41,Alaca,326,Güllük Köyü,205401
+524,Çorum,41,Alaca,326,Günhan,160539
+525,Çorum,41,Alaca,326,Harhar Köyü,163485
+526,Çorum,41,Alaca,326,Haydar Köyü,161505
+527,Çorum,41,Alaca,326,Hışır(Boğaziçi) Köyü,157856
+528,Çorum,41,Alaca,326,Hüyük Köyü,163336
+529,Çorum,41,Alaca,326,İbrahim Köyü,156104
+530,Çorum,41,Alaca,326,İmat Köyü,159374
+531,Çorum,41,Alaca,326,İsahacı Köyü,159936
+532,Çorum,41,Alaca,326,İsmailli Köyü,161594
+533,Çorum,41,Alaca,326,Kalecikkaya Köyü,159253
+534,Çorum,41,Alaca,326,Kalınkaya Köyü,157219
+535,Çorum,41,Alaca,326,Kapaklı Köyü,159550
+536,Çorum,41,Alaca,326,Karaçal Köyü,157761
+537,Çorum,41,Alaca,326,Karamahmut Köyü,159715
+538,Çorum,41,Alaca,326,Karatepe Köyü,162852
+539,Çorum,41,Alaca,326,Kargın Köyü,163166
+540,Çorum,41,Alaca,326,Karnıkara Köyü,158421
+541,Çorum,41,Alaca,326,Kayabüğet Köyü,156105
+542,Çorum,41,Alaca,326,Kıcık(Yüksekyayla) Köyü,160232
+543,Çorum,41,Alaca,326,Kıcılı Köyü,163264
+544,Çorum,41,Alaca,326,Kılavuz Köyü,160895
+545,Çorum,41,Alaca,326,Kızıllı Köyü,161603
+546,Çorum,41,Alaca,326,Kızılyar Köyü,156667
+547,Çorum,41,Alaca,326,Kızkaraca Köyü,160054
+548,Çorum,41,Alaca,326,Killik Köyü,161891
+549,Çorum,41,Alaca,326,Koçhisar Köyü,162078
+550,Çorum,41,Alaca,326,Koyunoğlu Köyü,159981
+551,Çorum,41,Alaca,326,Körpınar Köyü,161621
+552,Çorum,41,Alaca,326,Kuyluş Köyü,156303
+553,Çorum,41,Alaca,326,Kuyumcusaray Köyü,159743
+554,Çorum,41,Alaca,326,Kuzkışla Köyü,160866
+555,Çorum,41,Alaca,326,Küçükcamili Köyü,162239
+556,Çorum,41,Alaca,326,Küçükdona Köyü,156668
+557,Çorum,41,Alaca,326,Küçükhırka Köyü,159461
+558,Çorum,41,Alaca,326,Küçükkeşlik Köyü,156196
+559,Çorum,41,Alaca,326,Külah Köyü,160359
+560,Çorum,41,Alaca,326,Küre Köyü,163505
+561,Çorum,41,Alaca,326,Kürkçü Köyü,159953
+562,Çorum,41,Alaca,326,Mahmudiye Köyü,162091
+563,Çorum,41,Alaca,326,Mazıbaşı Köyü,157212
+564,Çorum,41,Alaca,326,Miyanesultan Köyü,159121
+565,Çorum,41,Alaca,326,Onbaşılar Köyü,205711
+566,Çorum,41,Alaca,326,Örükaya Köyü,160648
+567,Çorum,41,Alaca,326,Özhan,156304
+568,Çorum,41,Alaca,326,Perçem Köyü,160910
+569,Çorum,41,Alaca,326,Sancı Köyü,157007
+570,Çorum,41,Alaca,326,Sarısüleyman Köyü,157008
+571,Çorum,41,Alaca,326,Seyitnizam Köyü,159774
+572,Çorum,41,Alaca,326,Sincan Köyü,160038
+573,Çorum,41,Alaca,326,Soğucak Köyü,159334
+574,Çorum,41,Alaca,326,Sultan Köyü,161011
+575,Çorum,41,Alaca,326,Suludere Köyü,159276
+576,Çorum,41,Alaca,326,Tahirabat Köyü,158835
+577,Çorum,41,Alaca,326,Tevfikiye Köyü,156092
+578,Çorum,41,Alaca,326,Tutaş Köyü,160094
+579,Çorum,41,Alaca,326,Tutluca Köyü,156093
+580,Çorum,41,Alaca,326,Ünalan Köyü,159335
+581,Çorum,41,Alaca,326,Velet(Eren) Köyü,159403
+582,Çorum,41,Alaca,326,Yatankavak Köyü,161795
+583,Çorum,41,Alaca,326,Yenice Köyü,161148
+584,Çorum,41,Alaca,326,Yeniköy Köyü,159982
+585,Çorum,41,Alaca,326,Yıldızhan,159992
+586,Çorum,41,Bayat,327,A.Emirhalil Köyü,160223
+587,Çorum,41,Bayat,327,Ahacık Köyü,163001
+588,Çorum,41,Bayat,327,Akseki Köyü,161540
+589,Çorum,41,Bayat,327,Ayvalıca Köyü,158245
+590,Çorum,41,Bayat,327,Barak Köyü,157009
+591,Çorum,41,Bayat,327,Bayan Köyü,161277
+592,Çorum,41,Bayat,327,Belören Köyü,160666
+593,Çorum,41,Bayat,327,Beydili Köyü,158622
+594,Çorum,41,Bayat,327,Cevizli Köyü,160679
+595,Çorum,41,Bayat,327,Çamlıgüney Köyü,157618
+596,Çorum,41,Bayat,327,Çayköy Köyü,161335
+597,Çorum,41,Bayat,327,Çerkeş Köyü,159505
+598,Çorum,41,Bayat,327,Çukuröz Köyü,159336
+599,Çorum,41,Bayat,327,Demirciler Köyü,159823
+600,Çorum,41,Bayat,327,Derekutuğun Köyü,159809
+601,Çorum,41,Bayat,327,Deremahalle,169948
+602,Çorum,41,Bayat,327,Dorukseki Köyü,158910
+603,Çorum,41,Bayat,327,Emirşah Köyü,169952
+604,Çorum,41,Bayat,327,Eskialibey Beld. Köyü,159433
+605,Çorum,41,Bayat,327,Evcimüstecep Köyü,158331
+606,Çorum,41,Bayat,327,Hacıbayram Köyü,161604
+607,Çorum,41,Bayat,327,İleği Köyü,156474
+608,Çorum,41,Bayat,327,İshaklı Köyü,161696
+609,Çorum,41,Bayat,327,Kalınpelit Köyü,161555
+610,Çorum,41,Bayat,327,Karakaya Köyü,161595
+611,Çorum,41,Bayat,327,Kayabaşı,159122
+612,Çorum,41,Bayat,327,Köpüklü Köyü,158422
+613,Çorum,41,Bayat,327,Kubbedin Köyü,161909
+614,Çorum,41,Bayat,327,Kunduzlu (Yenimahalle) Köyü,159360
+615,Çorum,41,Bayat,327,Kunduzlu-Fatih Köyü,169949
+616,Çorum,41,Bayat,327,Kunduzlu-Kozdere Köyü,169951
+617,Çorum,41,Bayat,327,Kunduzlu-Yazlık Köyü,169950
+618,Çorum,41,Bayat,327,Kuruçay Köyü,162125
+619,Çorum,41,Bayat,327,Lapa Köyü,207824
+620,Çorum,41,Bayat,327,Pancarlık Köyü,159810
+621,Çorum,41,Bayat,327,Sağpazar Köyü,162853
+622,Çorum,41,Bayat,327,Saray Köyü,161541
+623,Çorum,41,Bayat,327,Tepebayat,159937
+624,Çorum,41,Bayat,327,Tepekutuğun Köyü,161445
+625,Çorum,41,Bayat,327,Tevekli Köyü,163346
+626,Çorum,41,Bayat,327,Toyhane Köyü,161542
+627,Çorum,41,Bayat,327,Y.Emirhalil Köyü,159625
+628,Çorum,41,Bayat,327,Yatukçu,159123
+629,Çorum,41,Bayat,327,Yeniköy Köyü,207825
+630,Çorum,41,Bayat,327,Yenimahalle,159266
+631,Çorum,41,Bayat,327,Yenişıhlar Köyü,162079
+632,Çorum,41,Bayat,327,Yeşilçat Köyü,159243
+633,Çorum,41,Bayat,327,Yoncalı Köyü,159414
+634,Çorum,41,Boğazkale,328,Boğazkale Merkez Köyü,162185
+635,Çorum,41,Boğazkale,328,Çarşıcuma Köyü,36048
+636,Çorum,41,Boğazkale,328,Emirler Köyü,37321
+637,Çorum,41,Boğazkale,328,Evci Köyü,36267
+638,Çorum,41,Boğazkale,328,Gölpınarlar Köyü,160446
+639,Çorum,41,Boğazkale,328,Kadılı Köyü,37170
+640,Çorum,41,Boğazkale,328,Karakeçili Köyü,36907
+641,Çorum,41,Boğazkale,328,Kaymaz Köyü,37534
+642,Çorum,41,Boğazkale,328,Örenkaya Köyü,36034
+643,Çorum,41,Boğazkale,328,Sarıçiçek Köyü,35749
+644,Çorum,41,Boğazkale,328,Yanıcak Köyü,36087
+645,Çorum,41,Boğazkale,328,Yazır Köyü,37359
+646,Çorum,41,Boğazkale,328,Yekbas,156858
+647,Çorum,41,Boğazkale,328,Yenikadılı Köyü,35993
+648,Çorum,41,Boğazkale,328,Yukarıfındıklı Köyü,36818
+649,Çorum,41,Merkez,329,Abdalata Köyü,124216
+650,Çorum,41,Merkez,329,Acıpınar Köyü,124229
+651,Çorum,41,Merkez,329,Ahilyas Köyü,124217
+652,Çorum,41,Merkez,329,Ahmediye Köyü,124218
+653,Çorum,41,Merkez,329,Ahmetoğlan Köyü,124220
+654,Çorum,41,Merkez,329,Akçakaya Köyü,124221
+655,Çorum,41,Merkez,329,Aksungur Köyü,124225
+656,Çorum,41,Merkez,329,Akyazı Köyü,124226
+657,Çorum,41,Merkez,329,Alpagut Köyü,124228
+658,Çorum,41,Merkez,329,Altınbaş Köyü,124219
+659,Çorum,41,Merkez,329,Arpalık Köyü,124227
+660,Çorum,41,Merkez,329,Arslanköy Köyü,124392
+661,Çorum,41,Merkez,329,Aşağısaraylı Köyü,204651
+662,Çorum,41,Merkez,329,Atçalı Köyü,124222
+663,Çorum,41,Merkez,329,Ayarık,124414
+664,Çorum,41,Merkez,329,Ayaz Köyü,124223
+665,Çorum,41,Merkez,329,Ayvalı Köyü,124224
+666,Çorum,41,Merkez,329,Babaoğlu Köyü,124250
+667,Çorum,41,Merkez,329,Bahçelievler,124418
+668,Çorum,41,Merkez,329,Balımsultan Köyü,124264
+669,Çorum,41,Merkez,329,Balıyakup Köyü,124251
+670,Çorum,41,Merkez,329,Bayat Köyü,124249
+671,Çorum,41,Merkez,329,Bektaşoğlu Köyü,124266
+672,Çorum,41,Merkez,329,Beydili Köyü,124252
+673,Çorum,41,Merkez,329,Boğabağı Köyü,124253
+674,Çorum,41,Merkez,329,Boğacık Köyü,124254
+675,Çorum,41,Merkez,329,Boğazönü Köyü,124263
+676,Çorum,41,Merkez,329,Bozboğa Köyü,124255
+677,Çorum,41,Merkez,329,Budakören Köyü,124262
+678,Çorum,41,Merkez,329,Buğdüz Köyü,124257
+679,Çorum,41,Merkez,329,Burun Köyü,124256
+680,Çorum,41,Merkez,329,Büğet Köyü,124261
+681,Çorum,41,Merkez,329,Büğrüoğlu Köyü,124260
+682,Çorum,41,Merkez,329,Büyükdivan Köyü,124258
+683,Çorum,41,Merkez,329,Büyükdüvenci/Ataköy,205695
+684,Çorum,41,Merkez,329,Büyükdüvenci/Fatihsultan,204491
+685,Çorum,41,Merkez,329,Büyükdüvenci/Mimarsinan,204493
+686,Çorum,41,Merkez,329,Büyükdüvenci/Yunusemre,204492
+687,Çorum,41,Merkez,329,Büyükgülücek Köyü,124265
+688,Çorum,41,Merkez,329,Celilkırı Köyü,124241
+689,Çorum,41,Merkez,329,Cemilbey Köyü,124242
+690,Çorum,41,Merkez,329,Cerit Köyü,124240
+691,Çorum,41,Merkez,329,Çağşak Köyü,125323
+692,Çorum,41,Merkez,329,Çakır Köyü,124239
+693,Çorum,41,Merkez,329,Çalıca Köyü,124230
+694,Çorum,41,Merkez,329,Çalkışla Köyü,124231
+695,Çorum,41,Merkez,329,Çaltıcak Köyü,124396
+696,Çorum,41,Merkez,329,Çalyayla Köyü,124387
+697,Çorum,41,Merkez,329,Çanakçı Köyü,124236
+698,Çorum,41,Merkez,329,Çatak Köyü,124235
+699,Çorum,41,Merkez,329,Çayhatap Köyü,124232
+700,Çorum,41,Merkez,329,Çepni,124413
+701,Çorum,41,Merkez,329,Çeşmeören Köyü,124233
+702,Çorum,41,Merkez,329,Çıkrık Köyü,124238
+703,Çorum,41,Merkez,329,Çobandivan Köyü,124234
+704,Çorum,41,Merkez,329,Çomar,124405
+705,Çorum,41,Merkez,329,Çomarbaşı Köyü,169622
+706,Çorum,41,Merkez,329,Çoraklık,124412
+707,Çorum,41,Merkez,329,Çöplü,124411
+708,Çorum,41,Merkez,329,Çukurören Köyü,124237
+709,Çorum,41,Merkez,329,Dağkarapınar Köyü,124244
+710,Çorum,41,Merkez,329,Değirmendere Köyü,128268
+711,Çorum,41,Merkez,329,Delibekiroğlu Köyü,124402
+712,Çorum,41,Merkez,329,Deliler Köyü,124246
+713,Çorum,41,Merkez,329,Deniz Köyü,169012
+714,Çorum,41,Merkez,329,Dereköy Köyü,124245
+715,Çorum,41,Merkez,329,Dut Köyü,124243
+716,Çorum,41,Merkez,329,Dutçakallı Köyü,124247
+717,Çorum,41,Merkez,329,Düdüklük Köyü,124248
+718,Çorum,41,Merkez,329,Eğerci Köyü,124267
+719,Çorum,41,Merkez,329,Elicek Köyü,124278
+720,Çorum,41,Merkez,329,Elköy Köyü,124277
+721,Çorum,41,Merkez,329,Elmalı Köyü,124275
+722,Çorum,41,Merkez,329,Erdek Köyü,124268
+723,Çorum,41,Merkez,329,Ertuğrul Köyü,124269
+724,Çorum,41,Merkez,329,Eskice Köyü,124270
+725,Çorum,41,Merkez,329,Eskiekin Köyü,124271
+726,Çorum,41,Merkez,329,Eskikaradona Köyü,124977
+727,Çorum,41,Merkez,329,Eskiköy Köyü,124273
+728,Çorum,41,Merkez,329,Eskiören Köyü,124274
+729,Çorum,41,Merkez,329,Eşençay Köyü,124280
+730,Çorum,41,Merkez,329,Evcikuzkışla Köyü,124276
+731,Çorum,41,Merkez,329,Evciortakışla Köyü,124279
+732,Çorum,41,Merkez,329,Evciyenikışla Köyü,124922
+733,Çorum,41,Merkez,329,Eymir Köyü,124272
+734,Çorum,41,Merkez,329,Feruz Köyü,124281
+735,Çorum,41,Merkez,329,Gemet Köyü,124400
+736,Çorum,41,Merkez,329,Göcenovacağı Köyü,124288
+737,Çorum,41,Merkez,329,Gökçepınar Köyü,124285
+738,Çorum,41,Merkez,329,Gökdere Köyü,124284
+739,Çorum,41,Merkez,329,Gökköy Köyü,124286
+740,Çorum,41,Merkez,329,Gülabibey,124419
+741,Çorum,41,Merkez,329,Güney Köyü,124283
+742,Çorum,41,Merkez,329,Güveçli Köyü,124282
+743,Çorum,41,Merkez,329,Güvenli Köyü,124287
+744,Çorum,41,Merkez,329,Güzelyurt Köyü,124393
+745,Çorum,41,Merkez,329,Hacıahmetderesi Köyü,124398
+746,Çorum,41,Merkez,329,Hacıbey Köyü,124294
+747,Çorum,41,Merkez,329,Hacıkerim,124403
+748,Çorum,41,Merkez,329,Hacımusa Köyü,124295
+749,Çorum,41,Merkez,329,Hacıpaşa Köyü,124291
+750,Çorum,41,Merkez,329,Hamamlıçay Köyü,124296
+751,Çorum,41,Merkez,329,Hamdi Köyü,124292
+752,Çorum,41,Merkez,329,Hankozlusu Köyü,124298
+753,Çorum,41,Merkez,329,Harmancık Köyü,124293
+754,Çorum,41,Merkez,329,Hımıroğlu Köyü,124297
+755,Çorum,41,Merkez,329,Hızırdede Köyü,10050
+756,Çorum,41,Merkez,329,İbrahimçayırı,124415
+757,Çorum,41,Merkez,329,İğdeli Köyü,169013
+758,Çorum,41,Merkez,329,İkipınar,124289
+759,Çorum,41,Merkez,329,İlice,124406
+760,Çorum,41,Merkez,329,İnalözü Köyü,169014
+761,Çorum,41,Merkez,329,İsmailköy Köyü,124290
+762,Çorum,41,Merkez,329,Kadıderesi Köyü,124324
+763,Çorum,41,Merkez,329,Kadıkırı Köyü,124299
+764,Çorum,41,Merkez,329,Kalehisar Köyü,124328
+765,Çorum,41,Merkez,329,Karaağaç Köyü,124306
+766,Çorum,41,Merkez,329,Karabayır Köyü,124301
+767,Çorum,41,Merkez,329,Karabürçek Köyü,124300
+768,Çorum,41,Merkez,329,Karaca Köyü,124302
+769,Çorum,41,Merkez,329,Karacaören Köyü,124303
+770,Çorum,41,Merkez,329,Karadona Köyü,130144
+771,Çorum,41,Merkez,329,Karagöz Köyü,124323
+772,Çorum,41,Merkez,329,Karahisar Köyü,124304
+773,Çorum,41,Merkez,329,Karakeçili,124410
+774,Çorum,41,Merkez,329,Karakeçili Köyü,169020
+775,Çorum,41,Merkez,329,Kavacık Köyü,124308
+776,Çorum,41,Merkez,329,Kayı Köyü,124305
+777,Çorum,41,Merkez,329,Kazıklıkaya Köyü,124307
+778,Çorum,41,Merkez,329,Kertme Köyü,124321
+779,Çorum,41,Merkez,329,Kılıçören Köyü,124309
+780,Çorum,41,Merkez,329,Kınık Köyü,124313
+781,Çorum,41,Merkez,329,Kınıkdeliler Köyü,124310
+782,Çorum,41,Merkez,329,Kırkdilim Köyü,124311
+783,Çorum,41,Merkez,329,Kışladeresi Köyü,124312
+784,Çorum,41,Merkez,329,Kızılpınar Köyü,124391
+785,Çorum,41,Merkez,329,Kiranlık Köyü,124326
+786,Çorum,41,Merkez,329,Kirazlıpınar Köyü,124322
+787,Çorum,41,Merkez,329,Kireçocağı Köyü,124329
+788,Çorum,41,Merkez,329,Konaklı Köyü,124314
+789,Çorum,41,Merkez,329,Koparan Köyü,124383
+790,Çorum,41,Merkez,329,Kozluca Köyü,124325
+791,Çorum,41,Merkez,329,Köprüalan Köyü,124315
+792,Çorum,41,Merkez,329,Kultak Köyü,124394
+793,Çorum,41,Merkez,329,Kumçelteği Köyü,124318
+794,Çorum,41,Merkez,329,Kunduzhan,124408
+795,Çorum,41,Merkez,329,Kuruçay Köyü,124316
+796,Çorum,41,Merkez,329,Kuşsaray Köyü,124317
+797,Çorum,41,Merkez,329,Kutluca Köyü,124319
+798,Çorum,41,Merkez,329,Küçükdüvenci Köyü,124320
+799,Çorum,41,Merkez,329,Küçükgülücek Köyü,124327
+800,Çorum,41,Merkez,329,Küçükpalabıyık Köyü,124330
+801,Çorum,41,Merkez,329,Laloğlu Köyü,130143
+802,Çorum,41,Merkez,329,Mecidiyekavak Köyü,124334
+803,Çorum,41,Merkez,329,Mislerovacığı Köyü,124401
+804,Çorum,41,Merkez,329,Mollahasan Köyü,124332
+805,Çorum,41,Merkez,329,Morsümbül Köyü,124331
+806,Çorum,41,Merkez,329,Mustafaçelebi Köyü,124333
+807,Çorum,41,Merkez,329,Mühürler Köyü,124388
+808,Çorum,41,Merkez,329,Narlık Köyü,124335
+809,Çorum,41,Merkez,329,Osmaniye Köyü,124336
+810,Çorum,41,Merkez,329,Ovakarapınar Köyü,124338
+811,Çorum,41,Merkez,329,Oymaağaç Köyü,124337
+812,Çorum,41,Merkez,329,Öksüzler Köyü,124395
+813,Çorum,41,Merkez,329,Ömerbey Köyü,124390
+814,Çorum,41,Merkez,329,Örencik Köyü,124339
+815,Çorum,41,Merkez,329,Palabıyık Köyü,124341
+816,Çorum,41,Merkez,329,Pancarlık Köyü,124342
+817,Çorum,41,Merkez,329,Paşaköy Köyü,124340
+818,Çorum,41,Merkez,329,Pembecik Köyü,124344
+819,Çorum,41,Merkez,329,Pınarcık Köyü,124389
+820,Çorum,41,Merkez,329,Pınarçay Köyü,124343
+821,Çorum,41,Merkez,329,Salur Köyü,124345
+822,Çorum,41,Merkez,329,Sapa Köyü,124346
+823,Çorum,41,Merkez,329,Saray Köyü,124347
+824,Çorum,41,Merkez,329,Saraylı Köyü,124354
+825,Çorum,41,Merkez,329,Sarıkaya Köyü,205603
+826,Çorum,41,Merkez,329,Sarılık Köyü,124352
+827,Çorum,41,Merkez,329,Sarışeyh Köyü,124349
+828,Çorum,41,Merkez,329,Sarimbey Köyü,124348
+829,Çorum,41,Merkez,329,Sarmaşa Köyü,124351
+830,Çorum,41,Merkez,329,Sazak Köyü,124353
+831,Çorum,41,Merkez,329,Sazdeğirmeni Köyü,124350
+832,Çorum,41,Merkez,329,Serban Köyü,124355
+833,Çorum,41,Merkez,329,Serpin Köyü,124356
+834,Çorum,41,Merkez,329,Sevindikalan Köyü,124359
+835,Çorum,41,Merkez,329,Seydim Çakallı Köyü,169019
+836,Çorum,41,Merkez,329,Seydim Köyü,124358
+837,Çorum,41,Merkez,329,Seydim/Gölyeri,204605
+838,Çorum,41,Merkez,329,Seydim/Seyitmurat,204606
+839,Çorum,41,Merkez,329,Seydim/Yunusemre,204607
+840,Çorum,41,Merkez,329,Seyfe Köyü,124357
+841,Çorum,41,Merkez,329,Sıklık,124407
+842,Çorum,41,Merkez,329,Sırıklı Köyü,124360
+843,Çorum,41,Merkez,329,Soğuksu Köyü,124361
+844,Çorum,41,Merkez,329,Şahinkaya Köyü,124397
+845,Çorum,41,Merkez,329,Şanlıosman Köyü,124365
+846,Çorum,41,Merkez,329,Şekerbey Köyü,124363
+847,Çorum,41,Merkez,329,Şendere Köyü,130142
+848,Çorum,41,Merkez,329,Şeyhhamza Köyü,124364
+849,Çorum,41,Merkez,329,Şeyhmustafa Köyü,124362
+850,Çorum,41,Merkez,329,Tarhan Köyü,124366
+851,Çorum,41,Merkez,329,Tarhankozlusu Köyü,124367
+852,Çorum,41,Merkez,329,Taşpınar Köyü,124369
+853,Çorum,41,Merkez,329,Tatar Köyü,124368
+854,Çorum,41,Merkez,329,Tepecik,124420
+855,Çorum,41,Merkez,329,Teslim Köyü,124370
+856,Çorum,41,Merkez,329,Tolamehmet Köyü,124371
+857,Çorum,41,Merkez,329,Tozluburun Köyü,124372
+858,Çorum,41,Merkez,329,Turgut Köyü,124373
+859,Çorum,41,Merkez,329,Türkayşe Köyü,124374
+860,Çorum,41,Merkez,329,Türkler Köyü,124375
+861,Çorum,41,Merkez,329,Uğrak Köyü,124376
+862,Çorum,41,Merkez,329,Ulukavak,124417
+863,Çorum,41,Merkez,329,Üçköy Köyü,124377
+864,Çorum,41,Merkez,329,Üçtutlar,124409
+865,Çorum,41,Merkez,329,Ülkenpınarı Köyü,124399
+866,Çorum,41,Merkez,329,Üyük Köyü,124378
+867,Çorum,41,Merkez,329,Yakuparpa Köyü,124379
+868,Çorum,41,Merkez,329,Yavruturna,124416
+869,Çorum,41,Merkez,329,Yaydiğin Köyü,124380
+870,Çorum,41,Merkez,329,Yenice Köyü,124381
+871,Çorum,41,Merkez,329,Yenihayat Köyü,124382
+872,Çorum,41,Merkez,329,Yeniyol,124404
+873,Çorum,41,Merkez,329,Yeşildere Köyü,124384
+874,Çorum,41,Merkez,329,Yeşilyayla Köyü,124385
+875,Çorum,41,Merkez,329,Yoğunpelit Köyü,124386
+876,Çorum,41,Dodurga,330,Akkaya Köyü,156084
+877,Çorum,41,Dodurga,330,Alpagut Köyü,171603
+878,Çorum,41,Dodurga,330,Ayva Köyü,157949
+879,Çorum,41,Dodurga,330,Berk Köyü,161246
+880,Çorum,41,Dodurga,330,Çatar,202505
+881,Çorum,41,Dodurga,330,Çiftlik Köyü,163463
+882,Çorum,41,Dodurga,330,Dikenli Köyü,36941
+883,Çorum,41,Dodurga,330,Doğu,202503
+884,Çorum,41,Dodurga,330,Esentepe,202502
+885,Çorum,41,Dodurga,330,Kirenci Köyü,37379
+886,Çorum,41,Dodurga,330,Kuyucak Köyü,36361
+887,Çorum,41,Dodurga,330,Mehmet Dede Obruk Köyü,159732
+888,Çorum,41,Dodurga,330,Mehmet Dede Tekke Köyü,161278
+889,Çorum,41,Dodurga,330,Okul,202506
+890,Çorum,41,Dodurga,330,Tutuş Köyü,36795
+891,Çorum,41,Dodurga,330,Ulucami,202504
+892,Çorum,41,Dodurga,330,Yeniköy Köyü,36745
+893,Çorum,41,İskilip,331,Ahlatçık Köyü,160531
+894,Çorum,41,İskilip,331,Ahmetçe Köyü,159811
+895,Çorum,41,İskilip,331,Akçasu Köyü,161637
+896,Çorum,41,İskilip,331,Akpınar Köyü,160649
+897,Çorum,41,İskilip,331,Aluç Köyü,161346
+898,Çorum,41,İskilip,331,Asarcık Köyü,157842
+899,Çorum,41,İskilip,331,Aşağıörenseki Köyü,158623
+900,Çorum,41,İskilip,331,Aşağışeyhler Köyü,158550
+901,Çorum,41,İskilip,331,Avhatyakası Köyü,160680
+902,Çorum,41,İskilip,331,Bahabey,163347
+903,Çorum,41,İskilip,331,Başmakçı Köyü,160116
+904,Çorum,41,İskilip,331,Beyoğlan Köyü,161475
+905,Çorum,41,İskilip,331,Büyüktaş,159506
+906,Çorum,41,İskilip,331,Çatkara Köyü,156094
+907,Çorum,41,İskilip,331,Çavuşhacıağa,161732
+908,Çorum,41,İskilip,331,Çavuşoğlu Köyü,163266
+909,Çorum,41,İskilip,331,Çetmi Köyü,160532
+910,Çorum,41,İskilip,331,Çomu Köyü,161721
+911,Çorum,41,İskilip,331,Çukurköy Köyü,158352
+912,Çorum,41,İskilip,331,Dabakhane,161556
+913,Çorum,41,İskilip,331,Dağkıyısı Köyü,163286
+914,Çorum,41,İskilip,331,Derekargın Köyü,162092
+915,Çorum,41,İskilip,331,Dereseki Köyü,157675
+916,Çorum,41,İskilip,331,Doğangir Köyü,156675
+917,Çorum,41,İskilip,331,Ekizoğlu,161733
+918,Çorum,41,İskilip,331,Elmalı Köyü,160896
+919,Çorum,41,İskilip,331,Eskiköy Köyü,163244
+920,Çorum,41,İskilip,331,Gölköy Köyü,156275
+921,Çorum,41,İskilip,331,Güneyaluç Köyü,159889
+922,Çorum,41,İskilip,331,Hacıhalil Köyü,159759
+923,Çorum,41,İskilip,331,Hacıpiri,161231
+924,Çorum,41,İskilip,331,Hacıpiri-İmar,171251
+925,Çorum,41,İskilip,331,Hallı Köyü,161476
+926,Çorum,41,İskilip,331,Harun Köyü,158522
+927,Çorum,41,İskilip,331,İbik Köyü,160071
+928,Çorum,41,İskilip,331,İkikise Köyü,161290
+929,Çorum,41,İskilip,331,İkipınar Köyü,159812
+930,Çorum,41,İskilip,331,Kaleboğazı,160057
+931,Çorum,41,İskilip,331,Karaağaç Köyü,159643
+932,Çorum,41,İskilip,331,Karaburun Köyü,161796
+933,Çorum,41,İskilip,331,Karaçukur Köyü,160540
+934,Çorum,41,İskilip,331,Karagöz Köyü,161184
+935,Çorum,41,İskilip,331,Karlık Köyü,161998
+936,Çorum,41,İskilip,331,Karmış Köyü,157676
+937,Çorum,41,İskilip,331,Kavak Köyü,161136
+938,Çorum,41,İskilip,331,Kayaağzı Köyü,156669
+939,Çorum,41,İskilip,331,Kılıçdere Köyü,159704
+940,Çorum,41,İskilip,331,Kızılcabayır Köyü,159904
+941,Çorum,41,İskilip,331,Kurusaray Köyü,160667
+942,Çorum,41,İskilip,331,Kutluözü Köyü,159905
+943,Çorum,41,İskilip,331,Kuzköy Köyü,157220
+944,Çorum,41,İskilip,331,Kuzuluk Köyü,157010
+945,Çorum,41,İskilip,331,Meydan Arifbey,171253
+946,Çorum,41,İskilip,331,Musular/Kamışağıl Köyü,160457
+947,Çorum,41,İskilip,331,Mutaflar,157628
+948,Çorum,41,İskilip,331,Onaç Köyü,160242
+949,Çorum,41,İskilip,331,Örübağ Köyü,159610
+950,Çorum,41,İskilip,331,Sakarya,159993
+951,Çorum,41,İskilip,331,Saraycık Köyü,161477
+952,Çorum,41,İskilip,331,Sarıkavak Köyü,158436
+953,Çorum,41,İskilip,331,Seki Köyü,162202
+954,Çorum,41,İskilip,331,Seyirçayı Köyü,162186
+955,Çorum,41,İskilip,331,Soğucak Köyü,163014
+956,Çorum,41,İskilip,331,Sorkun Köyü,156289
+957,Çorum,41,İskilip,331,Şehirkuruçay Köyü,156106
+958,Çorum,41,İskilip,331,Şeyhköy Köyü,161813
+959,Çorum,41,İskilip,331,Ulaştepe,163132
+960,Çorum,41,İskilip,331,Uludere,162080
+961,Çorum,41,İskilip,331,Yalak Köyü,159791
+962,Çorum,41,İskilip,331,Yalakçayı Köyü,156305
+963,Çorum,41,İskilip,331,Yanoğlan Köyü,158142
+964,Çorum,41,İskilip,331,Yavu Köyü,162187
+965,Çorum,41,İskilip,331,Yaylacıkseki Köyü Köyü,161002
+966,Çorum,41,İskilip,331,Yeni Vealibey,158423
+967,Çorum,41,İskilip,331,Yenice Köyü,162175
+968,Çorum,41,İskilip,331,Yerliköy Köyü,161185
+969,Çorum,41,İskilip,331,Yukarıörenseki Köyü,160420
+970,Çorum,41,Kargı,332,Abdullah Köyü,161626
+971,Çorum,41,Kargı,332,Akçataş Köyü,181605
+972,Çorum,41,Kargı,332,Akkaya Köyü,181606
+973,Çorum,41,Kargı,332,Akkise Köyü,159775
+974,Çorum,41,Kargı,332,Alioğlu Köyü,181607
+975,Çorum,41,Kargı,332,Arık Köyü,161012
+976,Çorum,41,Kargı,332,Avşar Köyü,161446
+977,Çorum,41,Kargı,332,Bademce Köyü,159598
+978,Çorum,41,Kargı,332,Bağözü Köyü,162093
+979,Çorum,41,Kargı,332,Bahçelievler,158921
+980,Çorum,41,Kargı,332,Başköy Köyü,156107
+981,Çorum,41,Kargı,332,Bayat Köyü,181608
+982,Çorum,41,Kargı,332,Beygircioğlu Köyü,162188
+983,Çorum,41,Kargı,332,Bozarmut Köyü,181609
+984,Çorum,41,Kargı,332,Cihadiye Köyü,160255
+985,Çorum,41,Kargı,332,Çakırlar Köyü,163123
+986,Çorum,41,Kargı,332,Çal Köyü,159462
+987,Çorum,41,Kargı,332,Çeltiközü Köyü,162094
+988,Çorum,41,Kargı,332,Çetmi Köyü,181610
+989,Çorum,41,Kargı,332,Çobankaya Köyü,181611
+990,Çorum,41,Kargı,332,Çobanlar Köyü,181612
+991,Çorum,41,Kargı,332,Çukuralıç Köyü,161167
+992,Çorum,41,Kargı,332,Değirmendere (Hacıhamza),169023
+993,Çorum,41,Kargı,332,Demirören Köyü,157021
+994,Çorum,41,Kargı,332,Dereköy Köyü,162105
+995,Çorum,41,Kargı,332,Gökbudak Köyü,181613
+996,Çorum,41,Kargı,332,Gökçedoğan Köyü,161722
+997,Çorum,41,Kargı,332,Gölet Köyü,201546
+998,Çorum,41,Kargı,332,Göletdere Köyü,161697
+999,Çorum,41,Kargı,332,Gölköy Köyü,181614
+1000,Çorum,41,Kargı,332,Gümüşoluğu Köyü,201548
+1001,Çorum,41,Kargı,332,Güney Köyü,163002
+1002,Çorum,41,Kargı,332,Günyazı Köyü,159564
+1003,Çorum,41,Kargı,332,Hacıhamza Köyü,159104
+1004,Çorum,41,Kargı,332,Hacıveli Köyü,181617
+1005,Çorum,41,Kargı,332,Halılar Köyü,163168
+1006,Çorum,41,Kargı,332,İmambey,158624
+1007,Çorum,41,Kargı,332,İnceçay Köyü,158173
+1008,Çorum,41,Kargı,332,Kabakçı Köyü,160243
+1009,Çorum,41,Kargı,332,Karaboya Köyü,157843
+1010,Çorum,41,Kargı,332,Karacaoğlan Köyü,159938
+1011,Çorum,41,Kargı,332,Karakise Köyü,159717
+1012,Çorum,41,Kargı,332,Karaosmanlı Köyü,160913
+1013,Çorum,41,Kargı,332,Karapürçek Köyü,159565
+1014,Çorum,41,Kargı,332,Kavakçayı Köyü,159434
+1015,Çorum,41,Kargı,332,Koyunkıran Köyü,201547
+1016,Çorum,41,Kargı,332,Köprübaşı Köyü,162011
+1017,Çorum,41,Kargı,332,Maksutlu Köyü,181604
+1018,Çorum,41,Kargı,332,Mihrihatun,158229
+1019,Çorum,41,Kargı,332,Obruk Köyü,169025
+1020,Çorum,41,Kargı,332,Oğuz Köyü,159447
+1021,Çorum,41,Kargı,332,Orta,157213
+1022,Çorum,41,Kargı,332,Örencik Köyü,181619
+1023,Çorum,41,Kargı,332,Pelitcik Köyü,156847
+1024,Çorum,41,Kargı,332,Pelitözü Köyü,181620
+1025,Çorum,41,Kargı,332,Saraçlar Köyü,181621
+1026,Çorum,41,Kargı,332,Saraycık Köyü,159463
+1027,Çorum,41,Kargı,332,Seki Köyü,161709
+1028,Çorum,41,Kargı,332,Sinanözü Köyü,160590
+1029,Çorum,41,Kargı,332,Sünlük Köyü,181622
+1030,Çorum,41,Kargı,332,Tepelice Köyü,161291
+1031,Çorum,41,Kargı,332,Uzunyurt Köyü,181623
+1032,Çorum,41,Kargı,332,Yağcılar Köyü,181624
+1033,Çorum,41,Kargı,332,Yeni,161660
+1034,Çorum,41,Kargı,332,Yeşilköy Köyü,156676
+1035,Çorum,41,Laçin,333,Büyüklaçin Köyü,35748
+1036,Çorum,41,Laçin,333,Çamlıpınar Köyü,36496
+1037,Çorum,41,Laçin,333,Doğanlar Köyü,36661
+1038,Çorum,41,Laçin,333,Gökçekaya Köyü,36662
+1039,Çorum,41,Laçin,333,Gökgözler Köyü,37072
+1040,Çorum,41,Laçin,333,Gözübüyük Köyü,35777
+1041,Çorum,41,Laçin,333,İkizce Köyü,36391
+1042,Çorum,41,Laçin,333,Karasoku Köyü,36888
+1043,Çorum,41,Laçin,333,Kavaklıçiftlik Köyü,37362
+1044,Çorum,41,Laçin,333,Kuyumcu Köyü,36566
+1045,Çorum,41,Laçin,333,Küçüklaçin Köyü,36020
+1046,Çorum,41,Laçin,333,Mescitli,159519
+1047,Çorum,41,Laçin,333,Narlı Köyü,36730
+1048,Çorum,41,Laçin,333,Sıtma Köyü,36049
+1049,Çorum,41,Laçin,333,Şenyurt,159267
+1050,Çorum,41,Laçin,333,Yeşilpınar Köyü,36054
+1051,Çorum,41,Laçin,333,Yeşilyurt,158153
+1052,Çorum,41,Mecitözü,334,A.Körücek Köyü,161336
+1053,Çorum,41,Mecitözü,334,Akçakoyun Köyü,37311
+1054,Çorum,41,Mecitözü,334,Akpınar Köyü,37485
+1055,Çorum,41,Mecitözü,334,Alancık Köyü,36799
+1056,Çorum,41,Mecitözü,334,Alören Köyü,36979
+1057,Çorum,41,Mecitözü,334,Bayındır Köyü,36860
+1058,Çorum,41,Mecitözü,334,Bekişler Köyü,159576
+1059,Çorum,41,Mecitözü,334,Beyözü Köyü,36466
+1060,Çorum,41,Mecitözü,334,Boğazkaya Köyü,36325
+1061,Çorum,41,Mecitözü,334,Boyacı Köyü,36229
+1062,Çorum,41,Mecitözü,334,Bükse Köyü,37301
+1063,Çorum,41,Mecitözü,334,Camikebir,158437
+1064,Çorum,41,Mecitözü,334,Çayköy Köyü,37099
+1065,Çorum,41,Mecitözü,334,Çitli Köyü,37063
+1066,Çorum,41,Mecitözü,334,Dağsaray Köyü,37750
+1067,Çorum,41,Mecitözü,334,Devletoğlan Köyü,159022
+1068,Çorum,41,Mecitözü,334,Doğla Köyü,36574
+1069,Çorum,41,Mecitözü,334,Doğu,36392
+1070,Çorum,41,Mecitözü,334,Elmapınar Köyü,36824
+1071,Çorum,41,Mecitözü,334,Elvançelebi/Bahçelievler,204395
+1072,Çorum,41,Mecitözü,334,Elvançelebi/Çamlık,204394
+1073,Çorum,41,Mecitözü,334,Elvançelebi/Dediği,204396
+1074,Çorum,41,Mecitözü,334,Emirbağ Köyü,161849
+1075,Çorum,41,Mecitözü,334,Fakıahmet Köyü,36279
+1076,Çorum,41,Mecitözü,334,Fındıklı Köyü,37773
+1077,Çorum,41,Mecitözü,334,Figani Köyü,161186
+1078,Çorum,41,Mecitözü,334,Geykoca Köyü,36323
+1079,Çorum,41,Mecitözü,334,Gökçebel Köyü,156291
+1080,Çorum,41,Mecitözü,334,Güngörmez Köyü,37317
+1081,Çorum,41,Mecitözü,334,Hıdırlık,36568
+1082,Çorum,41,Mecitözü,334,Hisarkavak Köyü,36620
+1083,Çorum,41,Mecitözü,334,Işıklı Köyü,36905
+1084,Çorum,41,Mecitözü,334,İbek Köyü,37404
+1085,Çorum,41,Mecitözü,334,Kalecik Köyü,36616
+1086,Çorum,41,Mecitözü,334,Karacaören Köyü,36970
+1087,Çorum,41,Mecitözü,334,Karacuma Köyü,36899
+1088,Çorum,41,Mecitözü,334,Kargı Köyü,161367
+1089,Çorum,41,Mecitözü,334,Kayı Köyü,36474
+1090,Çorum,41,Mecitözü,334,Kışlacık Köyü,36196
+1091,Çorum,41,Mecitözü,334,Konaç Köyü,161447
+1092,Çorum,41,Mecitözü,334,Koyunağılı Köyü,37283
+1093,Çorum,41,Mecitözü,334,Kozören Köyü,37874
+1094,Çorum,41,Mecitözü,334,Köprübaşı Köyü,37658
+1095,Çorum,41,Mecitözü,334,Köseeyüp Köyü,160083
+1096,Çorum,41,Mecitözü,334,Kuyucak Köyü,37281
+1097,Çorum,41,Mecitözü,334,Mescit,37172
+1098,Çorum,41,Mecitözü,334,Pınarbaşı Köyü,36932
+1099,Çorum,41,Mecitözü,334,Sarıdede,162106
+1100,Çorum,41,Mecitözü,334,Sarıhasan Köyü,36903
+1101,Çorum,41,Mecitözü,334,Sırçalı Köyü,36586
+1102,Çorum,41,Mecitözü,334,Sorkoğlan Köyü,161638
+1103,Çorum,41,Mecitözü,334,Söğütönü Köyü,36481
+1104,Çorum,41,Mecitözü,334,Söğütyolu Köyü,36614
+1105,Çorum,41,Mecitözü,334,Sülüklü Köyü,36816
+1106,Çorum,41,Mecitözü,334,Şeyhler,158175
+1107,Çorum,41,Mecitözü,334,Tanrıvermiş Köyü,37064
+1108,Çorum,41,Mecitözü,334,Terken Köyü,37484
+1109,Çorum,41,Mecitözü,334,Totali Köyü,159776
+1110,Çorum,41,Mecitözü,334,Tutluk,37266
+1111,Çorum,41,Mecitözü,334,Vakıflar Köyü,36501
+1112,Çorum,41,Mecitözü,334,Yedigöz Köyü,36762
+1113,Çorum,41,Mecitözü,334,Yeşilova Köyü,37111
+1114,Çorum,41,Mecitözü,334,Yukarıkörücek Köyü,37562
+1115,Çorum,41,Oğuzlar,335,Ağaççamı Köyü,162232
+1116,Çorum,41,Oğuzlar,335,Asarçayı,36647
+1117,Çorum,41,Oğuzlar,335,Birtatlı,202507
+1118,Çorum,41,Oğuzlar,335,Cevizli Köyü,35507
+1119,Çorum,41,Oğuzlar,335,Çarşı,202508
+1120,Çorum,41,Oğuzlar,335,Çeşme,202509
+1121,Çorum,41,Oğuzlar,335,Derinöz Köyü,37278
+1122,Çorum,41,Oğuzlar,335,Gölbaşı,202510
+1123,Çorum,41,Oğuzlar,335,Karadonlu,202511
+1124,Çorum,41,Oğuzlar,335,Karaören Köyü,171299
+1125,Çorum,41,Oğuzlar,335,Kayı Köyü,36673
+1126,Çorum,41,Oğuzlar,335,Kızılcapelit,36882
+1127,Çorum,41,Oğuzlar,335,Şaphane Köyü,36287
+1128,Çorum,41,Ortaköy,336,Asar Köyü,36575
+1129,Çorum,41,Ortaköy,336,Aşdağul/Bahçelievler Köyü,161940
+1130,Çorum,41,Ortaköy,336,Aşdağul/Şirinevler,158033
+1131,Çorum,41,Ortaköy,336,Bahçelievler,36761
+1132,Çorum,41,Ortaköy,336,Büyükkışla Köyü,161557
+1133,Çorum,41,Ortaköy,336,Cevizli Köyü,36487
+1134,Çorum,41,Ortaköy,336,Cumhuriyet,36711
+1135,Çorum,41,Ortaköy,336,Esentepe Köyü,36986
+1136,Çorum,41,Ortaköy,336,Fındıklı Köyü,36835
+1137,Çorum,41,Ortaköy,336,İncesu Köyü,36246
+1138,Çorum,41,Ortaköy,336,Karahacip Köyü,36065
+1139,Çorum,41,Ortaköy,336,Kavakalan Köyü,162855
+1140,Çorum,41,Ortaköy,336,Kızılhamza Köyü,36239
+1141,Çorum,41,Ortaköy,336,Oruçpınar Köyü,37652
+1142,Çorum,41,Ortaköy,336,Salbaş Köyü,36439
+1143,Çorum,41,Ortaköy,336,Senemoğlu Köyü,36245
+1144,Çorum,41,Ortaköy,336,Su Yolu,160360
+1145,Çorum,41,Ortaköy,336,Yaylacık Köyü,36306
+1146,Çorum,41,Ortaköy,336,Yukarıkuyucak Köyü,37123
+1147,Çorum,41,Osmancık,337,Ağıroğlan Köyü,156848
+1148,Çorum,41,Osmancık,337,Akören Köyü,159744
+1149,Çorum,41,Osmancık,337,Alibey Köyü,161432
+1150,Çorum,41,Osmancık,337,Ardıç Köyü,158438
+1151,Çorum,41,Osmancık,337,Aşağızeytin Köyü,163359
+1152,Çorum,41,Osmancık,337,Aşıkbükü Köyü,160292
+1153,Çorum,41,Osmancık,337,Avlağı Köyü,160758
+1154,Çorum,41,Osmancık,337,Aydın Köyü,161723
+1155,Çorum,41,Osmancık,337,B.M.Paşa Köyü,161519
+1156,Çorum,41,Osmancık,337,Baldıran Köyü,163268
+1157,Çorum,41,Osmancık,337,Başpınar Köyü,161544
+1158,Çorum,41,Osmancık,337,Belkavak Köyü,160620
+1159,Çorum,41,Osmancık,337,Cumhuriyet,160058
+1160,Çorum,41,Osmancık,337,Çampınar Köyü,160421
+1161,Çorum,41,Osmancık,337,Çatak Köyü,161479
+1162,Çorum,41,Osmancık,337,Çay,161710
+1163,Çorum,41,Osmancık,337,Çayırköy Köyü,161953
+1164,Çorum,41,Osmancık,337,Çiftlikler,161892
+1165,Çorum,41,Osmancık,337,Danişment Köyü,161337
+1166,Çorum,41,Osmancık,337,Deller Köyü,163256
+1167,Çorum,41,Osmancık,337,Doğan Köyü,159984
+1168,Çorum,41,Osmancık,337,Durucasu Köyü,163269
+1169,Çorum,41,Osmancık,337,Evlik Köyü,160435
+1170,Çorum,41,Osmancık,337,Eymir,158154
+1171,Çorum,41,Osmancık,337,Fındıcak Köyü,161823
+1172,Çorum,41,Osmancık,337,Fındık Köyü,160868
+1173,Çorum,41,Osmancık,337,Gecek Köyü,160553
+1174,Çorum,41,Osmancık,337,Gemici,158155
+1175,Çorum,41,Osmancık,337,Girinoğlan Köyü,161698
+1176,Çorum,41,Osmancık,337,Gökdere Köyü,162029
+1177,Çorum,41,Osmancık,337,Güneşören Köyü,159586
+1178,Çorum,41,Osmancık,337,Güney,161858
+1179,Çorum,41,Osmancık,337,Güvercinlik Köyü,161013
+1180,Çorum,41,Osmancık,337,Hanefi Köyü,157844
+1181,Çorum,41,Osmancık,337,Hıdırlık,159734
+1182,Çorum,41,Osmancık,337,İnal Köyü,161338
+1183,Çorum,41,Osmancık,337,İncesu Köyü,160554
+1184,Çorum,41,Osmancık,337,Kamil Köyü,156306
+1185,Çorum,41,Osmancık,337,Karaçay Köyü,159435
+1186,Çorum,41,Osmancık,337,Karaköy Köyü,162012
+1187,Çorum,41,Osmancık,337,Karalar Güney Köyü,157630
+1188,Çorum,41,Osmancık,337,Kargı Köyü,162163
+1189,Çorum,41,Osmancık,337,Kızılırmak,156835
+1190,Çorum,41,Osmancık,337,Kızıltepe Köyü,162189
+1191,Çorum,41,Osmancık,337,Konaca Köyü,160436
+1192,Çorum,41,Osmancık,337,Koyunbaba,158735
+1193,Çorum,41,Osmancık,337,Kumbaba Köyü,163287
+1194,Çorum,41,Osmancık,337,Kuz Köyü,159954
+1195,Çorum,41,Osmancık,337,Kuzhayat Köyü,162042
+1196,Çorum,41,Osmancık,337,Ovacıksuyu Köyü,159416
+1197,Çorum,41,Osmancık,337,Öbektaş Köyü,162203
+1198,Çorum,41,Osmancık,337,Pelitçik Köyü,157221
+1199,Çorum,41,Osmancık,337,Sarıalan Köyü,161745
+1200,Çorum,41,Osmancık,337,Sarpunkavak Köyü,157747
+1201,Çorum,41,Osmancık,337,Seki Köyü,161735
+1202,Çorum,41,Osmancık,337,Sekibağı Köyü,162095
+1203,Çorum,41,Osmancık,337,Sütlüce Köyü,159539
+1204,Çorum,41,Osmancık,337,Tekmen Köyü,160361
+1205,Çorum,41,Osmancık,337,Temençe,206559
+1206,Çorum,41,Osmancık,337,Tepeyolaltı Köyü,161044
+1207,Çorum,41,Osmancık,337,Ulucami,158424
+1208,Çorum,41,Osmancık,337,Umaç Köyü,158215
+1209,Çorum,41,Osmancık,337,Yağsiyen Köyü,160132
+1210,Çorum,41,Osmancık,337,Yaylabaşı Köyü,157950
+1211,Çorum,41,Osmancık,337,Yazı,160410
+1212,Çorum,41,Osmancık,337,Yeni,159105
+1213,Çorum,41,Osmancık,337,Yenidanişment Köyü,156085
+1214,Çorum,41,Osmancık,337,Yeşilçatma,157645
+1215,Çorum,41,Osmancık,337,Yukarızeytin Köyü,158216
+1216,Çorum,41,Sungurlu,338,Ağcalı Köyü,159626
+1217,Çorum,41,Sungurlu,338,Akçakoyunlu Köyü,159718
+1218,Çorum,41,Sungurlu,338,Akdere Köyü,159290
+1219,Çorum,41,Sungurlu,338,Akpınar Köyü,160084
+1220,Çorum,41,Sungurlu,338,Alembeyli Köyü,161377
+1221,Çorum,41,Sungurlu,338,Arabaçayı Köyü,159890
+1222,Çorum,41,Sungurlu,338,Arıcı Köyü,160593
+1223,Çorum,41,Sungurlu,338,Arifegazili Köyü,159465
+1224,Çorum,41,Sungurlu,338,Arifegazili-Ata Köyü,170730
+1225,Çorum,41,Sungurlu,338,Arifegazili-Gazi Köyü,170733
+1226,Çorum,41,Sungurlu,338,Arifegazili-Şahlı Köyü,170731
+1227,Çorum,41,Sungurlu,338,Arifegazili-Yeni Köyü,170732
+1228,Çorum,41,Sungurlu,338,Asayiş Köyü,161724
+1229,Çorum,41,Sungurlu,338,Aşağıbeşpınar Köyü,160458
+1230,Çorum,41,Sungurlu,338,Aşağıfındıklı Köyü,161527
+1231,Çorum,41,Sungurlu,338,Ayağıbüyük Köyü,161138
+1232,Çorum,41,Sungurlu,338,Aydoğan Köyü,160886
+1233,Çorum,41,Sungurlu,338,Bağcılı Köyü,161355
+1234,Çorum,41,Sungurlu,338,Bağdatlı Köyü,161941
+1235,Çorum,41,Sungurlu,338,Bahçelievler,205559
+1236,Çorum,41,Sungurlu,338,Bahşılı Köyü,161999
+1237,Çorum,41,Sungurlu,338,Balkaya Köyü,161480
+1238,Çorum,41,Sungurlu,338,Başpınar,161922
+1239,Çorum,41,Sungurlu,338,Beşdam Köyü,162107
+1240,Çorum,41,Sungurlu,338,Beşkız Köyü,160869
+1241,Çorum,41,Sungurlu,338,Beylice Köyü,159024
+1242,Çorum,41,Sungurlu,338,Beyyurdu Köyü,161448
+1243,Çorum,41,Sungurlu,338,Boztepe Köyü,158046
+1244,Çorum,41,Sungurlu,338,Bozyayla Köyü,161558
+1245,Çorum,41,Sungurlu,338,Bunalan Köyü,161161
+1246,Çorum,41,Sungurlu,338,Büyükincesu Köyü,159814
+1247,Çorum,41,Sungurlu,338,Büyükpolatlı Köyü,159705
+1248,Çorum,41,Sungurlu,338,Cevheri,161893
+1249,Çorum,41,Sungurlu,338,Çadırhöyük Köyü,160468
+1250,Çorum,41,Sungurlu,338,Çamoluk Köyü,156095
+1251,Çorum,41,Sungurlu,338,Çavuş Köyü,160902
+1252,Çorum,41,Sungurlu,338,Çavuşcu Köyü,159417
+1253,Çorum,41,Sungurlu,338,Çayan Köyü,157022
+1254,Çorum,41,Sungurlu,338,Çayyaka Köyü,163158
+1255,Çorum,41,Sungurlu,338,Çiçekli Köyü,157951
+1256,Çorum,41,Sungurlu,338,Çiçeklikeller Köyü,159824
+1257,Çorum,41,Sungurlu,338,Çiftlik,158334
+1258,Çorum,41,Sungurlu,338,Çingiller Köyü,157832
+1259,Çorum,41,Sungurlu,338,Çukurlu Köyü,160621
+1260,Çorum,41,Sungurlu,338,Çulhalı Köyü,159745
+1261,Çorum,41,Sungurlu,338,Dayıncak Köyü,158156
+1262,Çorum,41,Sungurlu,338,Demirşeyh Köyü,160040
+1263,Çorum,41,Sungurlu,338,Denizli Köyü,158060
+1264,Çorum,41,Sungurlu,338,Derekışla Köyü,161449
+1265,Çorum,41,Sungurlu,338,Dertli Köyü,161711
+1266,Çorum,41,Sungurlu,338,Dökmetepe,161954
+1267,Çorum,41,Sungurlu,338,Ekmekçi Köyü,159825
+1268,Çorum,41,Sungurlu,338,Eşme Köyü,163124
+1269,Çorum,41,Sungurlu,338,Fevzipaşa,161639
+1270,Çorum,41,Sungurlu,338,Gafurlu Köyü,161699
+1271,Çorum,41,Sungurlu,338,Gökçam Köyü,161507
+1272,Çorum,41,Sungurlu,338,Gökçeköy Köyü,158719
+1273,Çorum,41,Sungurlu,338,Gölbağları,163465
+1274,Çorum,41,Sungurlu,338,Göller Köyü,161292
+1275,Çorum,41,Sungurlu,338,Gülderesi Köyü,159612
+1276,Çorum,41,Sungurlu,338,Güloluk Köyü,157858
+1277,Çorum,41,Sungurlu,338,Güvendik Köyü,163486
+1278,Çorum,41,Sungurlu,338,Hacıosman Köyü,158047
+1279,Çorum,41,Sungurlu,338,Hilallı Köyü,159826
+1280,Çorum,41,Sungurlu,338,İkizli Köyü,158911
+1281,Çorum,41,Sungurlu,338,İmirli Köyü,157663
+1282,Çorum,41,Sungurlu,338,İnegazili Köyü,160362
+1283,Çorum,41,Sungurlu,338,İsmetpaşa,161045
+1284,Çorum,41,Sungurlu,338,Kaledere-Aydın Köyü,170736
+1285,Çorum,41,Sungurlu,338,Kaledere-Şen Köyü,170734
+1286,Çorum,41,Sungurlu,338,Kaledere-Zafer Köyü,170735
+1287,Çorum,41,Sungurlu,338,Kalenderoğlu Köyü,159269
+1288,Çorum,41,Sungurlu,338,Kamışlı Köyü,159551
+1289,Çorum,41,Sungurlu,338,Kapıkaya,161356
+1290,Çorum,41,Sungurlu,338,Karacabey Köyü,161725
+1291,Çorum,41,Sungurlu,338,Karaçay Köyü,159838
+1292,Çorum,41,Sungurlu,338,Karakaya Köyü,163169
+1293,Çorum,41,Sungurlu,338,Karakocalı Köyü,157857
+1294,Çorum,41,Sungurlu,338,Karaoğlu Köyü,162219
+1295,Çorum,41,Sungurlu,338,Kavşut Köyü,156837
+1296,Çorum,41,Sungurlu,338,Kemallı Köyü,156677
+1297,Çorum,41,Sungurlu,338,Kemiklidere,159552
+1298,Çorum,41,Sungurlu,338,Kertme Köyü,159746
+1299,Çorum,41,Sungurlu,338,Kırankışla Köyü,162856
+1300,Çorum,41,Sungurlu,338,Kışla Köyü,156475
+1301,Çorum,41,Sungurlu,338,Kızılça Kışla Köyü,163278
+1302,Çorum,41,Sungurlu,338,Körkü Köyü,161850
+1303,Çorum,41,Sungurlu,338,Kula Köyü,159566
+1304,Çorum,41,Sungurlu,338,Kurbağlı Köyü,160103
+1305,Çorum,41,Sungurlu,338,Kuşçalı Köyü,158157
+1306,Çorum,41,Sungurlu,338,Kuzucak Köyü,158158
+1307,Çorum,41,Sungurlu,338,Kuzuluk,160117
+1308,Çorum,41,Sungurlu,338,Küçükincesu Köyü,159375
+1309,Çorum,41,Sungurlu,338,Küçükpolatlı Köyü,160363
+1310,Çorum,41,Sungurlu,338,Mahmatlı Köyü,163360
+1311,Çorum,41,Sungurlu,338,Manastır,159600
+1312,Çorum,41,Sungurlu,338,Mehmetaliçiftliği Köyü,163004
+1313,Çorum,41,Sungurlu,338,Mehmetbeyli Köyü,160459
+1314,Çorum,41,Sungurlu,338,Muratkolu Köyü,161139
+1315,Çorum,41,Sungurlu,338,Oğlaközü Köyü,158248
+1316,Çorum,41,Sungurlu,338,Ortakışla Köyü,160422
+1317,Çorum,41,Sungurlu,338,Ortaköy Köyü,163246
+1318,Çorum,41,Sungurlu,338,Oyaca Köyü,158425
+1319,Çorum,41,Sungurlu,338,Salman Köyü,156292
+1320,Çorum,41,Sungurlu,338,Saraycık Köyü,159337
+1321,Çorum,41,Sungurlu,338,Sarıcalar Köyü,158932
+1322,Çorum,41,Sungurlu,338,Sarıkaya Köyü,156108
+1323,Çorum,41,Sungurlu,338,Sarıtepe,159599
+1324,Çorum,41,Sungurlu,338,Sunguroğlu,160639
+1325,Çorum,41,Sungurlu,338,Şekerhacılı Köyü,163464
+1326,Çorum,41,Sungurlu,338,Şekerpınar,159747
+1327,Çorum,41,Sungurlu,338,Tatlı Köyü,161894
+1328,Çorum,41,Sungurlu,338,Tekbağ,161116
+1329,Çorum,41,Sungurlu,338,Terzili Köyü,159994
+1330,Çorum,41,Sungurlu,338,Tirkeş Köyü,163288
+1331,Çorum,41,Sungurlu,338,Tokullu Köyü,161622
+1332,Çorum,41,Sungurlu,338,Topuz Köyü,156849
+1333,Çorum,41,Sungurlu,338,Tuğcu Köyü,157762
+1334,Çorum,41,Sungurlu,338,Tuğlu-Bahçelievler Köyü,170738
+1335,Çorum,41,Sungurlu,338,Tuğlu-Karşıyaka Köyü,170739
+1336,Çorum,41,Sungurlu,338,Tuğlu-Yeni Köyü,170737
+1337,Çorum,41,Sungurlu,338,Turan,157859
+1338,Çorum,41,Sungurlu,338,Turgutlu Köyü,161466
+1339,Çorum,41,Sungurlu,338,Türkhacılarhanı Köyü,158034
+1340,Çorum,41,Sungurlu,338,Üçoluk Köyü,156307
+1341,Çorum,41,Sungurlu,338,Yarımsögüt Köyü,157620
+1342,Çorum,41,Sungurlu,338,Yenidoğan,159969
+1343,Çorum,41,Sungurlu,338,Yenihacılarhanı Köyü,161942
+1344,Çorum,41,Sungurlu,338,Yenihayat,205560
+1345,Çorum,41,Sungurlu,338,Yeşilova Köyü,156293
+1346,Çorum,41,Sungurlu,338,Yeşilyurt Köyü,161824
+1347,Çorum,41,Sungurlu,338,Yirce Köyü,156836
+1348,Çorum,41,Sungurlu,338,Yorgalı Köyü,161106
+1349,Çorum,41,Sungurlu,338,Yörüklü Köyü,161003
+1350,Çorum,41,Sungurlu,338,Yukarıbeşpınar Köyü,158048
+1351,Çorum,41,Uğurludağ,339,Ambarcı Köyü,162013
+1352,Çorum,41,Uğurludağ,339,Aşılıarmut Köyü,160423
+1353,Çorum,41,Uğurludağ,339,Belkavak Köyü,37025
+1354,Çorum,41,Uğurludağ,339,Boztepe Köyü,36294
+1355,Çorum,41,Uğurludağ,339,Büyükerikli Köyü,161233
+1356,Çorum,41,Uğurludağ,339,Dağönü Köyü,37034
+1357,Çorum,41,Uğurludağ,339,Dutpınar,158720
+1358,Çorum,41,Uğurludağ,339,Eskiçeltek Köyü,36256
+1359,Çorum,41,Uğurludağ,339,Gökçeağaç Köyü,37418
+1360,Çorum,41,Uğurludağ,339,Karaevliya Köyü,36409
+1361,Çorum,41,Uğurludağ,339,Karakısık Köyü,36760
+1362,Çorum,41,Uğurludağ,339,Karşıyaka,36494
+1363,Çorum,41,Uğurludağ,339,Kırköy Köyü,36851
+1364,Çorum,41,Uğurludağ,339,Kızağlı Köyü,159906
+1365,Çorum,41,Uğurludağ,339,Köpeç Köyü,161304
+1366,Çorum,41,Uğurludağ,339,Küçükerikli Köyü,159839
+1367,Çorum,41,Uğurludağ,339,Resuloğlu Köyü,37273
+1368,Çorum,41,Uğurludağ,339,Sazköy Köyü,36880
+1369,Çorum,41,Uğurludağ,339,Torunlar Köyü,36973
+1370,Çorum,41,Uğurludağ,339,Üçdam Köyü,36241
+1371,Çorum,41,Uğurludağ,339,Yarımca Köyü,36368
+1372,Çorum,41,Uğurludağ,339,Yenicami,36774
+1373,Çorum,41,Uğurludağ,339,Yeniyapan Köyü,36706
+1374,Çorum,41,Uğurludağ,339,Yeşilyurt,36560
+1375,Çorum,41,Uğurludağ,339,Yüzgeç,35801
+1376,Ordu,74,Akkuş,756,Akpınar,207676
+1377,Ordu,74,Akkuş,756,Akpınar-Merkez,152506
+1378,Ordu,74,Akkuş,756,Akpınar-Yeniköy,154878
+1379,Ordu,74,Akkuş,756,Alan,202525
+1380,Ordu,74,Akkuş,756,Ambargürgen,134812
+1381,Ordu,74,Akkuş,756,Ceyhanlı,16610
+1382,Ordu,74,Akkuş,756,Çaldere,151552
+1383,Ordu,74,Akkuş,756,Çamlıca,134676
+1384,Ordu,74,Akkuş,756,Çavdar,16093
+1385,Ordu,74,Akkuş,756,Çayıralan/Merkez,136673
+1386,Ordu,74,Akkuş,756,Çayıralan-Belalan,153760
+1387,Ordu,74,Akkuş,756,Çökek,134824
+1388,Ordu,74,Akkuş,756,Çukurköy,153759
+1389,Ordu,74,Akkuş,756,Dağyolu,16637
+1390,Ordu,74,Akkuş,756,Damyeri,152899
+1391,Ordu,74,Akkuş,756,Düğencili,153354
+1392,Ordu,74,Akkuş,756,Esentepe,154033
+1393,Ordu,74,Akkuş,756,Gedikli,16678
+1394,Ordu,74,Akkuş,756,Gökçebayır,16028
+1395,Ordu,74,Akkuş,756,Gürgenliyatak,153443
+1396,Ordu,74,Akkuş,756,Haliluşağı,153024
+1397,Ordu,74,Akkuş,756,Karaçal,157536
+1398,Ordu,74,Akkuş,756,Kargı,16101
+1399,Ordu,74,Akkuş,756,Kemikgeriş,155465
+1400,Ordu,74,Akkuş,756,Ketendere,154481
+1401,Ordu,74,Akkuş,756,Kızılelma,206879
+1402,Ordu,74,Akkuş,756,Kızılelma-Çubuklu,155552
+1403,Ordu,74,Akkuş,756,Kızılelma-Kışla,134068
+1404,Ordu,74,Akkuş,756,Kızılelma-Merkez,154986
+1405,Ordu,74,Akkuş,756,Koçcuvaz,151781
+1406,Ordu,74,Akkuş,756,Kurtboğaz,16079
+1407,Ordu,74,Akkuş,756,Kuşçulu,153301
+1408,Ordu,74,Akkuş,756,Külekçili,136503
+1409,Ordu,74,Akkuş,756,Merkez,207646
+1410,Ordu,74,Akkuş,756,Meyvalı,133768
+1411,Ordu,74,Akkuş,756,Muratlı,154676
+1412,Ordu,74,Akkuş,756,Ormancık,155874
+1413,Ordu,74,Akkuş,756,Ortabölme,155767
+1414,Ordu,74,Akkuş,756,Salman -Çamalan,200718
+1415,Ordu,74,Akkuş,756,Salman-Çakırlar,155243
+1416,Ordu,74,Akkuş,756,Salman-Elmalık,155757
+1417,Ordu,74,Akkuş,756,Salman-Güveluşağı,157550
+1418,Ordu,74,Akkuş,756,Salman-Merkez,155941
+1419,Ordu,74,Akkuş,756,Salman-Şehitkerim,157520
+1420,Ordu,74,Akkuş,756,Salman-Taşoluk,155466
+1421,Ordu,74,Akkuş,756,Seferli,206851
+1422,Ordu,74,Akkuş,756,Seferli-Alimamlar,135209
+1423,Ordu,74,Akkuş,756,Seferli-Boğmalık,153975
+1424,Ordu,74,Akkuş,756,Seferli-Göğmele,154866
+1425,Ordu,74,Akkuş,756,Seferli-Merkez,154496
+1426,Ordu,74,Akkuş,756,Seferli-Tepe,135210
+1427,Ordu,74,Akkuş,756,Subaşı,207648
+1428,Ordu,74,Akkuş,756,Şahin,152494
+1429,Ordu,74,Akkuş,756,Tuzak,155439
+1430,Ordu,74,Akkuş,756,Yazlıkbelen,153203
+1431,Ordu,74,Akkuş,756,Yeni,207647
+1432,Ordu,74,Akkuş,756,Yeşilgüneycik,153223
+1433,Ordu,74,Akkuş,756,Yeşilköy,134554
+1434,Ordu,74,Akkuş,756,Yolbaşı,16842
+1435,Ordu,74,Akkuş,756,Yukarı Düğencili,153546
+1436,Ordu,74,Aybastı,757,Alacalar/Düz Mahalle,16826
+1437,Ordu,74,Aybastı,757,Alacalar/Merkez,203574
+1438,Ordu,74,Aybastı,757,Alacalar/Şenyurt,201558
+1439,Ordu,74,Aybastı,757,Alacalar/Yeni,203575
+1440,Ordu,74,Aybastı,757,Armutlu,17200
+1441,Ordu,74,Aybastı,757,Beştam,16791
+1442,Ordu,74,Aybastı,757,Çakırlı,134045
+1443,Ordu,74,Aybastı,757,Çukur,16964
+1444,Ordu,74,Aybastı,757,Esenli,16277
+1445,Ordu,74,Aybastı,757,Fatih,152480
+1446,Ordu,74,Aybastı,757,Hisarcık,16733
+1447,Ordu,74,Aybastı,757,Karamanlı,207334
+1448,Ordu,74,Aybastı,757,Kayabaşı,16668
+1449,Ordu,74,Aybastı,757,Koyunculu,133830
+1450,Ordu,74,Aybastı,757,Kutlular,17239
+1451,Ordu,74,Aybastı,757,Küçükyaka,16370
+1452,Ordu,74,Aybastı,757,Ortaköy,16499
+1453,Ordu,74,Aybastı,757,Pelitözü,153735
+1454,Ordu,74,Aybastı,757,Sağlık,201557
+1455,Ordu,74,Aybastı,757,Sarıyar,16461
+1456,Ordu,74,Aybastı,757,Sefalık,15601
+1457,Ordu,74,Aybastı,757,Toygar,17082
+1458,Ordu,74,Aybastı,757,Uzundere,16154
+1459,Ordu,74,Aybastı,757,Zaferimilli,17398
+1460,Ordu,74,Çamaş,758,Akköy,16112
+1461,Ordu,74,Çamaş,758,Akpınar,154964
+1462,Ordu,74,Çamaş,758,Budak,15885
+1463,Ordu,74,Çamaş,758,Burhangüneyi,155367
+1464,Ordu,74,Çamaş,758,Çavuşbaşı,16099
+1465,Ordu,74,Çamaş,758,Danışman,16413
+1466,Ordu,74,Çamaş,758,Edirli,15868
+1467,Ordu,74,Çamaş,758,Giden,16745
+1468,Ordu,74,Çamaş,758,Gümüşlü,16190
+1469,Ordu,74,Çamaş,758,Hisarbey,15979
+1470,Ordu,74,Çamaş,758,Kemalpaşa,15772
+1471,Ordu,74,Çamaş,758,Kestaneyokuşu,16459
+1472,Ordu,74,Çamaş,758,Kocaman,205508
+1473,Ordu,74,Çamaş,758,Örmeli,16348
+1474,Ordu,74,Çamaş,758,Sakargeriş,153889
+1475,Ordu,74,Çamaş,758,Sarıyakup,134047
+1476,Ordu,74,Çamaş,758,Söken,15109
+1477,Ordu,74,Çamaş,758,Taşoluk,16196
+1478,Ordu,74,Çamaş,758,Tepeli,15812
+1479,Ordu,74,Çamaş,758,Uzunali,16892
+1480,Ordu,74,Çamaş,758,Yeni,16706
+1481,Ordu,74,Çamaş,758,Yeşilvadi,16473
+1482,Ordu,74,Çatalpınar,759,Akkaya,155641
+1483,Ordu,74,Çatalpınar,759,Dere,16111
+1484,Ordu,74,Çatalpınar,759,Duraklı,151771
+1485,Ordu,74,Çatalpınar,759,Elmaköy,16052
+1486,Ordu,74,Çatalpınar,759,Göller Karşıyaka,154881
+1487,Ordu,74,Çatalpınar,759,Göller Merkez,135071
+1488,Ordu,74,Çatalpınar,759,Gündoğdu,154518
+1489,Ordu,74,Çatalpınar,759,Güneyce,181563
+1490,Ordu,74,Çatalpınar,759,Haşal,16360
+1491,Ordu,74,Çatalpınar,759,Hatipler,15828
+1492,Ordu,74,Çatalpınar,759,Karahamza,155862
+1493,Ordu,74,Çatalpınar,759,Karahasan,15694
+1494,Ordu,74,Çatalpınar,759,Karşıyaka,151556
+1495,Ordu,74,Çatalpınar,759,Kayatepe,16475
+1496,Ordu,74,Çatalpınar,759,Kaynar,153942
+1497,Ordu,74,Çatalpınar,759,Keçili,16684
+1498,Ordu,74,Çatalpınar,759,Kıran,16705
+1499,Ordu,74,Çatalpınar,759,Maden,136518
+1500,Ordu,74,Çatalpınar,759,Merkez,15537
+1501,Ordu,74,Çatalpınar,759,Ortaköy,155246
+1502,Ordu,74,Çatalpınar,759,Saklı,154469
+1503,Ordu,74,Çatalpınar,759,Sayacatürk,155455
+1504,Ordu,74,Çatalpınar,759,Şirinköy,16626
+1505,Ordu,74,Çatalpınar,759,Terimli,16629
+1506,Ordu,74,Çatalpınar,759,Yenimahalle,151787
+1507,Ordu,74,Çatalpınar,759,Yukarı,153892
+1508,Ordu,74,Çaybaşı,760,Akbaba,16029
+1509,Ordu,74,Çaybaşı,760,Aşıklı/Çakıllı,151406
+1510,Ordu,74,Çaybaşı,760,Boras,203722
+1511,Ordu,74,Çaybaşı,760,Cemallı,203719
+1512,Ordu,74,Çaybaşı,760,Cevizliyatak,157190
+1513,Ordu,74,Çaybaşı,760,Çağlayan,203724
+1514,Ordu,74,Çaybaşı,760,Çandır,203725
+1515,Ordu,74,Çaybaşı,760,Çay,15130
+1516,Ordu,74,Çaybaşı,760,Çayır,203726
+1517,Ordu,74,Çaybaşı,760,Çınar,203727
+1518,Ordu,74,Çaybaşı,760,Eğribel,15690
+1519,Ordu,74,Çaybaşı,760,Göksu,16239
+1520,Ordu,74,Çaybaşı,760,Gürcek,204540
+1521,Ordu,74,Çaybaşı,760,Hacıali,15356
+1522,Ordu,74,Çaybaşı,760,İçeribükü,15873
+1523,Ordu,74,Çaybaşı,760,İlküvez,15647
+1524,Ordu,74,Çaybaşı,760,Kapılı,15862
+1525,Ordu,74,Çaybaşı,760,Kargalı,203720
+1526,Ordu,74,Çaybaşı,760,Köklük,14928
+1527,Ordu,74,Çaybaşı,760,Kurudere,15878
+1528,Ordu,74,Çaybaşı,760,Kuşlu,155624
+1529,Ordu,74,Çaybaşı,760,Mollalı,204572
+1530,Ordu,74,Çaybaşı,760,Namazlı,203721
+1531,Ordu,74,Çaybaşı,760,Taşkesiği,204573
+1532,Ordu,74,Çaybaşı,760,Tekke,155554
+1533,Ordu,74,Çaybaşı,760,Yenicuma,203723
+1534,Ordu,74,Fatsa,761,Ahmetler,204344
+1535,Ordu,74,Fatsa,761,Arpalık,152119
+1536,Ordu,74,Fatsa,761,Aslancami,207520
+1537,Ordu,74,Fatsa,761,Aslancami Bld/Üçdam,154083
+1538,Ordu,74,Fatsa,761,Aşağıardıç,157203
+1539,Ordu,74,Fatsa,761,Aşağıtepe,155942
+1540,Ordu,74,Fatsa,761,Aşağıyavaş,202574
+1541,Ordu,74,Fatsa,761,Ayazlı,206607
+1542,Ordu,74,Fatsa,761,Bacanak,153961
+1543,Ordu,74,Fatsa,761,Bağlarca,155483
+1544,Ordu,74,Fatsa,761,Bahçeler,153270
+1545,Ordu,74,Fatsa,761,Başköy,205506
+1546,Ordu,74,Fatsa,761,Beyceli,155472
+1547,Ordu,74,Fatsa,761,Bolaman,154470
+1548,Ordu,74,Fatsa,761,Bozdağı,154519
+1549,Ordu,74,Fatsa,761,Bucaklı,155283
+1550,Ordu,74,Fatsa,761,Buharı,152511
+1551,Ordu,74,Fatsa,761,Bülbül,154261
+1552,Ordu,74,Fatsa,761,Büyükkoç,151396
+1553,Ordu,74,Fatsa,761,Çoteli,152120
+1554,Ordu,74,Fatsa,761,Çömlekli,157505
+1555,Ordu,74,Fatsa,761,Demirci,151407
+1556,Ordu,74,Fatsa,761,Dereyurt,133976
+1557,Ordu,74,Fatsa,761,Dolunay,206608
+1558,Ordu,74,Fatsa,761,Duayeri,152482
+1559,Ordu,74,Fatsa,761,Dumlupınar,155732
+1560,Ordu,74,Fatsa,761,Düğünlük,154508
+1561,Ordu,74,Fatsa,761,Eskiordu,204343
+1562,Ordu,74,Fatsa,761,Evkaf,152913
+1563,Ordu,74,Fatsa,761,Geyikçeli Bld/Fatih,155539
+1564,Ordu,74,Fatsa,761,Geyikçeli Bld/Merkez,155626
+1565,Ordu,74,Fatsa,761,Geyikçeli-Kurtuluş,202582
+1566,Ordu,74,Fatsa,761,Geyikçeli-Orhangazi,202583
+1567,Ordu,74,Fatsa,761,Geyikçeli-Sakarya,202581
+1568,Ordu,74,Fatsa,761,Geyikçeli-Yavuzselim,202580
+1569,Ordu,74,Fatsa,761,Gölköy,134831
+1570,Ordu,74,Fatsa,761,Güvercinlik,205730
+1571,Ordu,74,Fatsa,761,Hacıköy,154227
+1572,Ordu,74,Fatsa,761,Hamlık,134962
+1573,Ordu,74,Fatsa,761,Hatipli,205739
+1574,Ordu,74,Fatsa,761,Hıdırbeyli,152318
+1575,Ordu,74,Fatsa,761,Hoylu,153580
+1576,Ordu,74,Fatsa,761,Ilıca,153074
+1577,Ordu,74,Fatsa,761,İnönü,152914
+1578,Ordu,74,Fatsa,761,İslamdağ,134033
+1579,Ordu,74,Fatsa,761,Kabakdağı,133977
+1580,Ordu,74,Fatsa,761,Kaleönü,133847
+1581,Ordu,74,Fatsa,761,Karataş,134832
+1582,Ordu,74,Fatsa,761,Kargucak,205740
+1583,Ordu,74,Fatsa,761,Karşıyaka,205741
+1584,Ordu,74,Fatsa,761,Kavraz,205731
+1585,Ordu,74,Fatsa,761,Kayaca,155643
+1586,Ordu,74,Fatsa,761,Kayaköy/Akçakese,205727
+1587,Ordu,74,Fatsa,761,Kılavuzömer,133995
+1588,Ordu,74,Fatsa,761,Kılıçlı,151745
+1589,Ordu,74,Fatsa,761,Konakbaşı,154854
+1590,Ordu,74,Fatsa,761,Kösebucağı Bld/Müezzinoğlu,134947
+1591,Ordu,74,Fatsa,761,Kösebucağı Bld/Soğukpınar,154082
+1592,Ordu,74,Fatsa,761,Kösebucağı/Fatih,157506
+1593,Ordu,74,Fatsa,761,Kösebucağı/Gültepe,134412
+1594,Ordu,74,Fatsa,761,Kösebucağı-Yavuzselim,202579
+1595,Ordu,74,Fatsa,761,Kulak,155972
+1596,Ordu,74,Fatsa,761,Kurtuluş,153922
+1597,Ordu,74,Fatsa,761,Küçükkoç,154694
+1598,Ordu,74,Fatsa,761,Küpdüşen,133754
+1599,Ordu,74,Fatsa,761,M.K.Paşa,133848
+1600,Ordu,74,Fatsa,761,Mehmetakif,153817
+1601,Ordu,74,Fatsa,761,Meşebükü,152121
+1602,Ordu,74,Fatsa,761,Oluklu,151616
+1603,Ordu,74,Fatsa,761,Örencik,155375
+1604,Ordu,74,Fatsa,761,Palazlı/Kömürlük,205732
+1605,Ordu,74,Fatsa,761,Sakarya,134833
+1606,Ordu,74,Fatsa,761,Salihli,153486
+1607,Ordu,74,Fatsa,761,Saraytepe,155062
+1608,Ordu,74,Fatsa,761,Sazcılar,151759
+1609,Ordu,74,Fatsa,761,Sefaköy,153920
+1610,Ordu,74,Fatsa,761,Sudere,153921
+1611,Ordu,74,Fatsa,761,Şerefiye,154562
+1612,Ordu,74,Fatsa,761,Tahtabaş,133914
+1613,Ordu,74,Fatsa,761,Taşlıca,155931
+1614,Ordu,74,Fatsa,761,Tayalı,136508
+1615,Ordu,74,Fatsa,761,Tepecik,151788
+1616,Ordu,74,Fatsa,761,Uzundere,205728
+1617,Ordu,74,Fatsa,761,Yalıköy,153075
+1618,Ordu,74,Fatsa,761,Yapraklı,153929
+1619,Ordu,74,Fatsa,761,Yassıbahçe,153893
+1620,Ordu,74,Fatsa,761,Yassıtaş,152497
+1621,Ordu,74,Fatsa,761,Yavaş,156986
+1622,Ordu,74,Fatsa,761,Yenidoğan,153030
+1623,Ordu,74,Fatsa,761,Yenikent,151583
+1624,Ordu,74,Fatsa,761,Yenipazar,205733
+1625,Ordu,74,Fatsa,761,Yeniyurt,154704
+1626,Ordu,74,Fatsa,761,Yeşilköy,205729
+1627,Ordu,74,Fatsa,761,Yeşiltepe,204345
+1628,Ordu,74,Fatsa,761,Yukarıardıç,153736
+1629,Ordu,74,Fatsa,761,Yukarıbahçeler,154672
+1630,Ordu,74,Fatsa,761,Yukarıtepe,153253
+1631,Ordu,74,Fatsa,761,Yusuflu,153245
+1632,Ordu,74,Gölköy,762,Ahmetli,155628
+1633,Ordu,74,Gölköy,762,Akçalı,134035
+1634,Ordu,74,Gölköy,762,Alanyurt,155581
+1635,Ordu,74,Gölköy,762,Aydoğan,151408
+1636,Ordu,74,Gölköy,762,Bayıralan,153291
+1637,Ordu,74,Gölköy,762,Bulut,153536
+1638,Ordu,74,Gölköy,762,Cihadiye,157541
+1639,Ordu,74,Gölköy,762,Çatak,135197
+1640,Ordu,74,Gölköy,762,Çetilli,153225
+1641,Ordu,74,Gölköy,762,Damarlı,206603
+1642,Ordu,74,Gölköy,762,Damarlı/Güzelyurt,180420
+1643,Ordu,74,Gölköy,762,Damarlı/Şirinyurt,180421
+1644,Ordu,74,Gölköy,762,Damarlı/Yeşilyurt,180422
+1645,Ordu,74,Gölköy,762,Direkli/Dokuzdere,180419
+1646,Ordu,74,Gölköy,762,Direkli/Merkez,180417
+1647,Ordu,74,Gölköy,762,Direkli/Yenimahalle,180418
+1648,Ordu,74,Gölköy,762,Düzyayla/Cibiyazlık,180423
+1649,Ordu,74,Gölköy,762,Düzyayla/Demirtaş,180424
+1650,Ordu,74,Gölköy,762,Düzyayla/Merkez,180425
+1651,Ordu,74,Gölköy,762,Emirler,153767
+1652,Ordu,74,Gölköy,762,Gölköy,155352
+1653,Ordu,74,Gölköy,762,Gündoğan,180414
+1654,Ordu,74,Gölköy,762,Gürpınar,180416
+1655,Ordu,74,Gölköy,762,Güzelyayla,153431
+1656,Ordu,74,Gölköy,762,Güzelyurt/Erentepe,180413
+1657,Ordu,74,Gölköy,762,Güzelyurt/Özyurt,180415
+1658,Ordu,74,Gölköy,762,Haruniye,155474
+1659,Ordu,74,Gölköy,762,Hürriyet,153604
+1660,Ordu,74,Gölköy,762,İçyaka,134073
+1661,Ordu,74,Gölköy,762,Kale,157003
+1662,Ordu,74,Gölköy,762,Karagöz,154471
+1663,Ordu,74,Gölköy,762,Karahasan/Karaağaç,180426
+1664,Ordu,74,Gölköy,762,Karahasan/Merkez,180427
+1665,Ordu,74,Gölköy,762,Karahasan/Seyit,180428
+1666,Ordu,74,Gölköy,762,Konak,157326
+1667,Ordu,74,Gölköy,762,Kozören,154869
+1668,Ordu,74,Gölköy,762,Kuşluvan,154472
+1669,Ordu,74,Gölköy,762,Özlü,157341
+1670,Ordu,74,Gölköy,762,Paşapınar,155629
+1671,Ordu,74,Gölköy,762,Sarıca,151601
+1672,Ordu,74,Gölköy,762,Süleymaniye,155704
+1673,Ordu,74,Gölköy,762,Yuvapınar,155943
+1674,Ordu,74,Gülyalı,763,Alibey,15813
+1675,Ordu,74,Gülyalı,763,Anbarcılı,133755
+1676,Ordu,74,Gülyalı,763,Ayrılık,15909
+1677,Ordu,74,Gülyalı,763,Gülistan,16867
+1678,Ordu,74,Gülyalı,763,Hoşköy,15708
+1679,Ordu,74,Gülyalı,763,Kestane,16729
+1680,Ordu,74,Gülyalı,763,Mustafalı,15917
+1681,Ordu,74,Gülyalı,763,Sayaca,16124
+1682,Ordu,74,Gülyalı,763,Taşlıçay,16365
+1683,Ordu,74,Gülyalı,763,Tepealtı,205141
+1684,Ordu,74,Gülyalı,763,Turnasuyu,15969
+1685,Ordu,74,Gülyalı,763,Ürümbey,169818
+1686,Ordu,74,Gülyalı,763,Yeniköy,16457
+1687,Ordu,74,Gürgentepe,764,Ağızlar,15864
+1688,Ordu,74,Gürgentepe,764,Akmescit,15976
+1689,Ordu,74,Gürgentepe,764,Akören,15832
+1690,Ordu,74,Gürgentepe,764,Akyurt,15965
+1691,Ordu,74,Gürgentepe,764,Alaseher,16049
+1692,Ordu,74,Gürgentepe,764,Bahtiyarlar,15921
+1693,Ordu,74,Gürgentepe,764,Cumhuriyet,200696
+1694,Ordu,74,Gürgentepe,764,Döşek,15913
+1695,Ordu,74,Gürgentepe,764,Eskiköy-Dere,134243
+1696,Ordu,74,Gürgentepe,764,Eskiköy-Hasan Ali,203871
+1697,Ordu,74,Gürgentepe,764,Eskiköy-Karahalil,155644
+1698,Ordu,74,Gürgentepe,764,Eskiköy-Kiraz Güneyi,203872
+1699,Ordu,74,Gürgentepe,764,Eskiköy-Merkez,152930
+1700,Ordu,74,Gürgentepe,764,Göller,155986
+1701,Ordu,74,Gürgentepe,764,Gülbelen,15859
+1702,Ordu,74,Gürgentepe,764,Gültepe,16286
+1703,Ordu,74,Gürgentepe,764,Hasancık,154855
+1704,Ordu,74,Gürgentepe,764,Işıktepe-Akgeriş,155630
+1705,Ordu,74,Gürgentepe,764,Işıktepe-Çatalağaç,153963
+1706,Ordu,74,Gürgentepe,764,Işıktepe-Merkez,153843
+1707,Ordu,74,Gürgentepe,764,Işıktepe-Yenimahalle,155734
+1708,Ordu,74,Gürgentepe,764,Işıktepe-Yurdagül,155274
+1709,Ordu,74,Gürgentepe,764,Işıktepe-Yurtseven,152319
+1710,Ordu,74,Gürgentepe,764,Muratcık,16430
+1711,Ordu,74,Gürgentepe,764,Okçabel,16632
+1712,Ordu,74,Gürgentepe,764,Şirinköy,16249
+1713,Ordu,74,Gürgentepe,764,Tepeköy,16634
+1714,Ordu,74,Gürgentepe,764,Tikenlice,155840
+1715,Ordu,74,Gürgentepe,764,Tuzla,16133
+1716,Ordu,74,İkizce,765,Ağcaalan,206593
+1717,Ordu,74,İkizce,765,Aşağı Kaynartaş,206826
+1718,Ordu,74,İkizce,765,Aşağıkarlıtepe,206591
+1719,Ordu,74,İkizce,765,Başönü,15685
+1720,Ordu,74,İkizce,765,Beylerce,16003
+1721,Ordu,74,İkizce,765,Bolluk,203139
+1722,Ordu,74,İkizce,765,Derebaşı,15769
+1723,Ordu,74,İkizce,765,Devecik,206875
+1724,Ordu,74,İkizce,765,Devecik-Çobanlı,157180
+1725,Ordu,74,İkizce,765,Devecik-Diyek,203137
+1726,Ordu,74,İkizce,765,Devecik-Merkez,203132
+1727,Ordu,74,İkizce,765,Devecik-Yenice,203127
+1728,Ordu,74,İkizce,765,Diyek,206876
+1729,Ordu,74,İkizce,765,Dumantepe,206589
+1730,Ordu,74,İkizce,765,Düzmeşe,16300
+1731,Ordu,74,İkizce,765,Düzpelit,16140
+1732,Ordu,74,İkizce,765,Esentepe,15589
+1733,Ordu,74,İkizce,765,Fatih,206598
+1734,Ordu,74,İkizce,765,Gaziler,16442
+1735,Ordu,74,İkizce,765,İkizce-Merkez,203136
+1736,Ordu,74,İkizce,765,Kale,206590
+1737,Ordu,74,İkizce,765,Kaynartaş-Avcalak,15934
+1738,Ordu,74,İkizce,765,Kaynartaş-Karaağaç,203140
+1739,Ordu,74,İkizce,765,Kaynartaş-Merkez,155935
+1740,Ordu,74,İkizce,765,Kaynartaş-Yağtaş,203128
+1741,Ordu,74,İkizce,765,Kaynartaş-Yeni,203135
+1742,Ordu,74,İkizce,765,Kervansaray,16744
+1743,Ordu,74,İkizce,765,Kiraztepe,16697
+1744,Ordu,74,İkizce,765,Kocaman,203126
+1745,Ordu,74,İkizce,765,Kurtköy,203138
+1746,Ordu,74,İkizce,765,Kurtluca,203125
+1747,Ordu,74,İkizce,765,Özpınar,15260
+1748,Ordu,74,İkizce,765,Şenbolluk-Orta,203141
+1749,Ordu,74,İkizce,765,Şenbolluk-Topul,203130
+1750,Ordu,74,İkizce,765,Şenbolluk-Yeni,203133
+1751,Ordu,74,İkizce,765,Şenbolluk-Ziliftar,203131
+1752,Ordu,74,İkizce,765,Yenice,206877
+1753,Ordu,74,İkizce,765,Yoğunoluk-Atatürk,204863
+1754,Ordu,74,İkizce,765,Yoğunoluk-Enağızlı,16245
+1755,Ordu,74,İkizce,765,Yoğunoluk-Küçükkeriş,204864
+1756,Ordu,74,İkizce,765,Yoğunoluk-Merkez,203129
+1757,Ordu,74,İkizce,765,Yoğunoluk-Seymenli,204865
+1758,Ordu,74,İkizce,765,Yoğunoluk-Tombaşlı,152291
+1759,Ordu,74,İkizce,765,Yukarı Kaynartaş,206827
+1760,Ordu,74,İkizce,765,Yukarıkarlıtepe,206592
+1761,Ordu,74,İkizce,765,Yunuskırığı,206599
+1762,Ordu,74,Kabadüz,766,Akgüney,15840
+1763,Ordu,74,Kabadüz,766,Başköy,154049
+1764,Ordu,74,Kabadüz,766,Derinçay,15881
+1765,Ordu,74,Kabadüz,766,Dişkaya,157561
+1766,Ordu,74,Kabadüz,766,Esenyurt,15112
+1767,Ordu,74,Kabadüz,766,Gelinkaya,16735
+1768,Ordu,74,Kabadüz,766,Gülpınar,15896
+1769,Ordu,74,Kabadüz,766,Gümüşdere,16871
+1770,Ordu,74,Kabadüz,766,Harami,17025
+1771,Ordu,74,Kabadüz,766,Kabadüz Merkez,136521
+1772,Ordu,74,Kabadüz,766,Karakiraz,153819
+1773,Ordu,74,Kabadüz,766,Kirazdere,16491
+1774,Ordu,74,Kabadüz,766,Musakırık,205686
+1775,Ordu,74,Kabadüz,766,Özlükent,16993
+1776,Ordu,74,Kabadüz,766,Turnalık,205687
+1777,Ordu,74,Kabadüz,766,Yeşilada,15603
+1778,Ordu,74,Kabadüz,766,Yeşilyurt,205688
+1779,Ordu,74,Kabadüz,766,Yokuşdibi,155879
+1780,Ordu,74,Kabadüz,766,Yukarı Kirazdere,16843
+1781,Ordu,74,Kabataş,767,Alanbaşı,135217
+1782,Ordu,74,Kabataş,767,Alankent,206215
+1783,Ordu,74,Kabataş,767,Ardıç,16650
+1784,Ordu,74,Kabataş,767,Belen,15728
+1785,Ordu,74,Kabataş,767,Beylerli,16218
+1786,Ordu,74,Kabataş,767,Çukurcak,153226
+1787,Ordu,74,Kabataş,767,Düzmahalle,152109
+1788,Ordu,74,Kabataş,767,Eceli,16628
+1789,Ordu,74,Kabataş,767,Elbeyi,134963
+1790,Ordu,74,Kabataş,767,Hoşkadem,17005
+1791,Ordu,74,Kabataş,767,Ilıcak,153607
+1792,Ordu,74,Kabataş,767,Kabataş,151939
+1793,Ordu,74,Kabataş,767,Kabataş Yenimahalle,206216
+1794,Ordu,74,Kabataş,767,Kayıncık,155719
+1795,Ordu,74,Kabataş,767,Kuzköy,154697
+1796,Ordu,74,Kabataş,767,Şifasuyu,206214
+1797,Ordu,74,Kabataş,767,Yakacık,155663
+1798,Ordu,74,Kabataş,767,Yeniceli,153019
+1799,Ordu,74,Korgan,768,Aşağıkozpınar,16212
+1800,Ordu,74,Korgan,768,Belalan,16529
+1801,Ordu,74,Korgan,768,Beypınarı,16661
+1802,Ordu,74,Korgan,768,Büyükakçakese,153189
+1803,Ordu,74,Korgan,768,Çamlı-Aralıcak,154215
+1804,Ordu,74,Korgan,768,Çamlı-Asarkaya,153122
+1805,Ordu,74,Korgan,768,Çamlı-Azara,154978
+1806,Ordu,74,Korgan,768,Çamlı-Güney,153966
+1807,Ordu,74,Korgan,768,Çamlı-Merkez,154674
+1808,Ordu,74,Korgan,768,Çamlı-Tepe,16971
+1809,Ordu,74,Korgan,768,Çayırkent-Aşağıoba,155880
+1810,Ordu,74,Korgan,768,Çayırkent-Ericek,155936
+1811,Ordu,74,Korgan,768,Çayırkent-Fatih,133757
+1812,Ordu,74,Korgan,768,Çayırkent-Gazi,153294
+1813,Ordu,74,Korgan,768,Çayırkent-Karşıyaka,152933
+1814,Ordu,74,Korgan,768,Çayırkent-Savcılı,155678
+1815,Ordu,74,Korgan,768,Çiftlik-Abazdağı,153896
+1816,Ordu,74,Korgan,768,Çiftlik-Güzelyurt,153406
+1817,Ordu,74,Korgan,768,Çiftlik-Memiş,153584
+1818,Ordu,74,Korgan,768,Çiftlik-Merkez,134403
+1819,Ordu,74,Korgan,768,Çitlice,16948
+1820,Ordu,74,Korgan,768,Durali,16600
+1821,Ordu,74,Korgan,768,Karakışla,16173
+1822,Ordu,74,Korgan,768,Koçcuğaz,16496
+1823,Ordu,74,Korgan,768,Korgan-Aşağıyaylacık,17730
+1824,Ordu,74,Korgan,768,Korgan-Dip,17229
+1825,Ordu,74,Korgan,768,Korgan-Karakoyunlu,16623
+1826,Ordu,74,Korgan,768,Korgan-Sarıaliç,155116
+1827,Ordu,74,Korgan,768,Korgan-Tepe,16986
+1828,Ordu,74,Korgan,768,Korgan-Yazıcı,17159
+1829,Ordu,74,Korgan,768,Korgan-Yazlık,16134
+1830,Ordu,74,Korgan,768,Korgan-Yenipınar,16521
+1831,Ordu,74,Korgan,768,Korgan-Yukarıyaylacık,16821
+1832,Ordu,74,Korgan,768,Soğukpınar,16281
+1833,Ordu,74,Korgan,768,Tatarcık,17473
+1834,Ordu,74,Korgan,768,Tepealan-Düzdağ,157368
+1835,Ordu,74,Korgan,768,Tepealan-Güllü,155338
+1836,Ordu,74,Korgan,768,Tepealan-Kırıkbozu,154486
+1837,Ordu,74,Korgan,768,Tepealan-Orta,155846
+1838,Ordu,74,Korgan,768,Tepealan-Yazlık,16540
+1839,Ordu,74,Korgan,768,Terzili,16515
+1840,Ordu,74,Korgan,768,Yeniköy,16845
+1841,Ordu,74,Korgan,768,Yeşilalan,16597
+1842,Ordu,74,Korgan,768,Yeşildere,16847
+1843,Ordu,74,Korgan,768,Yeşilyurt,17414
+1844,Ordu,74,Korgan,768,Yukarıkozpınar,157328
+1845,Ordu,74,Kumru,769,Ağcaalantürk,180607
+1846,Ordu,74,Kumru,769,Akçadere,155057
+1847,Ordu,74,Kumru,769,Avdullu,180598
+1848,Ordu,74,Kumru,769,Ayvalı,136522
+1849,Ordu,74,Kumru,769,Balı,180597
+1850,Ordu,74,Kumru,769,Ballık,180611
+1851,Ordu,74,Kumru,769,Çatılı,180600
+1852,Ordu,74,Kumru,769,Demircili,134081
+1853,Ordu,74,Kumru,769,Derbent,155446
+1854,Ordu,74,Kumru,769,Dereköy,154235
+1855,Ordu,74,Kumru,769,Divanitürk,180596
+1856,Ordu,74,Kumru,769,Duman,153967
+1857,Ordu,74,Kumru,769,Ergentürk,180606
+1858,Ordu,74,Kumru,769,Erikçeli,155487
+1859,Ordu,74,Kumru,769,Esence,180605
+1860,Ordu,74,Kumru,769,Eskiçokdeğirmen,154938
+1861,Ordu,74,Kumru,769,Fatih,180593
+1862,Ordu,74,Kumru,769,Fizme - Çavdar,180590
+1863,Ordu,74,Kumru,769,Fizme - Çayüstü,180595
+1864,Ordu,74,Kumru,769,Fizme - Ecelli,180589
+1865,Ordu,74,Kumru,769,Fizme - Karapınar,151775
+1866,Ordu,74,Kumru,769,Fizme - Ömerli,180594
+1867,Ordu,74,Kumru,769,Gökçeli,155377
+1868,Ordu,74,Kumru,769,Güneycik,203123
+1869,Ordu,74,Kumru,769,Kadıncık,157329
+1870,Ordu,74,Kumru,769,Karaağaç,155156
+1871,Ordu,74,Kumru,769,Karacalar,180603
+1872,Ordu,74,Kumru,769,Karacalı,154051
+1873,Ordu,74,Kumru,769,Kayabaşı,180604
+1874,Ordu,74,Kumru,769,Konaklı,180599
+1875,Ordu,74,Kumru,769,Kovancılı,154511
+1876,Ordu,74,Kumru,769,Küçükakçakese,180610
+1877,Ordu,74,Kumru,769,Ortaca,152918
+1878,Ordu,74,Kumru,769,Ortaçokdeğirmen,154277
+1879,Ordu,74,Kumru,769,Samur,153387
+1880,Ordu,74,Kumru,769,Şenyurt,180602
+1881,Ordu,74,Kumru,769,Tekke,155854
+1882,Ordu,74,Kumru,769,Yalnızdam,153861
+1883,Ordu,74,Kumru,769,Yemişken,154906
+1884,Ordu,74,Kumru,769,Yeniakçaalan,180609
+1885,Ordu,74,Kumru,769,Yenidivan,180601
+1886,Ordu,74,Kumru,769,Yeniergen,180608
+1887,Ordu,74,Kumru,769,Yukarıdamlalı,207800
+1888,Ordu,74,Mesudiye,770,Abdili,181465
+1889,Ordu,74,Mesudiye,770,Akkırık,157380
+1890,Ordu,74,Mesudiye,770,Akpınar,206468
+1891,Ordu,74,Mesudiye,770,Alan,135220
+1892,Ordu,74,Mesudiye,770,Arıcılar,16165
+1893,Ordu,74,Mesudiye,770,Arıkmusa,16825
+1894,Ordu,74,Mesudiye,770,Armutkolu,17375
+1895,Ordu,74,Mesudiye,770,Arpaalan,16785
+1896,Ordu,74,Mesudiye,770,Aşağıgökçe,17356
+1897,Ordu,74,Mesudiye,770,Aşıklı,17342
+1898,Ordu,74,Mesudiye,770,Bahçe,156520
+1899,Ordu,74,Mesudiye,770,Balıklı,16811
+1900,Ordu,74,Mesudiye,770,Bayırköy,16321
+1901,Ordu,74,Mesudiye,770,Bayraklı,16326
+1902,Ordu,74,Mesudiye,770,Beşpınar,16976
+1903,Ordu,74,Mesudiye,770,Beyağaç,17243
+1904,Ordu,74,Mesudiye,770,Beyseki,16369
+1905,Ordu,74,Mesudiye,770,Birebir,16602
+1906,Ordu,74,Mesudiye,770,Celal,155689
+1907,Ordu,74,Mesudiye,770,Çaltepe,16396
+1908,Ordu,74,Mesudiye,770,Çamlık,156327
+1909,Ordu,74,Mesudiye,770,Çardaklı,17465
+1910,Ordu,74,Mesudiye,770,Çavdar,15948
+1911,Ordu,74,Mesudiye,770,Çerçi,16503
+1912,Ordu,74,Mesudiye,770,Çiflik Sarıca,155132
+1913,Ordu,74,Mesudiye,770,Çukuralan,16868
+1914,Ordu,74,Mesudiye,770,Darıcabaşı,17705
+1915,Ordu,74,Mesudiye,770,Dayılı,16640
+1916,Ordu,74,Mesudiye,770,Derebaşı,16424
+1917,Ordu,74,Mesudiye,770,Doğançam,151762
+1918,Ordu,74,Mesudiye,770,Dursunlu,16089
+1919,Ordu,74,Mesudiye,770,Erik,153423
+1920,Ordu,74,Mesudiye,770,Esatlı,16444
+1921,Ordu,74,Mesudiye,770,Göçbeyi,17535
+1922,Ordu,74,Mesudiye,770,Gölbaşı,156729
+1923,Ordu,74,Mesudiye,770,Gülpınar,154105
+1924,Ordu,74,Mesudiye,770,Güneyce,16104
+1925,Ordu,74,Mesudiye,770,Güvenli,16990
+1926,Ordu,74,Mesudiye,770,Güzelce,16759
+1927,Ordu,74,Mesudiye,770,Güzle,16869
+1928,Ordu,74,Mesudiye,770,Hamzalı,16266
+1929,Ordu,74,Mesudiye,770,Herközü,152882
+1930,Ordu,74,Mesudiye,770,Ilışar,16335
+1931,Ordu,74,Mesudiye,770,Kale,159007
+1932,Ordu,74,Mesudiye,770,Karabayır,181416
+1933,Ordu,74,Mesudiye,770,Karacaören,15938
+1934,Ordu,74,Mesudiye,770,Kavaklıdere,16228
+1935,Ordu,74,Mesudiye,770,Kayadibi,16119
+1936,Ordu,74,Mesudiye,770,Kışlacık,15644
+1937,Ordu,74,Mesudiye,770,Konacık,17740
+1938,Ordu,74,Mesudiye,770,Mahmudiye,16701
+1939,Ordu,74,Mesudiye,770,Merkez,15497
+1940,Ordu,74,Mesudiye,770,Musalı,15984
+1941,Ordu,74,Mesudiye,770,Müslüm Sarıca,153434
+1942,Ordu,74,Mesudiye,770,Pınarlı,16764
+1943,Ordu,74,Mesudiye,770,Sarıca,16398
+1944,Ordu,74,Mesudiye,770,Sarıyayla,15413
+1945,Ordu,74,Mesudiye,770,Topçam/İnalan,181463
+1946,Ordu,74,Mesudiye,770,Topçam/Köşe,157425
+1947,Ordu,74,Mesudiye,770,Topçam/Merkez,159129
+1948,Ordu,74,Mesudiye,770,Topçam/Ortaalan,158950
+1949,Ordu,74,Mesudiye,770,Türk,153491
+1950,Ordu,74,Mesudiye,770,Üçyol/Merkez,15850
+1951,Ordu,74,Mesudiye,770,Yağmurlar,16219
+1952,Ordu,74,Mesudiye,770,Yardere,16451
+1953,Ordu,74,Mesudiye,770,Yavşan,16728
+1954,Ordu,74,Mesudiye,770,Yenimahalle,16402
+1955,Ordu,74,Mesudiye,770,Yeşilce/Merkez,15337
+1956,Ordu,74,Mesudiye,770,Yeşilce/Yeşilyurt,154873
+1957,Ordu,74,Mesudiye,770,Yeşilçit,17012
+1958,Ordu,74,Mesudiye,770,Yeveli,16067
+1959,Ordu,74,Mesudiye,770,Yukarıgökçe,16958
+1960,Ordu,74,Mesudiye,770,Yuvalı,16755
+1961,Ordu,74,Altınordu,771,Akçatepe,124506
+1962,Ordu,74,Altınordu,771,Akkese,124517
+1963,Ordu,74,Altınordu,771,Akyazı,206999
+1964,Ordu,74,Altınordu,771,Alembey,124558
+1965,Ordu,74,Altınordu,771,Alınca,125382
+1966,Ordu,74,Altınordu,771,Alisayvan,125471
+1967,Ordu,74,Altınordu,771,Altunyurt,124532
+1968,Ordu,74,Altınordu,771,Arpaköy,124528
+1969,Ordu,74,Altınordu,771,Artıklı,124549
+1970,Ordu,74,Altınordu,771,Ataköy,124513
+1971,Ordu,74,Altınordu,771,Aydınlık,125478
+1972,Ordu,74,Altınordu,771,Aziziye,124492
+1973,Ordu,74,Altınordu,771,Bahariye,125385
+1974,Ordu,74,Altınordu,771,Bahçelievler,206998
+1975,Ordu,74,Altınordu,771,Bayadı,124542
+1976,Ordu,74,Altınordu,771,Bayramlı,124516
+1977,Ordu,74,Altınordu,771,Boztepe,124541
+1978,Ordu,74,Altınordu,771,Bucak,124496
+1979,Ordu,74,Altınordu,771,Burhanettin,124537
+1980,Ordu,74,Altınordu,771,Cumhuriyet,204066
+1981,Ordu,74,Altınordu,771,Cumhuriyetköy,125475
+1982,Ordu,74,Altınordu,771,Çavuşlar,124554
+1983,Ordu,74,Altınordu,771,Dedeli,124527
+1984,Ordu,74,Altınordu,771,Delikkaya,124548
+1985,Ordu,74,Altınordu,771,Dikence,124525
+1986,Ordu,74,Altınordu,771,Durugöl,204065
+1987,Ordu,74,Altınordu,771,Düz,124498
+1988,Ordu,74,Altınordu,771,Düzköy,205181
+1989,Ordu,74,Altınordu,771,Emen,205378
+1990,Ordu,74,Altınordu,771,Erenli,125384
+1991,Ordu,74,Altınordu,771,Eskipazar,124551
+1992,Ordu,74,Altınordu,771,Eyüplü,124547
+1993,Ordu,74,Altınordu,771,Gerce,125381
+1994,Ordu,74,Altınordu,771,Gökömer,124533
+1995,Ordu,74,Altınordu,771,Gümüşköy,125389
+1996,Ordu,74,Altınordu,771,Günören,124560
+1997,Ordu,74,Altınordu,771,Güzelyalı,124494
+1998,Ordu,74,Altınordu,771,Güzelyalıköy,124540
+1999,Ordu,74,Altınordu,771,Hacılar,124522
+2000,Ordu,74,Altınordu,771,Hatipli,124535
+2001,Ordu,74,Altınordu,771,Hürriyet,125380
+2002,Ordu,74,Altınordu,771,Işıklı,124524
+2003,Ordu,74,Altınordu,771,Kabalı,181287
+2004,Ordu,74,Altınordu,771,Karaağaç,124521
+2005,Ordu,74,Altınordu,771,Karacaömer,124550
+2006,Ordu,74,Altınordu,771,Karaoluk,169534
+2007,Ordu,74,Altınordu,771,Karapınar,124505
+2008,Ordu,74,Altınordu,771,Karşıyaka,205737
+2009,Ordu,74,Altınordu,771,Kayabaşı,124515
+2010,Ordu,74,Altınordu,771,Kayadibi,124511
+2011,Ordu,74,Altınordu,771,Kısacık,124538
+2012,Ordu,74,Altınordu,771,Kızılhisar,124539
+2013,Ordu,74,Altınordu,771,Kirazlimanı,124493
+2014,Ordu,74,Altınordu,771,Kovancı,124520
+2015,Ordu,74,Altınordu,771,Kökenli,124545
+2016,Ordu,74,Altınordu,771,Kumbaşı,204064
+2017,Ordu,74,Altınordu,771,Kurtulmuş,124518
+2018,Ordu,74,Altınordu,771,Kuylu,124546
+2019,Ordu,74,Altınordu,771,Mübarek,124543
+2020,Ordu,74,Altınordu,771,Nizamettin,124501
+2021,Ordu,74,Altınordu,771,Oğmaca,124553
+2022,Ordu,74,Altınordu,771,Orhaniye,124556
+2023,Ordu,74,Altınordu,771,Ortaköy,125476
+2024,Ordu,74,Altınordu,771,Osmaniye,125387
+2025,Ordu,74,Altınordu,771,Öceli,124544
+2026,Ordu,74,Altınordu,771,Örencik,124559
+2027,Ordu,74,Altınordu,771,Övündük,124536
+2028,Ordu,74,Altınordu,771,Pelitli,125477
+2029,Ordu,74,Altınordu,771,Sağırlı,124514
+2030,Ordu,74,Altınordu,771,Saray,124502
+2031,Ordu,74,Altınordu,771,Saraycık,124555
+2032,Ordu,74,Altınordu,771,Selimiye,124500
+2033,Ordu,74,Altınordu,771,Subaşı,124499
+2034,Ordu,74,Altınordu,771,Şahincili,124507
+2035,Ordu,74,Altınordu,771,Şarkiye,124495
+2036,Ordu,74,Altınordu,771,Şenköy,169893
+2037,Ordu,74,Altınordu,771,Şenocak,124512
+2038,Ordu,74,Altınordu,771,Şirinevler,206997
+2039,Ordu,74,Altınordu,771,Taşbaşı,124504
+2040,Ordu,74,Altınordu,771,Terzili,124557
+2041,Ordu,74,Altınordu,771,Teyneli,124534
+2042,Ordu,74,Altınordu,771,Topluca,124531
+2043,Ordu,74,Altınordu,771,Uzunisa,124523
+2044,Ordu,74,Altınordu,771,Uzunmusa,124526
+2045,Ordu,74,Altınordu,771,Yağızlı,124508
+2046,Ordu,74,Altınordu,771,Yaraşlı,124510
+2047,Ordu,74,Altınordu,771,Yemişli,124519
+2048,Ordu,74,Altınordu,771,Yeni,124497
+2049,Ordu,74,Altınordu,771,Yeşilköy,124529
+2050,Ordu,74,Altınordu,771,Yıldızlı,124552
+2051,Ordu,74,Altınordu,771,Yukarıtepe,124509
+2052,Ordu,74,Altınordu,771,Zafer,124530
+2053,Ordu,74,Altınordu,771,Zaferimilli,124503
+2054,Ordu,74,Perşembe,772,Alınca,157565
+2055,Ordu,74,Perşembe,772,Anaç,157591
+2056,Ordu,74,Perşembe,772,Aziziye,153192
+2057,Ordu,74,Perşembe,772,Babalı,155667
+2058,Ordu,74,Perşembe,772,Bekirli,153947
+2059,Ordu,74,Perşembe,772,Beyli,154264
+2060,Ordu,74,Perşembe,772,Boğazcık,157027
+2061,Ordu,74,Perşembe,772,Bolatlı,155476
+2062,Ordu,74,Perşembe,772,Çamarası,155004
+2063,Ordu,74,Perşembe,772,Çandır,157246
+2064,Ordu,74,Perşembe,772,Çaytepe,157974
+2065,Ordu,74,Perşembe,772,Çerli,157989
+2066,Ordu,74,Perşembe,772,Çınar,157369
+2067,Ordu,74,Perşembe,772,Dereiçi,159189
+2068,Ordu,74,Perşembe,772,Doğanköy,158205
+2069,Ordu,74,Perşembe,772,Düz,153518
+2070,Ordu,74,Perşembe,772,Efirli,154500
+2071,Ordu,74,Perşembe,772,Ekinciler,158780
+2072,Ordu,74,Perşembe,772,Emek,158610
+2073,Ordu,74,Perşembe,772,Gündoğdu,157028
+2074,Ordu,74,Perşembe,772,Güzelyurt,135222
+2075,Ordu,74,Perşembe,772,Hacılar,154265
+2076,Ordu,74,Perşembe,772,Hamidiye,158992
+2077,Ordu,74,Perşembe,772,İmeçli,153193
+2078,Ordu,74,Perşembe,772,İstanbul Boğazı,153691
+2079,Ordu,74,Perşembe,772,Kacalı,155100
+2080,Ordu,74,Perşembe,772,Kaleyaka,157292
+2081,Ordu,74,Perşembe,772,Kazancılı,158762
+2082,Ordu,74,Perşembe,772,Kırlı,207686
+2083,Ordu,74,Perşembe,772,Kovanlı,155077
+2084,Ordu,74,Perşembe,772,Kozağzı,152293
+2085,Ordu,74,Perşembe,772,Kurtuluş,156568
+2086,Ordu,74,Perşembe,772,Kutluca,157592
+2087,Ordu,74,Perşembe,772,Kuyluca,158781
+2088,Ordu,74,Perşembe,772,Medreseönü,202524
+2089,Ordu,74,Perşembe,772,Merkez,155646
+2090,Ordu,74,Perşembe,772,Mersin,155090
+2091,Ordu,74,Perşembe,772,Neneli,151778
+2092,Ordu,74,Perşembe,772,Okçulu,160558
+2093,Ordu,74,Perşembe,772,Ortatepe,157029
+2094,Ordu,74,Perşembe,772,Ramazan,157381
+2095,Ordu,74,Perşembe,772,Saray,156348
+2096,Ordu,74,Perşembe,772,Selimiye,155855
+2097,Ordu,74,Perşembe,772,Sırakovancı,159162
+2098,Ordu,74,Perşembe,772,Soğukpınar,156510
+2099,Ordu,74,Perşembe,772,Şenyurt,155219
+2100,Ordu,74,Perşembe,772,Tarlacık,155220
+2101,Ordu,74,Perşembe,772,Tepecik,152960
+2102,Ordu,74,Perşembe,772,Tepeharman,157397
+2103,Ordu,74,Perşembe,772,Tepeköy,202519
+2104,Ordu,74,Perşembe,772,Töngeldüzü,155399
+2105,Ordu,74,Perşembe,772,Yarlı,156940
+2106,Ordu,74,Perşembe,772,Yazlık,155645
+2107,Ordu,74,Perşembe,772,Yeniköy,205873
+2108,Ordu,74,Perşembe,772,Yeniöz,159152
+2109,Ordu,74,Perşembe,772,Yeşilköy,155666
+2110,Ordu,74,Perşembe,772,Yumrutaş,157245
+2111,Ordu,74,Ulubey,773,Akoluk,15509
+2112,Ordu,74,Ulubey,773,Akpınar,16362
+2113,Ordu,74,Ulubey,773,Aydınlar,15621
+2114,Ordu,74,Ulubey,773,Başçardak,16901
+2115,Ordu,74,Ulubey,773,Belenyurt,15412
+2116,Ordu,74,Ulubey,773,Cevizlik,16349
+2117,Ordu,74,Ulubey,773,Çağlayan,16956
+2118,Ordu,74,Ulubey,773,Çatallı,15977
+2119,Ordu,74,Ulubey,773,Çubuklu,16751
+2120,Ordu,74,Ulubey,773,Çukurçonkara,158268
+2121,Ordu,74,Ulubey,773,Doğlu,17145
+2122,Ordu,74,Ulubey,773,Durak,159154
+2123,Ordu,74,Ulubey,773,Elmaçukuru,15975
+2124,Ordu,74,Ulubey,773,Eymür,16625
+2125,Ordu,74,Ulubey,773,Fındıklı,16721
+2126,Ordu,74,Ulubey,773,Gündüzlü,16692
+2127,Ordu,74,Ulubey,773,Güvenköy,16087
+2128,Ordu,74,Ulubey,773,Güvenyurt,15688
+2129,Ordu,74,Ulubey,773,Güzelyurt,16214
+2130,Ordu,74,Ulubey,773,Hocaoğlu,15231
+2131,Ordu,74,Ulubey,773,Kadıncık,15947
+2132,Ordu,74,Ulubey,773,Kalicak,157100
+2133,Ordu,74,Ulubey,773,Karakoca,16073
+2134,Ordu,74,Ulubey,773,Kardeşler,16246
+2135,Ordu,74,Ulubey,773,Kıranyağmur,16455
+2136,Ordu,74,Ulubey,773,Kirazlık,16011
+2137,Ordu,74,Ulubey,773,Koşaca,16301
+2138,Ordu,74,Ulubey,773,Kumanlar,16109
+2139,Ordu,74,Ulubey,773,Kumrulu,15838
+2140,Ordu,74,Ulubey,773,Ohtamış,17022
+2141,Ordu,74,Ulubey,773,Oyumgürgen,15892
+2142,Ordu,74,Ulubey,773,Ören,154989
+2143,Ordu,74,Ulubey,773,Refahiye,16955
+2144,Ordu,74,Ulubey,773,Şahinkaya,15358
+2145,Ordu,74,Ulubey,773,Şekeroluk,160701
+2146,Ordu,74,Ulubey,773,Şıhlar,156349
+2147,Ordu,74,Ulubey,773,Uzunmahmut,14910
+2148,Ordu,74,Ulubey,773,Yeni,16500
+2149,Ordu,74,Ulubey,773,Yenisayaca,16672
+2150,Ordu,74,Ulubey,773,Yolbaşı,16371
+2151,Ordu,74,Ulubey,773,Yukarıkızılen,155198
+2152,Ordu,74,Ünye,774,Ağudere,160561
+2153,Ordu,74,Ünye,774,Ataköy,204517
+2154,Ordu,74,Ünye,774,Atatürk,154895
+2155,Ordu,74,Ünye,774,Aydıntepe,204518
+2156,Ordu,74,Ünye,774,Başköy,158952
+2157,Ordu,74,Ünye,774,Bayramca,156813
+2158,Ordu,74,Ünye,774,Beylerce,201020
+2159,Ordu,74,Ünye,774,Burunucu,159175
+2160,Ordu,74,Ünye,774,Cevizdere,204519
+2161,Ordu,74,Ünye,774,Çakmak,204520
+2162,Ordu,74,Ünye,774,Çamurlu,158502
+2163,Ordu,74,Ünye,774,Çatak,157687
+2164,Ordu,74,Ünye,774,Çatalpınar,157978
+2165,Ordu,74,Ünye,774,Çataltepe,152962
+2166,Ordu,74,Ünye,774,Çınarcık,201025
+2167,Ordu,74,Ünye,774,Çınarlık,204528
+2168,Ordu,74,Ünye,774,Çiğdem,155308
+2169,Ordu,74,Ünye,774,Denizbükü,158754
+2170,Ordu,74,Ünye,774,Dizdar,153322
+2171,Ordu,74,Ünye,774,Döşemedibi,152963
+2172,Ordu,74,Ünye,774,Düzköy,204521
+2173,Ordu,74,Ünye,774,Düzsaylan,204522
+2174,Ordu,74,Ünye,774,Elmalık,157399
+2175,Ordu,74,Ünye,774,Erenyurt,160476
+2176,Ordu,74,Ünye,774,Esenkale,203716
+2177,Ordu,74,Ünye,774,Eskikızılcakese,201023
+2178,Ordu,74,Ünye,774,Fatih,156570
+2179,Ordu,74,Ünye,774,Fevziçakmak,160158
+2180,Ordu,74,Ünye,774,Göbü,159191
+2181,Ordu,74,Ünye,774,Göbünalcı,160300
+2182,Ordu,74,Ünye,774,Gölceğiz,155401
+2183,Ordu,74,Ünye,774,Gölevi,156921
+2184,Ordu,74,Ünye,774,Günpınarı,201024
+2185,Ordu,74,Ünye,774,Gürecülü,158785
+2186,Ordu,74,Ünye,774,Güzelkale,156412
+2187,Ordu,74,Ünye,774,Güzelyalı,204350
+2188,Ordu,74,Ünye,774,Hamidiye,153341
+2189,Ordu,74,Ünye,774,Hanyanı,204938
+2190,Ordu,74,Ünye,774,Hızarbaşıgünlük,158817
+2191,Ordu,74,Ünye,774,Hızarbaşıkumarlı,155402
+2192,Ordu,74,Ünye,774,İnkur,206601
+2193,Ordu,74,Ünye,774,İpekyolu,204529
+2194,Ordu,74,Ünye,774,Kadılar,157991
+2195,Ordu,74,Ünye,774,Kale,157236
+2196,Ordu,74,Ünye,774,Kaledere,153150
+2197,Ordu,74,Ünye,774,Kaledibi,159141
+2198,Ordu,74,Ünye,774,Karşıyaka,204530
+2199,Ordu,74,Ünye,774,Keş,154541
+2200,Ordu,74,Ünye,774,Killik,201021
+2201,Ordu,74,Ünye,774,Kocuklu,204523
+2202,Ordu,74,Ünye,774,Kuşçulu,156905
+2203,Ordu,74,Ünye,774,Kuşdoğan,156205
+2204,Ordu,74,Ünye,774,Liseler,157457
+2205,Ordu,74,Ünye,774,Nadırlı,156545
+2206,Ordu,74,Ünye,774,Nurettin,154599
+2207,Ordu,74,Ünye,774,Nuriye,158786
+2208,Ordu,74,Ünye,774,Ortayılmazlar,157466
+2209,Ordu,74,Ünye,774,Pelitliyatak,157484
+2210,Ordu,74,Ünye,774,Pelitliyatak/Çalca,181093
+2211,Ordu,74,Ünye,774,Pelitliyatak/Fatih,181094
+2212,Ordu,74,Ünye,774,Pelitliyatak/Fındıklı,181095
+2213,Ordu,74,Ünye,774,Pelitliyatak/Güzelbahçe,181096
+2214,Ordu,74,Ünye,774,Pelitliyatak/Güzelyalı,181097
+2215,Ordu,74,Ünye,774,Pelitliyatak/İstiklal,181098
+2216,Ordu,74,Ünye,774,Pelitliyatak/Körfez,181099
+2217,Ordu,74,Ünye,774,Pelitliyatak/Ortamahalle,181100
+2218,Ordu,74,Ünye,774,Pelitliyatak/Yanıkyatak,181101
+2219,Ordu,74,Ünye,774,Pelitliyatak/Yeşilyurt,181102
+2220,Ordu,74,Ünye,774,Pelitliyatak/Yukarımahalle,181103
+2221,Ordu,74,Ünye,774,Pınarbaşı,169393
+2222,Ordu,74,Ünye,774,Sahilköy,204524
+2223,Ordu,74,Ünye,774,Saraçlı,159174
+2224,Ordu,74,Ünye,774,Saraycık,153694
+2225,Ordu,74,Ünye,774,Sarıhalil,156189
+2226,Ordu,74,Ünye,774,Saylan,160319
+2227,Ordu,74,Ünye,774,Sofutepesi,203717
+2228,Ordu,74,Ünye,774,Şehriman,160477
+2229,Ordu,74,Ünye,774,Şenyurt,204525
+2230,Ordu,74,Ünye,774,Taflancık,156707
+2231,Ordu,74,Ünye,774,Taşca,204526
+2232,Ordu,74,Ünye,774,Tekkiraz,159131
+2233,Ordu,74,Ünye,774,Tekkiraz\Atatürk,203715
+2234,Ordu,74,Ünye,774,Tekkiraz\Dereköy,181108
+2235,Ordu,74,Ünye,774,Tekkiraz\Ortaköy,181110
+2236,Ordu,74,Ünye,774,Tekkiraz\Yeniköy,181109
+2237,Ordu,74,Ünye,774,Tepeköy,156116
+2238,Ordu,74,Ünye,774,Uğurlu,156158
+2239,Ordu,74,Ünye,774,Üçpınar,155895
+2240,Ordu,74,Ünye,774,Yavi,156943
+2241,Ordu,74,Ünye,774,Yaycı,158804
+2242,Ordu,74,Ünye,774,Yaylalı,158685
+2243,Ordu,74,Ünye,774,Yazkonağı,202785
+2244,Ordu,74,Ünye,774,Yenikent/Ekincik,181104
+2245,Ordu,74,Ünye,774,Yenikent/Fatih,181105
+2246,Ordu,74,Ünye,774,Yenikent/Gaziler,181106
+2247,Ordu,74,Ünye,774,Yenikent/Karakışla,181107
+2248,Ordu,74,Ünye,774,Yenikent-Çamurlu,170820
+2249,Ordu,74,Ünye,774,Yenikent-Ortayılmazlar,154544
+2250,Ordu,74,Ünye,774,Yenikızılcakese,154542
+2251,Ordu,74,Ünye,774,Yeşilada,204527
+2252,Ordu,74,Ünye,774,Yeşilkent,206600
+2253,Ordu,74,Ünye,774,Yiğitler,153323
+2254,Ordu,74,Ünye,774,Yunus Emre,204531
+2255,Ordu,74,Ünye,774,Yüceler,156546
+2256,Samsun,77,Alaçam,800,Akbulut,205182
+2257,Samsun,77,Alaçam,800,Akgüney,134555
+2258,Samsun,77,Alaçam,800,Alidedebölmesi,14509
+2259,Samsun,77,Alaçam,800,Alparslan,203948
+2260,Samsun,77,Alaçam,800,Aşağıakgüney,205077
+2261,Samsun,77,Alaçam,800,Aşağıısırganlı,155659
+2262,Samsun,77,Alaçam,800,Aşağıkoçlu,155256
+2263,Samsun,77,Alaçam,800,Bahşioymağı,15441
+2264,Samsun,77,Alaçam,800,Bekiroğlu,14778
+2265,Samsun,77,Alaçam,800,Çeşme,157174
+2266,Samsun,77,Alaçam,800,Demircideresi,151921
+2267,Samsun,77,Alaçam,800,Doğankent,180625
+2268,Samsun,77,Alaçam,800,Doyran,134944
+2269,Samsun,77,Alaçam,800,Esentepe,205445
+2270,Samsun,77,Alaçam,800,Etyemez,153619
+2271,Samsun,77,Alaçam,800,Fatih,203947
+2272,Samsun,77,Alaçam,800,Göçkün,15367
+2273,Samsun,77,Alaçam,800,Gökçeağaçoymağı,15059
+2274,Samsun,77,Alaçam,800,Gökçeboğaz,154867
+2275,Samsun,77,Alaçam,800,Gülkaya,153398
+2276,Samsun,77,Alaçam,800,Gültepe,205995
+2277,Samsun,77,Alaçam,800,Gümüşova,14878
+2278,Samsun,77,Alaçam,800,Güvenli,205444
+2279,Samsun,77,Alaçam,800,Habilli,14757
+2280,Samsun,77,Alaçam,800,Harmancık,15285
+2281,Samsun,77,Alaçam,800,İncirli,134256
+2282,Samsun,77,Alaçam,800,Kadıköy,14689
+2283,Samsun,77,Alaçam,800,Kalukdemirci,153671
+2284,Samsun,77,Alaçam,800,Kalukkaraçukur,154879
+2285,Samsun,77,Alaçam,800,Kapaklı,153266
+2286,Samsun,77,Alaçam,800,Karahüseyinli,151756
+2287,Samsun,77,Alaçam,800,Karlı,200940
+2288,Samsun,77,Alaçam,800,Karşıyaka,153257
+2289,Samsun,77,Alaçam,800,Kışlakonak,154692
+2290,Samsun,77,Alaçam,800,Kızlan,15167
+2291,Samsun,77,Alaçam,800,Killik,155927
+2292,Samsun,77,Alaçam,800,Köseköy,134032
+2293,Samsun,77,Alaçam,800,Madenler,154466
+2294,Samsun,77,Alaçam,800,Ortaköy,154212
+2295,Samsun,77,Alaçam,800,Örenli,153781
+2296,Samsun,77,Alaçam,800,Pelitbükü,154934
+2297,Samsun,77,Alaçam,800,Pelitbüküsekecek,154517
+2298,Samsun,77,Alaçam,800,Sakarinek,155467
+2299,Samsun,77,Alaçam,800,Sancar,14430
+2300,Samsun,77,Alaçam,800,Sarılık,153267
+2301,Samsun,77,Alaçam,800,Soğukçam,155813
+2302,Samsun,77,Alaçam,800,Taşkelik,14950
+2303,Samsun,77,Alaçam,800,Tefekli,205076
+2304,Samsun,77,Alaçam,800,Tepebölmesi,154053
+2305,Samsun,77,Alaçam,800,Terskırık,16065
+2306,Samsun,77,Alaçam,800,Toplu,156998
+2307,Samsun,77,Alaçam,800,Umutlu,154667
+2308,Samsun,77,Alaçam,800,Uzunkıraç,154835
+2309,Samsun,77,Alaçam,800,Vicikler,153070
+2310,Samsun,77,Alaçam,800,Yakacık,155731
+2311,Samsun,77,Alaçam,800,Yenicami,14861
+2312,Samsun,77,Alaçam,800,Yenice,15323
+2313,Samsun,77,Alaçam,800,Yeniköy,200941
+2314,Samsun,77,Alaçam,800,Yeşilköy,205078
+2315,Samsun,77,Alaçam,800,Yoğunpelit,14490
+2316,Samsun,77,Alaçam,800,Yukarıelma,155834
+2317,Samsun,77,Alaçam,800,Yukarıısırganlı,152993
+2318,Samsun,77,Alaçam,800,Yukarıkoçlu,15986
+2319,Samsun,77,Alaçam,800,Yukarısoğukçam,15188
+2320,Samsun,77,Alaçam,800,Zeytin,200943
+2321,Samsun,77,Asarcık,801,Acısu,152924
+2322,Samsun,77,Asarcık,801,Akyazı,134257
+2323,Samsun,77,Asarcık,801,Alan,153576
+2324,Samsun,77,Asarcık,801,Alişar,133931
+2325,Samsun,77,Asarcık,801,Arıcak,154034
+2326,Samsun,77,Asarcık,801,Armutlu,157352
+2327,Samsun,77,Asarcık,801,Aşuru,151724
+2328,Samsun,77,Asarcık,801,Ayaklıalan,155269
+2329,Samsun,77,Asarcık,801,Aydın,153101
+2330,Samsun,77,Asarcık,801,Biçincik,152678
+2331,Samsun,77,Asarcık,801,Çulhaoğlu,13464
+2332,Samsun,77,Asarcık,801,Dağcılar,153118
+2333,Samsun,77,Asarcık,801,Emirmusa,134239
+2334,Samsun,77,Asarcık,801,Esentepe,153268
+2335,Samsun,77,Asarcık,801,Gökgöl,153127
+2336,Samsun,77,Asarcık,801,Gülveren,13981
+2337,Samsun,77,Asarcık,801,Gündoğdu,206158
+2338,Samsun,77,Asarcık,801,Hisariye,157339
+2339,Samsun,77,Asarcık,801,İmamlı,134945
+2340,Samsun,77,Asarcık,801,Kesealan,153601
+2341,Samsun,77,Asarcık,801,Kılavuzlu,136531
+2342,Samsun,77,Asarcık,801,Koşaca,133842
+2343,Samsun,77,Asarcık,801,Kuyumcuoğlu,13791
+2344,Samsun,77,Asarcık,801,Musaağa,153128
+2345,Samsun,77,Asarcık,801,Sakızlık,153236
+2346,Samsun,77,Asarcık,801,Uluköy,134825
+2347,Samsun,77,Asarcık,801,Yarımca,155149
+2348,Samsun,77,Asarcık,801,Yayla,136666
+2349,Samsun,77,Asarcık,801,Yeniömerli,155441
+2350,Samsun,77,Asarcık,801,Yeşildere,153752
+2351,Samsun,77,Asarcık,801,Yeşilköy,13710
+2352,Samsun,77,Ayvacık,802,Arduç,15041
+2353,Samsun,77,Ayvacık,802,Ayvacık Barajı,202523
+2354,Samsun,77,Ayvacık,802,Balahur Barajı,202522
+2355,Samsun,77,Ayvacık,802,Başalan,13674
+2356,Samsun,77,Ayvacık,802,Çamalan,14894
+2357,Samsun,77,Ayvacık,802,Çamlıkale,13308
+2358,Samsun,77,Ayvacık,802,Çarşıköy,13619
+2359,Samsun,77,Ayvacık,802,Çökekli,13764
+2360,Samsun,77,Ayvacık,802,Döngel,14084
+2361,Samsun,77,Ayvacık,802,Döngelyatak,153620
+2362,Samsun,77,Ayvacık,802,Esenyurt,14612
+2363,Samsun,77,Ayvacık,802,Eynel,14624
+2364,Samsun,77,Ayvacık,802,Eyüp Sultan,14316
+2365,Samsun,77,Ayvacık,802,Fatih Sultan Mehmet,14452
+2366,Samsun,77,Ayvacık,802,Gülpınar,203600
+2367,Samsun,77,Ayvacık,802,Gültepe,13935
+2368,Samsun,77,Ayvacık,802,Gürçam,13802
+2369,Samsun,77,Ayvacık,802,Güzelyurt,13378
+2370,Samsun,77,Ayvacık,802,Kabaklık,14616
+2371,Samsun,77,Ayvacık,802,Kapıkaya,155348
+2372,Samsun,77,Ayvacık,802,Karaağaç,153244
+2373,Samsun,77,Ayvacık,802,Karşıdöngel,157201
+2374,Samsun,77,Ayvacık,802,Kazancılı,13446
+2375,Samsun,77,Ayvacık,802,Keskinoğlu,14231
+2376,Samsun,77,Ayvacık,802,Koçyurdu,14160
+2377,Samsun,77,Ayvacık,802,Meşelidüz,13849
+2378,Samsun,77,Ayvacık,802,Orhangazi,13901
+2379,Samsun,77,Ayvacık,802,Orta,133932
+2380,Samsun,77,Ayvacık,802,Ortaköy,14094
+2381,Samsun,77,Ayvacık,802,Osmanlı,204361
+2382,Samsun,77,Ayvacık,802,Örencik,14260
+2383,Samsun,77,Ayvacık,802,Sahilköy,157186
+2384,Samsun,77,Ayvacık,802,Söğütpınar,152132
+2385,Samsun,77,Ayvacık,802,Şenpınar,14414
+2386,Samsun,77,Ayvacık,802,Tepealtı,13830
+2387,Samsun,77,Ayvacık,802,Terice,13538
+2388,Samsun,77,Ayvacık,802,Tiryakioğlu,14141
+2389,Samsun,77,Ayvacık,802,Uğurlu,13371
+2390,Samsun,77,Ayvacık,802,Yenice,13664
+2391,Samsun,77,Ayvacık,802,Yeniköy,155616
+2392,Samsun,77,Ayvacık,802,Yeşilçam,13957
+2393,Samsun,77,Ayvacık,802,Yeşildere,134693
+2394,Samsun,77,Ayvacık,802,Yeşilpınar,14591
+2395,Samsun,77,Ayvacık,802,Yunus Emre,13691
+2396,Samsun,77,Ayvacık,802,Zaferköy,14351
+2397,Samsun,77,Bafra,803,Adaköy,152981
+2398,Samsun,77,Bafra,803,Ağcaalan,133845
+2399,Samsun,77,Bafra,803,Ağıllar,170767
+2400,Samsun,77,Bafra,803,Akalan,153742
+2401,Samsun,77,Bafra,803,Aktekke,170768
+2402,Samsun,77,Bafra,803,Alaçam,151402
+2403,Samsun,77,Bafra,803,Alparslan,153532
+2404,Samsun,77,Bafra,803,Altınova,205127
+2405,Samsun,77,Bafra,803,Asar,151591
+2406,Samsun,77,Bafra,803,Asmaçam,151785
+2407,Samsun,77,Bafra,803,Azay,170197
+2408,Samsun,77,Bafra,803,Bahçeler,154781
+2409,Samsun,77,Bafra,803,Bakırpınar,155746
+2410,Samsun,77,Bafra,803,Balıklar,170770
+2411,Samsun,77,Bafra,803,Barış,203789
+2412,Samsun,77,Bafra,803,Başaran,153621
+2413,Samsun,77,Bafra,803,Başkaya,170790
+2414,Samsun,77,Bafra,803,Bengü,153269
+2415,Samsun,77,Bafra,803,Boğazkaya,170771
+2416,Samsun,77,Bafra,803,Burunca,154669
+2417,Samsun,77,Bafra,803,Büyükcami,155791
+2418,Samsun,77,Bafra,803,Büyükyeraltı,170789
+2419,Samsun,77,Bafra,803,Büzmelek,136654
+2420,Samsun,77,Bafra,803,Cırıklar,170773
+2421,Samsun,77,Bafra,803,Cumhuriyet,134666
+2422,Samsun,77,Bafra,803,Çalköy,170772
+2423,Samsun,77,Bafra,803,Çamaltı,155052
+2424,Samsun,77,Bafra,803,Çatak,204294
+2425,Samsun,77,Bafra,803,Çataltepe,204902
+2426,Samsun,77,Bafra,803,Çilhane,153304
+2427,Samsun,77,Bafra,803,Çulhakoca,170793
+2428,Samsun,77,Bafra,803,Darboğaz,155815
+2429,Samsun,77,Bafra,803,Dededağı,170911
+2430,Samsun,77,Bafra,803,Dedeli,133933
+2431,Samsun,77,Bafra,803,Derbent,170794
+2432,Samsun,77,Bafra,803,Dereler,153594
+2433,Samsun,77,Bafra,803,Dikencik,154670
+2434,Samsun,77,Bafra,803,Doğanca,205128
+2435,Samsun,77,Bafra,803,Doğankaya,151554
+2436,Samsun,77,Bafra,803,Düzköy,154232
+2437,Samsun,77,Bafra,803,Ekiztepe,157175
+2438,Samsun,77,Bafra,803,Elalan,156999
+2439,Samsun,77,Bafra,803,Eldavut,154482
+2440,Samsun,77,Bafra,803,Elifli,151571
+2441,Samsun,77,Bafra,803,Emenli,153928
+2442,Samsun,77,Bafra,803,Emirefendi,133858
+2443,Samsun,77,Bafra,803,Esençay,151740
+2444,Samsun,77,Bafra,803,Evrenuşağı,154880
+2445,Samsun,77,Bafra,803,Eynegazi,156983
+2446,Samsun,77,Bafra,803,Fener,134240
+2447,Samsun,77,Bafra,803,Fevziçakmak,204132
+2448,Samsun,77,Bafra,803,Gazibeyli,155876
+2449,Samsun,77,Bafra,803,Gaziosmanpaşa,154963
+2450,Samsun,77,Bafra,803,Gazipaşa,155623
+2451,Samsun,77,Bafra,803,Gerzeliler,204268
+2452,Samsun,77,Bafra,803,Gökalan,133857
+2453,Samsun,77,Bafra,803,Gökçeağaç,154095
+2454,Samsun,77,Bafra,803,Gökçekent,204903
+2455,Samsun,77,Bafra,803,Gökçesu,155860
+2456,Samsun,77,Bafra,803,Göltepe,154719
+2457,Samsun,77,Bafra,803,Hacınabi,153977
+2458,Samsun,77,Bafra,803,Hacıoğlu,136504
+2459,Samsun,77,Bafra,803,Harız,153258
+2460,Samsun,77,Bafra,803,Hıdırellez,200947
+2461,Samsun,77,Bafra,803,Hırsamengenler,151950
+2462,Samsun,77,Bafra,803,Hüseyinbeyli,153412
+2463,Samsun,77,Bafra,803,İğdir,155469
+2464,Samsun,77,Bafra,803,İkizpınar,155564
+2465,Samsun,77,Bafra,803,İlyaslı,133934
+2466,Samsun,77,Bafra,803,İnözükoşaca,136667
+2467,Samsun,77,Bafra,803,İshaklı,152495
+2468,Samsun,77,Bafra,803,İsmetpaşa,153978
+2469,Samsun,77,Bafra,803,Kahraman,170769
+2470,Samsun,77,Bafra,803,Kalaycılı,151403
+2471,Samsun,77,Bafra,803,Kanberli,154055
+2472,Samsun,77,Bafra,803,Kanlıgüney,154767
+2473,Samsun,77,Bafra,803,Kapıkaya,133988
+2474,Samsun,77,Bafra,803,Karaburç,170791
+2475,Samsun,77,Bafra,803,Karakütük,154285
+2476,Samsun,77,Bafra,803,Karıncak,204269
+2477,Samsun,77,Bafra,803,Kavakpınar,152507
+2478,Samsun,77,Bafra,803,Kaygusuz,157154
+2479,Samsun,77,Bafra,803,Kelikler,170777
+2480,Samsun,77,Bafra,803,Keresteci,157308
+2481,Samsun,77,Bafra,803,Kızılırmak,154483
+2482,Samsun,77,Bafra,803,Kolay,153672
+2483,Samsun,77,Bafra,803,Komşupınar,155816
+2484,Samsun,77,Bafra,803,Koruluk,134665
+2485,Samsun,77,Bafra,803,Koşu,153367
+2486,Samsun,77,Bafra,803,Kozağzı,155817
+2487,Samsun,77,Bafra,803,Köseli,154063
+2488,Samsun,77,Bafra,803,Kuşcular,155084
+2489,Samsun,77,Bafra,803,Kuşlağan,170912
+2490,Samsun,77,Bafra,803,Kuzalan,135194
+2491,Samsun,77,Bafra,803,Küçükkavakpınar,155245
+2492,Samsun,77,Bafra,803,Lengerli,155790
+2493,Samsun,77,Bafra,803,Mardar,153428
+2494,Samsun,77,Bafra,803,Meşelitürkmenler,157539
+2495,Samsun,77,Bafra,803,Muamlı,153559
+2496,Samsun,77,Bafra,803,Müstecep,134069
+2497,Samsun,77,Bafra,803,Ortadurak,154851
+2498,Samsun,77,Bafra,803,Osmanbeyli,134826
+2499,Samsun,77,Bafra,803,Ozan,155950
+2500,Samsun,77,Bafra,803,Örencik,157000
+2501,Samsun,77,Bafra,803,Paşaşeyh,133994
+2502,Samsun,77,Bafra,803,Peskeller,170778
+2503,Samsun,77,Bafra,803,Sahilkent,170776
+2504,Samsun,77,Bafra,803,Sarıçevre,154952
+2505,Samsun,77,Bafra,803,Sarıkaya,204328
+2506,Samsun,77,Bafra,803,Sarıköy,170779
+2507,Samsun,77,Bafra,803,Sarpın,157614
+2508,Samsun,77,Bafra,803,Selemelik,170783
+2509,Samsun,77,Bafra,803,Sürmeli,152133
+2510,Samsun,77,Bafra,803,Şahinkaya,153281
+2511,Samsun,77,Bafra,803,Şeyhören,155453
+2512,Samsun,77,Bafra,803,Şeyhulaş,170784
+2513,Samsun,77,Bafra,803,Şirinköy,170775
+2514,Samsun,77,Bafra,803,Tabakhane,152900
+2515,Samsun,77,Bafra,803,Taşköprü,153976
+2516,Samsun,77,Bafra,803,Tepebaşı,133752
+2517,Samsun,77,Bafra,803,Tepecik,170792
+2518,Samsun,77,Bafra,803,Terzili,154259
+2519,Samsun,77,Bafra,803,Türbe,170780
+2520,Samsun,77,Bafra,803,Türkköy,155257
+2521,Samsun,77,Bafra,803,Uluağaç,170786
+2522,Samsun,77,Bafra,803,Üçpınar,151420
+2523,Samsun,77,Bafra,803,Yağmurca,170781
+2524,Samsun,77,Bafra,803,Yaka,155653
+2525,Samsun,77,Bafra,803,Yenialan,153485
+2526,Samsun,77,Bafra,803,Yeniköy,155758
+2527,Samsun,77,Bafra,803,Yeşilköy,170788
+2528,Samsun,77,Bafra,803,Yeşilyazı,154064
+2529,Samsun,77,Bafra,803,Yiğitalan,170787
+2530,Samsun,77,Bafra,803,Yörgüç,170782
+2531,Samsun,77,Çarşamba,804,A.Ağcagüney,152911
+2532,Samsun,77,Çarşamba,804,A.Dikencik,153073
+2533,Samsun,77,Çarşamba,804,A.Donurlu,134960
+2534,Samsun,77,Çarşamba,804,A.Esenli,133935
+2535,Samsun,77,Çarşamba,804,A.Kavacık,155095
+2536,Samsun,77,Çarşamba,804,Acıklı,133913
+2537,Samsun,77,Çarşamba,804,Ahubaba,153800
+2538,Samsun,77,Çarşamba,804,Akçaltı,15204
+2539,Samsun,77,Çarşamba,804,Akçatarla,153237
+2540,Samsun,77,Çarşamba,804,Akkuzulu,155053
+2541,Samsun,77,Çarşamba,804,Ali Fuat Başgil,204611
+2542,Samsun,77,Çarşamba,804,Alibeyli,157615
+2543,Samsun,77,Çarşamba,804,Allı,14313
+2544,Samsun,77,Çarşamba,804,Arımköseli,153472
+2545,Samsun,77,Çarşamba,804,Aşağı Musalla,153903
+2546,Samsun,77,Çarşamba,804,Aşağıturgutlu,14475
+2547,Samsun,77,Çarşamba,804,Aşıklı,15103
+2548,Samsun,77,Çarşamba,804,Ataköy,15251
+2549,Samsun,77,Çarşamba,804,Bafracalı,152105
+2550,Samsun,77,Çarşamba,804,Bayramlı,153119
+2551,Samsun,77,Çarşamba,804,Beylerce,155349
+2552,Samsun,77,Çarşamba,804,Beyyenice,15209
+2553,Samsun,77,Çarşamba,804,Bezirgan,150028
+2554,Samsun,77,Çarşamba,804,Boyacılı,151404
+2555,Samsun,77,Çarşamba,804,Bölmeçayır,134679
+2556,Samsun,77,Çarşamba,804,Canlı,14365
+2557,Samsun,77,Çarşamba,804,Cumhuriyet,207751
+2558,Samsun,77,Çarşamba,804,Çaltı,202644
+2559,Samsun,77,Çarşamba,804,Çamlıca,134829
+2560,Samsun,77,Çarşamba,804,Çatak,155971
+2561,Samsun,77,Çarşamba,804,Çay,14418
+2562,Samsun,77,Çarşamba,804,Çayvar,202645
+2563,Samsun,77,Çarşamba,804,Çelikli,14697
+2564,Samsun,77,Çarşamba,804,Çerçiler,152996
+2565,Samsun,77,Çarşamba,804,Çınarlık,152134
+2566,Samsun,77,Çarşamba,804,Dalbahçe,157554
+2567,Samsun,77,Çarşamba,804,Damlataş,153579
+2568,Samsun,77,Çarşamba,804,Demirarslan,155384
+2569,Samsun,77,Çarşamba,804,Demircili,151615
+2570,Samsun,77,Çarşamba,804,Demirli,153213
+2571,Samsun,77,Çarşamba,804,Denizler,151786
+2572,Samsun,77,Çarşamba,804,Deyincek,152106
+2573,Samsun,77,Çarşamba,804,Dikbıyık,155819
+2574,Samsun,77,Çarşamba,804,Durakbaşı,153595
+2575,Samsun,77,Çarşamba,804,Durusu,204378
+2576,Samsun,77,Çarşamba,804,Eğercili,154467
+2577,Samsun,77,Çarşamba,804,Eğridere,15014
+2578,Samsun,77,Çarşamba,804,Eğrikum,153445
+2579,Samsun,77,Çarşamba,804,Epçeli,153941
+2580,Samsun,77,Çarşamba,804,Esençay,14587
+2581,Samsun,77,Çarşamba,804,Esentepe,152496
+2582,Samsun,77,Çarşamba,804,Gökçeçakmak,157157
+2583,Samsun,77,Çarşamba,804,Gökçeli,157178
+2584,Samsun,77,Çarşamba,804,Güldere,204303
+2585,Samsun,77,Çarşamba,804,Gülören,14580
+2586,Samsun,77,Çarşamba,804,Gülyazı,203757
+2587,Samsun,77,Çarşamba,804,Güneşli,152316
+2588,Samsun,77,Çarşamba,804,Güzpınar,136532
+2589,Samsun,77,Çarşamba,804,Hacılıçay,155578
+2590,Samsun,77,Çarşamba,804,Hasabahçe,155579
+2591,Samsun,77,Çarşamba,804,Helvacalı,155072
+2592,Samsun,77,Çarşamba,804,Hürriyet,205869
+2593,Samsun,77,Çarşamba,804,Irmaksırtı,153473
+2594,Samsun,77,Çarşamba,804,İstiklal,206426
+2595,Samsun,77,Çarşamba,804,Kabaceviz,13999
+2596,Samsun,77,Çarşamba,804,Karaağaç,157521
+2597,Samsun,77,Çarşamba,804,Karabahçe,153238
+2598,Samsun,77,Çarşamba,804,Karacalı,202646
+2599,Samsun,77,Çarşamba,804,Karakaya,154852
+2600,Samsun,77,Çarşamba,804,Karakulak,204724
+2601,Samsun,77,Çarşamba,804,Karamustafalı,157555
+2602,Samsun,77,Çarşamba,804,Kaydan,153673
+2603,Samsun,77,Çarşamba,804,Kemer,14621
+2604,Samsun,77,Çarşamba,804,Kestanepınar,151936
+2605,Samsun,77,Çarşamba,804,Kızılot,154066
+2606,Samsun,77,Çarşamba,804,Kirazbucağı,154935
+2607,Samsun,77,Çarşamba,804,Kirazlıkçay,14994
+2608,Samsun,77,Çarşamba,804,Kocakavak,152997
+2609,Samsun,77,Çarşamba,804,Koldere,14743
+2610,Samsun,77,Çarşamba,804,Konukluk,153214
+2611,Samsun,77,Çarşamba,804,Köklük,155073
+2612,Samsun,77,Çarşamba,804,Köroğlu,13974
+2613,Samsun,77,Çarşamba,804,Kumköy,15370
+2614,Samsun,77,Çarşamba,804,Kumtepe,200951
+2615,Samsun,77,Çarşamba,804,Kurtahmetli,153027
+2616,Samsun,77,Çarşamba,804,Kurtuluş,153890
+2617,Samsun,77,Çarşamba,804,Kuşçulu,157309
+2618,Samsun,77,Çarşamba,804,Kuşhane,153904
+2619,Samsun,77,Çarşamba,804,Kürtün,151727
+2620,Samsun,77,Çarşamba,804,Mahmutlu,151405
+2621,Samsun,77,Çarşamba,804,Melik,155820
+2622,Samsun,77,Çarşamba,804,Muşcalı,136533
+2623,Samsun,77,Çarşamba,804,Namazlı,135196
+2624,Samsun,77,Çarşamba,804,Ordu,155350
+2625,Samsun,77,Çarşamba,804,Ordubaşı,153185
+2626,Samsun,77,Çarşamba,804,Orta,151742
+2627,Samsun,77,Çarşamba,804,Otluk,154067
+2628,Samsun,77,Çarşamba,804,Ovacık,14830
+2629,Samsun,77,Çarşamba,804,Oymalı,14738
+2630,Samsun,77,Çarşamba,804,Ömerli,14427
+2631,Samsun,77,Çarşamba,804,Paşayazı,149843
+2632,Samsun,77,Çarşamba,804,Porsuk,157189
+2633,Samsun,77,Çarşamba,804,Sahilköy,202647
+2634,Samsun,77,Çarşamba,804,Saraçlı,134972
+2635,Samsun,77,Çarşamba,804,Sarıcalı,154836
+2636,Samsun,77,Çarşamba,804,Sefalı,154507
+2637,Samsun,77,Çarşamba,804,Selimiye,154274
+2638,Samsun,77,Çarşamba,804,Sığırtmaç,155640
+2639,Samsun,77,Çarşamba,804,Soğucak,152926
+2640,Samsun,77,Çarşamba,804,Suğluca,155702
+2641,Samsun,77,Çarşamba,804,Sungurlu,153891
+2642,Samsun,77,Çarşamba,804,Şehgüven,14335
+2643,Samsun,77,Çarşamba,804,Şenyurt,204542
+2644,Samsun,77,Çarşamba,804,Şeyhhabil,14837
+2645,Samsun,77,Çarşamba,804,Taşdemir,154770
+2646,Samsun,77,Çarşamba,804,Tatarlı,154974
+2647,Samsun,77,Çarşamba,804,Tilkili,15161
+2648,Samsun,77,Çarşamba,804,Turgutlu,155334
+2649,Samsun,77,Çarşamba,804,Uluköy,14252
+2650,Samsun,77,Çarşamba,804,Ulupınar,153420
+2651,Samsun,77,Çarşamba,804,Umut,204730
+2652,Samsun,77,Çarşamba,804,Ustacalı,157179
+2653,Samsun,77,Çarşamba,804,Uzunlu,155984
+2654,Samsun,77,Çarşamba,804,Üçköprü,204580
+2655,Samsun,77,Çarşamba,804,Vakıfköprü,155054
+2656,Samsun,77,Çarşamba,804,Y.Ağcagüney,155272
+2657,Samsun,77,Çarşamba,804,Y.Dikencik,153413
+2658,Samsun,77,Çarşamba,804,Y.Donurlu,136505
+2659,Samsun,77,Çarşamba,804,Y.Esenli,155774
+2660,Samsun,77,Çarşamba,804,Y.Kavacık,134542
+2661,Samsun,77,Çarşamba,804,Yamanlı,155930
+2662,Samsun,77,Çarşamba,804,Yaycılar,135214
+2663,Samsun,77,Çarşamba,804,Yeni Karacalı,136668
+2664,Samsun,77,Çarşamba,804,Yeniköseli,14323
+2665,Samsun,77,Çarşamba,804,Yeşildere,205778
+2666,Samsun,77,Çarşamba,804,Yeşilırmak,207954
+2667,Samsun,77,Çarşamba,804,Yeşilova,14615
+2668,Samsun,77,Çarşamba,804,Yukarı Karabahçe,204725
+2669,Samsun,77,Çarşamba,804,Zümrüt,202648
+2670,Samsun,77,Havza,805,19 Mayıs,153011
+2671,Samsun,77,Havza,805,25 Mayıs,151731
+2672,Samsun,77,Havza,805,Ağcamahmut,134543
+2673,Samsun,77,Havza,805,Ağdırhasan,151574
+2674,Samsun,77,Havza,805,Arslançayır,154680
+2675,Samsun,77,Havza,805,Aşağısusuz,152892
+2676,Samsun,77,Havza,805,Aşağıyavucuk,202762
+2677,Samsun,77,Havza,805,Başpelit,135215
+2678,Samsun,77,Havza,805,Bekdiğin,155376
+2679,Samsun,77,Havza,805,Belalan,153460
+2680,Samsun,77,Havza,805,Beyköy,151951
+2681,Samsun,77,Havza,805,Beyören,154288
+2682,Samsun,77,Havza,805,Boyalı,155055
+2683,Samsun,77,Havza,805,Boyalıca,155444
+2684,Samsun,77,Havza,805,Celil,153930
+2685,Samsun,77,Havza,805,Cevizlik,154839
+2686,Samsun,77,Havza,805,Çakıralan,155458
+2687,Samsun,77,Havza,805,Çamyatağı,154856
+2688,Samsun,77,Havza,805,Çay,154891
+2689,Samsun,77,Havza,805,Çayırözü,136659
+2690,Samsun,77,Havza,805,Çelikalan,154070
+2691,Samsun,77,Havza,805,Çeltek,134976
+2692,Samsun,77,Havza,805,Çiftlik,153944
+2693,Samsun,77,Havza,805,Değirmenüstü,155751
+2694,Samsun,77,Havza,805,Demiryurt,155336
+2695,Samsun,77,Havza,805,Dereköy,153567
+2696,Samsun,77,Havza,805,Doğançayır,156988
+2697,Samsun,77,Havza,805,Dündarlı,154202
+2698,Samsun,77,Havza,805,Ekinpınarı,134552
+2699,Samsun,77,Havza,805,Elmacık,154976
+2700,Samsun,77,Havza,805,Ereli,156989
+2701,Samsun,77,Havza,805,Erikbelen,153204
+2702,Samsun,77,Havza,805,Ersandık,154564
+2703,Samsun,77,Havza,805,Esenbey,154681
+2704,Samsun,77,Havza,805,Eymir,153305
+2705,Samsun,77,Havza,805,Gelincik,154857
+2706,Samsun,77,Havza,805,Gidirli,152484
+2707,Samsun,77,Havza,805,Göçmenler,155705
+2708,Samsun,77,Havza,805,Güvercinlik,155056
+2709,Samsun,77,Havza,805,Hacıbattal,157542
+2710,Samsun,77,Havza,805,Hacıdede,153844
+2711,Samsun,77,Havza,805,Hecinli,153292
+2712,Samsun,77,Havza,805,Hilmiye,153369
+2713,Samsun,77,Havza,805,Ilıca,152320
+2714,Samsun,77,Havza,805,İcadiye,151411
+2715,Samsun,77,Havza,805,İmaret,153945
+2716,Samsun,77,Havza,805,İmircik,155842
+2717,Samsun,77,Havza,805,İnönü,154085
+2718,Samsun,77,Havza,805,Kale,154245
+2719,Samsun,77,Havza,805,Kamlık,155761
+2720,Samsun,77,Havza,805,Karabük,134079
+2721,Samsun,77,Havza,805,Karageçmiş,134080
+2722,Samsun,77,Havza,805,Karahalil,155662
+2723,Samsun,77,Havza,805,Karameşe,153605
+2724,Samsun,77,Havza,805,Karga,135091
+2725,Samsun,77,Havza,805,Karşıyaka,155844
+2726,Samsun,77,Havza,805,Kayabaşı,153606
+2727,Samsun,77,Havza,805,Kayacık,135072
+2728,Samsun,77,Havza,805,Kemaliye,157314
+2729,Samsun,77,Havza,805,Kıroğlu,151789
+2730,Samsun,77,Havza,805,Kirenlik,153018
+2731,Samsun,77,Havza,805,Kocaoğlu,155843
+2732,Samsun,77,Havza,805,Kocapınar,153254
+2733,Samsun,77,Havza,805,Kuşkonağı,155063
+2734,Samsun,77,Havza,805,Küflek,155355
+2735,Samsun,77,Havza,805,Medrese,153537
+2736,Samsun,77,Havza,805,Memduhiye,155285
+2737,Samsun,77,Havza,805,Meryemdere,153404
+2738,Samsun,77,Havza,805,Mesudiye,151388
+2739,Samsun,77,Havza,805,Mısmılağaç,153093
+2740,Samsun,77,Havza,805,Mürsel,154036
+2741,Samsun,77,Havza,805,Orhaniye,154098
+2742,Samsun,77,Havza,805,Ortaklar,136660
+2743,Samsun,77,Havza,805,Paşapınar,157355
+2744,Samsun,77,Havza,805,Pınarçayır,157558
+2745,Samsun,77,Havza,805,Sivrikese,155736
+2746,Samsun,77,Havza,805,Sofular,157366
+2747,Samsun,77,Havza,805,Şerifali,154721
+2748,Samsun,77,Havza,805,Şeyhali,153894
+2749,Samsun,77,Havza,805,Şeyhkoyun,135216
+2750,Samsun,77,Havza,805,Şeyhler,153744
+2751,Samsun,77,Havza,805,Şeyhsafi,151410
+2752,Samsun,77,Havza,805,Taşkaracaören,154071
+2753,Samsun,77,Havza,805,Tekke,153785
+2754,Samsun,77,Havza,805,Tuzla,152306
+2755,Samsun,77,Havza,805,Uluçal,153489
+2756,Samsun,77,Havza,805,Yağcımahmut,151355
+2757,Samsun,77,Havza,805,Yaylaçatı,153283
+2758,Samsun,77,Havza,805,Yazıkışla,154485
+2759,Samsun,77,Havza,805,Yeni,157356
+2760,Samsun,77,Havza,805,Yenice,154115
+2761,Samsun,77,Havza,805,Yenimescit,154048
+2762,Samsun,77,Havza,805,Yeşilalan,153754
+2763,Samsun,77,Havza,805,Yukarısusuz,153448
+2764,Samsun,77,Havza,805,Yukarıyavucuk,153818
+2765,Samsun,77,Kavak,806,Ağcakise,153608
+2766,Samsun,77,Kavak,806,Ahırlı,154858
+2767,Samsun,77,Kavak,806,Akbelen,153012
+2768,Samsun,77,Kavak,806,Alaçam,153624
+2769,Samsun,77,Kavak,806,Alagömlek,151602
+2770,Samsun,77,Kavak,806,Artıklı,151422
+2771,Samsun,77,Kavak,806,Aşağıçirişli,133923
+2772,Samsun,77,Kavak,806,Azaklı,153906
+2773,Samsun,77,Kavak,806,Başalan,153044
+2774,Samsun,77,Kavak,806,Bayındır,154859
+2775,Samsun,77,Kavak,806,Bayraklı,152680
+2776,Samsun,77,Kavak,806,Bekdemir,153079
+2777,Samsun,77,Kavak,806,Belalan,153405
+2778,Samsun,77,Kavak,806,Beybesli,153964
+2779,Samsun,77,Kavak,806,Beyköy,157367
+2780,Samsun,77,Kavak,806,Boğaziçi,155664
+2781,Samsun,77,Kavak,806,Bükceğiz,153031
+2782,Samsun,77,Kavak,806,Büyükçukur,155292
+2783,Samsun,77,Kavak,806,Celallı,151952
+2784,Samsun,77,Kavak,806,Çakallı,153965
+2785,Samsun,77,Kavak,806,Çalbaşı,152984
+2786,Samsun,77,Kavak,806,Çarıklıbaşı,154977
+2787,Samsun,77,Kavak,806,Çataltepe,157192
+2788,Samsun,77,Kavak,806,Çayırlı,150032
+2789,Samsun,77,Kavak,806,Çiçekyazı,155556
+2790,Samsun,77,Kavak,806,Çiğdem,154234
+2791,Samsun,77,Kavak,806,Çivril,157315
+2792,Samsun,77,Kavak,806,Çukurbük,154246
+2793,Samsun,77,Kavak,806,Değirmencili,151603
+2794,Samsun,77,Kavak,806,Demirci,153493
+2795,Samsun,77,Kavak,806,Dereköy,151604
+2796,Samsun,77,Kavak,806,Divanbaşı,153885
+2797,Samsun,77,Kavak,806,Duman,157562
+2798,Samsun,77,Kavak,806,Dura,153433
+2799,Samsun,77,Kavak,806,Emirli,155762
+2800,Samsun,77,Kavak,806,Eskitoptepe,152881
+2801,Samsun,77,Kavak,806,Germiyan,154771
+2802,Samsun,77,Kavak,806,Geyikalan,134402
+2803,Samsun,77,Kavak,806,Göçebe,155286
+2804,Samsun,77,Kavak,806,Güneyce,151732
+2805,Samsun,77,Kavak,806,Hacılı,153676
+2806,Samsun,77,Kavak,806,Ilıca,135198
+2807,Samsun,77,Kavak,806,İdrisli,155236
+2808,Samsun,77,Kavak,806,İkizdere,153246
+2809,Samsun,77,Kavak,806,Kapuhayat,151558
+2810,Samsun,77,Kavak,806,Karaaslan,133924
+2811,Samsun,77,Kavak,806,Karacalar,152498
+2812,Samsun,77,Kavak,806,Karadağ,157327
+2813,Samsun,77,Kavak,806,Karantu,153370
+2814,Samsun,77,Kavak,806,Karapınar,152894
+2815,Samsun,77,Kavak,806,Karayusuflu,151747
+2816,Samsun,77,Kavak,806,Karga,151369
+2817,Samsun,77,Kavak,806,Karlı,155665
+2818,Samsun,77,Kavak,806,Kaya,153946
+2819,Samsun,77,Kavak,806,Kayabaşı,206159
+2820,Samsun,77,Kavak,806,Kazancı,151940
+2821,Samsun,77,Kavak,806,Kethüda,153272
+2822,Samsun,77,Kavak,806,Kozansıkı,154037
+2823,Samsun,77,Kavak,806,Köseli,134253
+2824,Samsun,77,Kavak,806,Kurşunlu,155064
+2825,Samsun,77,Kavak,806,Kuzalan,153461
+2826,Samsun,77,Kavak,806,Küçükçukur,155988
+2827,Samsun,77,Kavak,806,Mahmutbeyli,152322
+2828,Samsun,77,Kavak,806,Mahmutlu,154520
+2829,Samsun,77,Kavak,806,Mehmetpaşa,152999
+2830,Samsun,77,Kavak,806,Mert,170425
+2831,Samsun,77,Kavak,806,Muhsinli,152667
+2832,Samsun,77,Kavak,806,Muratbeyli,154203
+2833,Samsun,77,Kavak,806,Ortaköy,153895
+2834,Samsun,77,Kavak,806,Saraykent,154038
+2835,Samsun,77,Kavak,806,Sarıalan,153293
+2836,Samsun,77,Kavak,806,Seyitali,133860
+2837,Samsun,77,Kavak,806,Sıralı,153583
+2838,Samsun,77,Kavak,806,Soğuksu,155337
+2839,Samsun,77,Kavak,806,Susuz,155237
+2840,Samsun,77,Kavak,806,Şeyhli,155617
+2841,Samsun,77,Kavak,806,Şeyhresul,155823
+2842,Samsun,77,Kavak,806,Tabaklı,153568
+2843,Samsun,77,Kavak,806,Talışman,154682
+2844,Samsun,77,Kavak,806,Tatarmuslu,153549
+2845,Samsun,77,Kavak,806,Tekke,134413
+2846,Samsun,77,Kavak,806,Tepecik,157378
+2847,Samsun,77,Kavak,806,Üçhanlar,152122
+2848,Samsun,77,Kavak,806,Yaşardoğu,155287
+2849,Samsun,77,Kavak,806,Yenicami,155845
+2850,Samsun,77,Kavak,806,Yenigün,155445
+2851,Samsun,77,Kavak,806,Yenitoptepe,154522
+2852,Samsun,77,Kavak,806,Yeralan,151397
+2853,Samsun,77,Kavak,806,Yukarı Dereköy,152901
+2854,Samsun,77,Kavak,806,Yukarıçirişli,154204
+2855,Samsun,77,Ladik,807,Ağcakaya,134049
+2856,Samsun,77,Ladik,807,Ahmetsaray,13749
+2857,Samsun,77,Ladik,807,Akpınar,205191
+2858,Samsun,77,Ladik,807,Aktaş,14618
+2859,Samsun,77,Ladik,807,Akyar,153284
+2860,Samsun,77,Ladik,807,Alayurt,13986
+2861,Samsun,77,Ladik,807,Alıçlı,154073
+2862,Samsun,77,Ladik,807,Aslantaş,155955
+2863,Samsun,77,Ladik,807,Aşağıgölyazı,14058
+2864,Samsun,77,Ladik,807,Ayvalı,151575
+2865,Samsun,77,Ladik,807,Ayvalısokağı,14125
+2866,Samsun,77,Ladik,807,Bahşi,13673
+2867,Samsun,77,Ladik,807,Başlamış,153769
+2868,Samsun,77,Ladik,807,Bolat,154521
+2869,Samsun,77,Ladik,807,Budakdere,13020
+2870,Samsun,77,Ladik,807,Büyükalan,153371
+2871,Samsun,77,Ladik,807,Büyükkızoğlu,154967
+2872,Samsun,77,Ladik,807,Cüce,134082
+2873,Samsun,77,Ladik,807,Çadırkaya,155737
+2874,Samsun,77,Ladik,807,Çakırgümüş,152895
+2875,Samsun,77,Ladik,807,Çamlıköy,134696
+2876,Samsun,77,Ladik,807,Daldere,151593
+2877,Samsun,77,Ladik,807,Deliahmetoğlu,154893
+2878,Samsun,77,Ladik,807,Derinöz,155542
+2879,Samsun,77,Ladik,807,Doğankaş,153494
+2880,Samsun,77,Ladik,807,Eynekaraca,153490
+2881,Samsun,77,Ladik,807,Günkoru,151398
+2882,Samsun,77,Ladik,807,Gürün,155989
+2883,Samsun,77,Ladik,807,Güvenli,14462
+2884,Samsun,77,Ladik,807,Hacıalipınarı,13919
+2885,Samsun,77,Ladik,807,Hamamayağı,14619
+2886,Samsun,77,Ladik,807,Hamit,153931
+2887,Samsun,77,Ladik,807,Hasırcı,14213
+2888,Samsun,77,Ladik,807,Hızarbaşı,154228
+2889,Samsun,77,Ladik,807,İbi,155087
+2890,Samsun,77,Ladik,807,İsasofta,14256
+2891,Samsun,77,Ladik,807,İskaniye,134838
+2892,Samsun,77,Ladik,807,Kabacagöz,155881
+2893,Samsun,77,Ladik,807,Karaabdal,155088
+2894,Samsun,77,Ladik,807,Kıranboğaz,155583
+2895,Samsun,77,Ladik,807,Kızılsini,153414
+2896,Samsun,77,Ladik,807,Kirazpınar,153407
+2897,Samsun,77,Ladik,807,Koğa,151389
+2898,Samsun,77,Ladik,807,Köseoğlu,14795
+2899,Samsun,77,Ladik,807,Kuyucak,13443
+2900,Samsun,77,Ladik,807,Küçükkızoğlu,151559
+2901,Samsun,77,Ladik,807,Küpecik,155568
+2902,Samsun,77,Ladik,807,Mazlumoğlu,155956
+2903,Samsun,77,Ladik,807,Meşepınarı,153786
+2904,Samsun,77,Ladik,807,Nusratlı,157508
+2905,Samsun,77,Ladik,807,Oymapınar,154907
+2906,Samsun,77,Ladik,807,Salur,153689
+2907,Samsun,77,Ladik,807,Sanayi,205190
+2908,Samsun,77,Ladik,807,Saray,153907
+2909,Samsun,77,Ladik,807,Sarıgazel,153308
+2910,Samsun,77,Ladik,807,Sarıksızoğlu,14826
+2911,Samsun,77,Ladik,807,Soğanlı,154939
+2912,Samsun,77,Ladik,807,Söğütlü,15039
+2913,Samsun,77,Ladik,807,Şehreküstü,133849
+2914,Samsun,77,Ladik,807,Şeyhli,13782
+2915,Samsun,77,Ladik,807,Tatlıcak,152936
+2916,Samsun,77,Ladik,807,Teberoğlu,14357
+2917,Samsun,77,Ladik,807,Tüfekçidere,155294
+2918,Samsun,77,Ladik,807,Yenicami,14202
+2919,Samsun,77,Ladik,807,Yukarıgölyazı,15044
+2920,Samsun,77,Ladik,807,Yumaklı,13647
+2921,Samsun,77,Ladik,807,Yuvacık,134814
+2922,Samsun,77,19 Mayıs,808,Aydınpınar,205520
+2923,Samsun,77,19 Mayıs,808,Bahçelievler,153540
+2924,Samsun,77,19 Mayıs,808,Ballıca,157434
+2925,Samsun,77,19 Mayıs,808,Beylik,13718
+2926,Samsun,77,19 Mayıs,808,Cerekli,14594
+2927,Samsun,77,19 Mayıs,808,Cumhuriyet,13951
+2928,Samsun,77,19 Mayıs,808,Çamlıca,155776
+2929,Samsun,77,19 Mayıs,808,Çandır,13768
+2930,Samsun,77,19 Mayıs,808,Çepinler,156141
+2931,Samsun,77,19 Mayıs,808,Çetirlipınar,13573
+2932,Samsun,77,19 Mayıs,808,Çiftlik,13715
+2933,Samsun,77,19 Mayıs,808,Dağköy,14497
+2934,Samsun,77,19 Mayıs,808,Dereköy/Bahçelievler,204107
+2935,Samsun,77,19 Mayıs,808,Dereköy/Merkez,204109
+2936,Samsun,77,19 Mayıs,808,Dereköy/Taşkelik,204110
+2937,Samsun,77,19 Mayıs,808,Düzköy,13717
+2938,Samsun,77,19 Mayıs,808,Engiz,13468
+2939,Samsun,77,19 Mayıs,808,Erenköy,13927
+2940,Samsun,77,19 Mayıs,808,Esentepe,14381
+2941,Samsun,77,19 Mayıs,808,Esenyer,205347
+2942,Samsun,77,19 Mayıs,808,Fındıklı,152959
+2943,Samsun,77,19 Mayıs,808,Hibe,205522
+2944,Samsun,77,19 Mayıs,808,İstiklal,157525
+2945,Samsun,77,19 Mayıs,808,Karacaoğlu,12862
+2946,Samsun,77,19 Mayıs,808,Karagöl,13300
+2947,Samsun,77,19 Mayıs,808,Karşıyaka,158940
+2948,Samsun,77,19 Mayıs,808,Kertme,14044
+2949,Samsun,77,19 Mayıs,808,Kösedik,14532
+2950,Samsun,77,19 Mayıs,808,Kumcağız,14370
+2951,Samsun,77,19 Mayıs,808,Kuşkayası,13461
+2952,Samsun,77,19 Mayıs,808,Mimarsinan,205345
+2953,Samsun,77,19 Mayıs,808,Ormancık,14119
+2954,Samsun,77,19 Mayıs,808,Pazar,158972
+2955,Samsun,77,19 Mayıs,808,Tepeköy,14626
+2956,Samsun,77,19 Mayıs,808,Yenimahalle,154918
+2957,Samsun,77,19 Mayıs,808,Yeşilköy,13575
+2958,Samsun,77,19 Mayıs,808,Yeşilova,205346
+2959,Samsun,77,19 Mayıs,808,Yeşilyurt,205521
+2960,Samsun,77,19 Mayıs,808,Yörükler,13745
+2961,Samsun,77,19 Mayıs,808,Yukarıengiz,13873
+2962,Samsun,77,19 Mayıs,808,Yükseliş,155295
+2963,Samsun,77,Salıpazarı,809,Alan,156399
+2964,Samsun,77,Salıpazarı,809,Alanyaykın,13225
+2965,Samsun,77,Salıpazarı,809,Albak,156012
+2966,Samsun,77,Salıpazarı,809,Avut,13672
+2967,Samsun,77,Salıpazarı,809,Bereket,14835
+2968,Samsun,77,Salıpazarı,809,Biçme,201611
+2969,Samsun,77,Salıpazarı,809,Cevizli,14057
+2970,Samsun,77,Salıpazarı,809,Çağlayan,13786
+2971,Samsun,77,Salıpazarı,809,Çiçekli,14611
+2972,Samsun,77,Salıpazarı,809,Dikencik,13833
+2973,Samsun,77,Salıpazarı,809,Düzköy,13168
+2974,Samsun,77,Salıpazarı,809,Esatçiftliği,201612
+2975,Samsun,77,Salıpazarı,809,Fındıklı,14178
+2976,Samsun,77,Salıpazarı,809,Fidancık,14035
+2977,Samsun,77,Salıpazarı,809,Gökçebaşı,14558
+2978,Samsun,77,Salıpazarı,809,Gökçeli,13159
+2979,Samsun,77,Salıpazarı,809,Güzelvatan,13349
+2980,Samsun,77,Salıpazarı,809,Kalfalı,14403
+2981,Samsun,77,Salıpazarı,809,Karacalar,158400
+2982,Samsun,77,Salıpazarı,809,Karacaören,201613
+2983,Samsun,77,Salıpazarı,809,Karadere,14261
+2984,Samsun,77,Salıpazarı,809,Karaman,14374
+2985,Samsun,77,Salıpazarı,809,Karayonca,13794
+2986,Samsun,77,Salıpazarı,809,Kırgıl,14376
+2987,Samsun,77,Salıpazarı,809,Kızılot,14080
+2988,Samsun,77,Salıpazarı,809,Kocalar,13289
+2989,Samsun,77,Salıpazarı,809,Konakören,14230
+2990,Samsun,77,Salıpazarı,809,Kuşcuğaz,155291
+2991,Samsun,77,Salıpazarı,809,Mumlu,13488
+2992,Samsun,77,Salıpazarı,809,Muslubey,14265
+2993,Samsun,77,Salıpazarı,809,Orta,14206
+2994,Samsun,77,Salıpazarı,809,Sarıhasan,201615
+2995,Samsun,77,Salıpazarı,809,Suluca,12949
+2996,Samsun,77,Salıpazarı,809,Tacalan,201616
+2997,Samsun,77,Salıpazarı,809,Tahnal,13776
+2998,Samsun,77,Salıpazarı,809,Tepealtı,14627
+2999,Samsun,77,Salıpazarı,809,Y.Kestanepınar,201618
+3000,Samsun,77,Salıpazarı,809,Yavaşbey,13249
+3001,Samsun,77,Salıpazarı,809,Yayla,201617
+3002,Samsun,77,Salıpazarı,809,Yenidoğan,14664
+3003,Samsun,77,Salıpazarı,809,Yeşil,154618
+3004,Samsun,77,Tekkeköy,811,Akbaşlar,156494
+3005,Samsun,77,Tekkeköy,811,Altınkaya,207561
+3006,Samsun,77,Tekkeköy,811,Antyeri,157782
+3007,Samsun,77,Tekkeköy,811,Asarağaç,13850
+3008,Samsun,77,Tekkeköy,811,Aşağıçınık,14195
+3009,Samsun,77,Tekkeköy,811,Bakacak,13719
+3010,Samsun,77,Tekkeköy,811,Balcalı,14623
+3011,Samsun,77,Tekkeköy,811,Başköy,14606
+3012,Samsun,77,Tekkeköy,811,Beyoğlu,204001
+3013,Samsun,77,Tekkeköy,811,Büyüklü,13760
+3014,Samsun,77,Tekkeköy,811,Çayırçökek,13708
+3015,Samsun,77,Tekkeköy,811,Çayleyik,207402
+3016,Samsun,77,Tekkeköy,811,Çınaralan,13978
+3017,Samsun,77,Tekkeköy,811,Çırakman,156637
+3018,Samsun,77,Tekkeköy,811,Çimenli,14460
+3019,Samsun,77,Tekkeköy,811,Çinik,207404
+3020,Samsun,77,Tekkeköy,811,Erenköy,13021
+3021,Samsun,77,Tekkeköy,811,Fındıcak,170799
+3022,Samsun,77,Tekkeköy,811,Gökçe,203783
+3023,Samsun,77,Tekkeköy,811,Gökçedere,157464
+3024,Samsun,77,Tekkeköy,811,Gölceğiz,154598
+3025,Samsun,77,Tekkeköy,811,Güzelyurt,14491
+3026,Samsun,77,Tekkeköy,811,Hamzalı,13294
+3027,Samsun,77,Tekkeköy,811,İstiklal,207750
+3028,Samsun,77,Tekkeköy,811,Kababürük,14341
+3029,Samsun,77,Tekkeköy,811,Kahyalı,13960
+3030,Samsun,77,Tekkeköy,811,Karaoğlan,14746
+3031,Samsun,77,Tekkeköy,811,Karaperçin,13580
+3032,Samsun,77,Tekkeköy,811,Kargılı,13190
+3033,Samsun,77,Tekkeköy,811,Karışlar,14620
+3034,Samsun,77,Tekkeköy,811,Kerpiçli,13676
+3035,Samsun,77,Tekkeköy,811,Kışla,158784
+3036,Samsun,77,Tekkeköy,811,Kibarlar,13790
+3037,Samsun,77,Tekkeköy,811,Köprübaşı,13752
+3038,Samsun,77,Tekkeköy,811,Kutlukent,13788
+3039,Samsun,77,Tekkeköy,811,Ovabaşı,13726
+3040,Samsun,77,Tekkeköy,811,Sarıyurt,13702
+3041,Samsun,77,Tekkeköy,811,Seymenler,156892
+3042,Samsun,77,Tekkeköy,811,Sıtmasuyu,13519
+3043,Samsun,77,Tekkeköy,811,Tekkeköy,156311
+3044,Samsun,77,Tekkeköy,811,Yağbasan,14162
+3045,Samsun,77,Tekkeköy,811,Yavuzlar,207403
+3046,Samsun,77,Tekkeköy,811,Yaylageriş,14111
+3047,Samsun,77,Tekkeköy,811,Yazılar,14303
+3048,Samsun,77,Tekkeköy,811,Yenibüyüklü,203793
+3049,Samsun,77,Tekkeköy,811,Yenidoğan,14075
+3050,Samsun,77,Tekkeköy,811,Yeniköy,13946
+3051,Samsun,77,Tekkeköy,811,Yeşilalan,13848
+3052,Samsun,77,Tekkeköy,811,Yeşildere,13743
+3053,Samsun,77,Tekkeköy,811,Yeşilyurt,14317
+3054,Samsun,77,Tekkeköy,811,Yukarıçınık,13309
+3055,Samsun,77,Tekkeköy,811,Zafer,13893
+3056,Samsun,77,Terme,812,Ahmetbey,160517
+3057,Samsun,77,Terme,812,Akbucak,200954
+3058,Samsun,77,Terme,812,Akçagün,14633
+3059,Samsun,77,Terme,812,Akçay,200959
+3060,Samsun,77,Terme,812,Akçaykaracalı,153340
+3061,Samsun,77,Terme,812,Altunlu,156956
+3062,Samsun,77,Terme,812,Ambartepe,200698
+3063,Samsun,77,Terme,812,Ambartepe/Cumhuriyet,159190
+3064,Samsun,77,Terme,812,Aybeder,204351
+3065,Samsun,77,Terme,812,Bafracalı,203155
+3066,Samsun,77,Terme,812,Bağsaray,157030
+3067,Samsun,77,Terme,812,Bazlamaç,157031
+3068,Samsun,77,Terme,812,Bazlamaç/Acıincir,203145
+3069,Samsun,77,Terme,812,Bazlamaç/Aşağımahalle,203153
+3070,Samsun,77,Terme,812,Bazlamaç/Hacıali,203158
+3071,Samsun,77,Terme,812,Bazlamaç/Hoylan,203150
+3072,Samsun,77,Terme,812,Bazlamaç/Orta,203148
+3073,Samsun,77,Terme,812,Beşikli,158068
+3074,Samsun,77,Terme,812,Cılar,13998
+3075,Samsun,77,Terme,812,Cumhuriyet,200963
+3076,Samsun,77,Terme,812,Çamlıca,14622
+3077,Samsun,77,Terme,812,Çanaklı,13763
+3078,Samsun,77,Terme,812,Çangallar,153713
+3079,Samsun,77,Terme,812,Çardak,155888
+3080,Samsun,77,Terme,812,Çay,157086
+3081,Samsun,77,Terme,812,Dağdıralı,156754
+3082,Samsun,77,Terme,812,Dereyol,158011
+3083,Samsun,77,Terme,812,Dibekli,14613
+3084,Samsun,77,Terme,812,Eğercili,154987
+3085,Samsun,77,Terme,812,Elmaköy,14609
+3086,Samsun,77,Terme,812,Elmalık,14137
+3087,Samsun,77,Terme,812,Emiryusuf,154725
+3088,Samsun,77,Terme,812,Erenköy,158267
+3089,Samsun,77,Terme,812,Etyemezli,155020
+3090,Samsun,77,Terme,812,Evci,155205
+3091,Samsun,77,Terme,812,Evci/Gökseki,203147
+3092,Samsun,77,Terme,812,Evci/Yahyalı,203149
+3093,Samsun,77,Terme,812,Fenk,157235
+3094,Samsun,77,Terme,812,Geçmiş,14517
+3095,Samsun,77,Terme,812,Gökçeağaç,200960
+3096,Samsun,77,Terme,812,Gölyazı,200956
+3097,Samsun,77,Terme,812,Gündoğdu,156312
+3098,Samsun,77,Terme,812,Hüseyinmescit,157435
+3099,Samsun,77,Terme,812,İlimdağ,205684
+3100,Samsun,77,Terme,812,İmanalisi,154525
+3101,Samsun,77,Terme,812,Karacaköy,156605
+3102,Samsun,77,Terme,812,Karacalı,153054
+3103,Samsun,77,Terme,812,Karamahmut,155021
+3104,Samsun,77,Terme,812,Kargucak,200958
+3105,Samsun,77,Terme,812,Kazımkarabekirpaşa,156755
+3106,Samsun,77,Terme,812,Kesikkaya,13748
+3107,Samsun,77,Terme,812,Kocaman,203142
+3108,Samsun,77,Terme,812,Kocaman/Mıhlıpelit,203154
+3109,Samsun,77,Terme,812,Kocamanbaşı,156893
+3110,Samsun,77,Terme,812,Kozluk,207758
+3111,Samsun,77,Terme,812,Kozluk/Fatih,158458
+3112,Samsun,77,Terme,812,Kozluk/Yavuz,155307
+3113,Samsun,77,Terme,812,Köybucağı,157372
+3114,Samsun,77,Terme,812,Kumcağız,154634
+3115,Samsun,77,Terme,812,Kuşca,153163
+3116,Samsun,77,Terme,812,Kuşçulu,158570
+3117,Samsun,77,Terme,812,Mescitli,157048
+3118,Samsun,77,Terme,812,Meşeyazı,204352
+3119,Samsun,77,Terme,812,Muratlı,158094
+3120,Samsun,77,Terme,812,Oğuzlu,160157
+3121,Samsun,77,Terme,812,Ortasöğütlü,14086
+3122,Samsun,77,Terme,812,Örencik,157594
+3123,Samsun,77,Terme,812,Özyurt,203144
+3124,Samsun,77,Terme,812,Sakarlı,157049
+3125,Samsun,77,Terme,812,Sakarlı/Anaçökek,203146
+3126,Samsun,77,Terme,812,Sakarlı/Çağlayan,203152
+3127,Samsun,77,Terme,812,Sakarlı/Yenimahalle,203157
+3128,Samsun,77,Terme,812,Sancaklı,14031
+3129,Samsun,77,Terme,812,Sarayköy,154750
+3130,Samsun,77,Terme,812,Sivaslılar,159008
+3131,Samsun,77,Terme,812,Söğütlü,205189
+3132,Samsun,77,Terme,812,Sütözü,157115
+3133,Samsun,77,Terme,812,Şeyhli,14226
+3134,Samsun,77,Terme,812,Şuayip,157568
+3135,Samsun,77,Terme,812,Taşlık Köyü,156130
+3136,Samsun,77,Terme,812,Taşpınar,156228
+3137,Samsun,77,Terme,812,Uludere,156033
+3138,Samsun,77,Terme,812,Uzungazi,157707
+3139,Samsun,77,Terme,812,Yalı,153320
+3140,Samsun,77,Terme,812,Yeni,158941
+3141,Samsun,77,Terme,812,Yenicami,156614
+3142,Samsun,77,Terme,812,Yerli,13669
+3143,Samsun,77,Terme,812,Yüksekyayla,156383
+3144,Samsun,77,Vezirköprü,813,Abdulgani,157570
+3145,Samsun,77,Vezirköprü,813,Adatepe,156495
+3146,Samsun,77,Vezirköprü,813,Ağcaalan,158857
+3147,Samsun,77,Vezirköprü,813,Ağcayazı,158095
+3148,Samsun,77,Vezirköprü,813,Ahmetbaba,157569
+3149,Samsun,77,Vezirköprü,813,Akören,158255
+3150,Samsun,77,Vezirköprü,813,Alan,156814
+3151,Samsun,77,Vezirköprü,813,Alanbaşı,152964
+3152,Samsun,77,Vezirköprü,813,Alancık,156403
+3153,Samsun,77,Vezirköprü,813,Alanşeyhi,157577
+3154,Samsun,77,Vezirköprü,813,Altınkaya,159206
+3155,Samsun,77,Vezirköprü,813,Arıca,157795
+3156,Samsun,77,Vezirköprü,813,Avdan,156756
+3157,Samsun,77,Vezirköprü,813,Aydınlı,158953
+3158,Samsun,77,Vezirköprü,813,Aydoğdu,155414
+3159,Samsun,77,Vezirköprü,813,Ayvalı,154635
+3160,Samsun,77,Vezirköprü,813,Bahçekonak,156229
+3161,Samsun,77,Vezirköprü,813,Bahçelievler,157383
+3162,Samsun,77,Vezirköprü,813,Bahçesaray,159192
+3163,Samsun,77,Vezirköprü,813,Bakla,158270
+3164,Samsun,77,Vezirköprü,813,Başalan,155102
+3165,Samsun,77,Vezirköprü,813,Başfakı,158954
+3166,Samsun,77,Vezirköprü,813,Bayram,155415
+3167,Samsun,77,Vezirköprü,813,Bektaş,157467
+3168,Samsun,77,Vezirköprü,813,Belalan,157979
+3169,Samsun,77,Vezirköprü,813,Beşpınar,157783
+3170,Samsun,77,Vezirköprü,813,Boğa,158184
+3171,Samsun,77,Vezirköprü,813,Boğazkoru,156237
+3172,Samsun,77,Vezirköprü,813,Boruk,157784
+3173,Samsun,77,Vezirköprü,813,Burhaniye,155035
+3174,Samsun,77,Vezirköprü,813,Büyükkale,156206
+3175,Samsun,77,Vezirköprü,813,Cebeli,157867
+3176,Samsun,77,Vezirköprü,813,Cumhuriyet,158187
+3177,Samsun,77,Vezirköprü,813,Çakırtaş,156781
+3178,Samsun,77,Vezirköprü,813,Çal,156496
+3179,Samsun,77,Vezirköprü,813,Çalman,157885
+3180,Samsun,77,Vezirköprü,813,Çaltu,155671
+3181,Samsun,77,Vezirköprü,813,Çamlıca,158405
+3182,Samsun,77,Vezirköprü,813,Çamlıdere,160478
+3183,Samsun,77,Vezirköprü,813,Çamlıkonak,159042
+3184,Samsun,77,Vezirköprü,813,Çanaklı,158097
+3185,Samsun,77,Vezirköprü,813,Çayırbaşı,156618
+3186,Samsun,77,Vezirköprü,813,Çekalan,156439
+3187,Samsun,77,Vezirköprü,813,Çekmeden,156617
+3188,Samsun,77,Vezirköprü,813,Çeltek,155595
+3189,Samsun,77,Vezirköprü,813,Çorakdere,157261
+3190,Samsun,77,Vezirköprü,813,Darıçay,155681
+3191,Samsun,77,Vezirköprü,813,Darıçayalanı,154545
+3192,Samsun,77,Vezirköprü,813,Değirmenbaşı,160721
+3193,Samsun,77,Vezirköprü,813,Devalan,156627
+3194,Samsun,77,Vezirköprü,813,Doyran,156896
+3195,Samsun,77,Vezirköprü,813,Duruçay,157804
+3196,Samsun,77,Vezirköprü,813,Düzce,203159
+3197,Samsun,77,Vezirköprü,813,Elaldı,153165
+3198,Samsun,77,Vezirköprü,813,Elbeyi,155596
+3199,Samsun,77,Vezirköprü,813,Elmalı,158358
+3200,Samsun,77,Vezirköprü,813,Esen,156512
+3201,Samsun,77,Vezirköprü,813,Esentepe,158642
+3202,Samsun,77,Vezirköprü,813,Esenyurt,155912
+3203,Samsun,77,Vezirköprü,813,Fazıl Ahmet Paşa,156639
+3204,Samsun,77,Vezirköprü,813,Gölfatih,156906
+3205,Samsun,77,Vezirköprü,813,Göllüalan,154393
+3206,Samsun,77,Vezirköprü,813,Gömlekhisar,158603
+3207,Samsun,77,Vezirköprü,813,Güder,156697
+3208,Samsun,77,Vezirköprü,813,Güldere,157796
+3209,Samsun,77,Vezirköprü,813,Habibfakı,157886
+3210,Samsun,77,Vezirköprü,813,Hacılı,159083
+3211,Samsun,77,Vezirköprü,813,Halilbaba,156536
+3212,Samsun,77,Vezirköprü,813,Halkahavli,154610
+3213,Samsun,77,Vezirköprü,813,Hayranlı,156117
+3214,Samsun,77,Vezirköprü,813,İmircik,156423
+3215,Samsun,77,Vezirköprü,813,İncesu,158588
+3216,Samsun,77,Vezirköprü,813,İnkaya,155692
+3217,Samsun,77,Vezirköprü,813,Kabalı,156959
+3218,Samsun,77,Vezirköprü,813,Kadıçayırı,158876
+3219,Samsun,77,Vezirköprü,813,Kadıoğlu,160332
+3220,Samsun,77,Vezirköprü,813,Kapaklı,156369
+3221,Samsun,77,Vezirköprü,813,Kapaklıeşme,154394
+3222,Samsun,77,Vezirköprü,813,Kaplancık,153510
+3223,Samsun,77,Vezirköprü,813,Karabük,203160
+3224,Samsun,77,Vezirköprü,813,Karacaören,158195
+3225,Samsun,77,Vezirköprü,813,Karadoruk,155006
+3226,Samsun,77,Vezirköprü,813,Karaköy,156131
+3227,Samsun,77,Vezirköprü,813,Karanar,158069
+3228,Samsun,77,Vezirköprü,813,Karapınar,154395
+3229,Samsun,77,Vezirköprü,813,Karkucak,158296
+3230,Samsun,77,Vezirköprü,813,Karlı,158096
+3231,Samsun,77,Vezirköprü,813,Kavakpınarı,156757
+3232,Samsun,77,Vezirköprü,813,Kılıçgüney,153874
+3233,Samsun,77,Vezirköprü,813,Kıranalan,156159
+3234,Samsun,77,Vezirköprü,813,Kıratbükü,159163
+3235,Samsun,77,Vezirköprü,813,Kırma,154437
+3236,Samsun,77,Vezirköprü,813,Kızılcakoru,156054
+3237,Samsun,77,Vezirköprü,813,Kızılcaören,157426
+3238,Samsun,77,Vezirköprü,813,Kızılkese,159020
+3239,Samsun,77,Vezirköprü,813,Kocakaya,156238
+3240,Samsun,77,Vezirköprü,813,Kovalı,156547
+3241,Samsun,77,Vezirköprü,813,Köprübaşı,158081
+3242,Samsun,77,Vezirköprü,813,Kumral,160159
+3243,Samsun,77,Vezirköprü,813,Kuruçay,156513
+3244,Samsun,77,Vezirköprü,813,Kuşcular,156584
+3245,Samsun,77,Vezirköprü,813,Kuyaş,155318
+3246,Samsun,77,Vezirköprü,813,Kuyumcu,154751
+3247,Samsun,77,Vezirköprü,813,Küçükkale,154737
+3248,Samsun,77,Vezirköprü,813,Kületek,156239
+3249,Samsun,77,Vezirköprü,813,Mahmatlı,153865
+3250,Samsun,77,Vezirköprü,813,Mehmet Paşa,155103
+3251,Samsun,77,Vezirköprü,813,Melikli,158669
+3252,Samsun,77,Vezirköprü,813,Meşeli,156628
+3253,Samsun,77,Vezirköprü,813,Mezrea,156638
+3254,Samsun,77,Vezirköprü,813,Nalbantlı,157294
+3255,Samsun,77,Vezirköprü,813,Narlısaray,200967
+3256,Samsun,77,Vezirköprü,813,Ortacami,156371
+3257,Samsun,77,Vezirköprü,813,Ortaköy,155490
+3258,Samsun,77,Vezirköprü,813,Oruç,157458
+3259,Samsun,77,Vezirköprü,813,Ovacık,156207
+3260,Samsun,77,Vezirköprü,813,Oymaağaç,155896
+3261,Samsun,77,Vezirköprü,813,Öğürlü,200966
+3262,Samsun,77,Vezirköprü,813,Örencik,157887
+3263,Samsun,77,Vezirköprü,813,Özesentepe,158885
+3264,Samsun,77,Vezirköprü,813,Özgüney,154546
+3265,Samsun,77,Vezirköprü,813,Özkuruçay,158755
+3266,Samsun,77,Vezirköprü,813,Özyörük,155007
+3267,Samsun,77,Vezirköprü,813,Paşaköy,154636
+3268,Samsun,77,Vezirköprü,813,Pazarcı,157373
+3269,Samsun,77,Vezirköprü,813,Samukalan,157052
+3270,Samsun,77,Vezirköprü,813,Samur,156313
+3271,Samsun,77,Vezirköprü,813,Saraycık,157032
+3272,Samsun,77,Vezirköprü,813,Saraylı,158765
+3273,Samsun,77,Vezirköprü,813,Sarıalan,158185
+3274,Samsun,77,Vezirköprü,813,Sarıdıbek,158978
+3275,Samsun,77,Vezirköprü,813,Sarıyar,157447
+3276,Samsun,77,Vezirköprü,813,Sırbaşmak,154447
+3277,Samsun,77,Vezirköprü,813,Sofular,157595
+3278,Samsun,77,Vezirköprü,813,Soğucak,155135
+3279,Samsun,77,Vezirköprü,813,Susuz,158979
+3280,Samsun,77,Vezirköprü,813,Şentepe,157127
+3281,Samsun,77,Vezirköprü,813,Tabakhane,156258
+3282,Samsun,77,Vezirköprü,813,Tahtaköprü,158697
+3283,Samsun,77,Vezirköprü,813,Taşkale,157128
+3284,Samsun,77,Vezirköprü,813,Taşlıyük,156922
+3285,Samsun,77,Vezirköprü,813,Tatarkale,156370
+3286,Samsun,77,Vezirköprü,813,Teberük,158503
+3287,Samsun,77,Vezirköprü,813,Tekkekıran,158818
+3288,Samsun,77,Vezirköprü,813,Tepeören,158562
+3289,Samsun,77,Vezirköprü,813,Tikenli,156173
+3290,Samsun,77,Vezirköprü,813,Türkmen,157992
+3291,Samsun,77,Vezirköprü,813,Yağcı,158563
+3292,Samsun,77,Vezirköprü,813,Yağınözü,155693
+3293,Samsun,77,Vezirköprü,813,Yarbaşı,154752
+3294,Samsun,77,Vezirköprü,813,Yeniçelik,155008
+3295,Samsun,77,Vezirköprü,813,Yenidüzce,158271
+3296,Samsun,77,Vezirköprü,813,Yenimahalle,158297
+3297,Samsun,77,Vezirköprü,813,Yeşılada Köyü,156445
+3298,Samsun,77,Vezirköprü,813,Yeşilada,158756
+3299,Samsun,77,Vezirköprü,813,Yolpınar,156743
+3300,Samsun,77,Vezirköprü,813,Yukarınarlı,160171
+3301,Samsun,77,Vezirköprü,813,Yurtdağı,156351
+3302,Samsun,77,Vezirköprü,813,Yürükçal,158186
+3303,Samsun,77,Yakakent,814,Asmapınar,13904
+3304,Samsun,77,Yakakent,814,Büyükkırık,14559
+3305,Samsun,77,Yakakent,814,Çamalan,14354
+3306,Samsun,77,Yakakent,814,Çepni,14032
+3307,Samsun,77,Yakakent,814,Gündüzlü,13455
+3308,Samsun,77,Yakakent,814,Karaaba,13433
+3309,Samsun,77,Yakakent,814,Kayalı,13903
+3310,Samsun,77,Yakakent,814,Kozköy,159060
+3311,Samsun,77,Yakakent,814,Kuzören,13650
+3312,Samsun,77,Yakakent,814,Küplüağzı,156259
+3313,Samsun,77,Yakakent,814,Kürüz Gürgenlik,157993
+3314,Samsun,77,Yakakent,814,Liman,203911
+3315,Samsun,77,Yakakent,814,Merkez,154806
+3316,Samsun,77,Yakakent,814,Mutaflı,13512
+3317,Samsun,77,Yakakent,814,Sarıgöl,14020
+3318,Samsun,77,Yakakent,814,Yakakent,13778
+3319,Samsun,77,Yakakent,814,Yassıdağ,169510
+3320,Samsun,77,Yakakent,814,Yeşilköy,13801
+3321,Samsun,77,Atakum,6152,Akalan,125007
+3322,Samsun,77,Atakum,6152,Aksu,123599
+3323,Samsun,77,Atakum,6152,Alanlı,123619
+3324,Samsun,77,Atakum,6152,Aslandamı,201566
+3325,Samsun,77,Atakum,6152,Atakum,123593
+3326,Samsun,77,Atakum,6152,Ayvalı,155475
+3327,Samsun,77,Atakum,6152,Balaç,123594
+3328,Samsun,77,Atakum,6152,Beypınar,123601
+3329,Samsun,77,Atakum,6152,Büyükkolpınar,123595
+3330,Samsun,77,Atakum,6152,Büyükoyumca,123620
+3331,Samsun,77,Atakum,6152,Çakırlar,123622
+3332,Samsun,77,Atakum,6152,Çamlıyazı,123598
+3333,Samsun,77,Atakum,6152,Çatalçam,123623
+3334,Samsun,77,Atakum,6152,Çatmaoluk,123612
+3335,Samsun,77,Atakum,6152,Çobanlı,123609
+3336,Samsun,77,Atakum,6152,Çobanözü,123605
+3337,Samsun,77,Atakum,6152,Elmaçukuru,125494
+3338,Samsun,77,Atakum,6152,Erikli,125496
+3339,Samsun,77,Atakum,6152,Güney,125495
+3340,Samsun,77,Atakum,6152,İncesu,123621
+3341,Samsun,77,Atakum,6152,Kabadüz,123625
+3342,Samsun,77,Atakum,6152,Kamalı,123608
+3343,Samsun,77,Atakum,6152,Karakavuk,123617
+3344,Samsun,77,Atakum,6152,Karaoyumca,123597
+3345,Samsun,77,Atakum,6152,Kasnakçı Mermer,151614
+3346,Samsun,77,Atakum,6152,Kayagüney,123616
+3347,Samsun,77,Atakum,6152,Kesilli,123607
+3348,Samsun,77,Atakum,6152,Köseli,123610
+3349,Samsun,77,Atakum,6152,Kulacadağ,123603
+3350,Samsun,77,Atakum,6152,Kurugökçe,123613
+3351,Samsun,77,Atakum,6152,Küçükkolpınar,123596
+3352,Samsun,77,Atakum,6152,Meyvalı,123614
+3353,Samsun,77,Atakum,6152,Özören,123602
+3354,Samsun,77,Atakum,6152,Sarayköy,123611
+3355,Samsun,77,Atakum,6152,Sarıışık,123618
+3356,Samsun,77,Atakum,6152,Sarıtaş,123615
+3357,Samsun,77,Atakum,6152,Sarıyusuf,203823
+3358,Samsun,77,Atakum,6152,Şenyurt,201565
+3359,Samsun,77,Atakum,6152,Taflan,123624
+3360,Samsun,77,Atakum,6152,Yeşiltepe,123626
+3361,Samsun,77,Atakum,6152,Yukarıaksu,123600
+3362,Samsun,77,Canik,6153,Adatepe Köyü,123586
+3363,Samsun,77,Canik,6153,Alibeyli Köyü,123575
+3364,Samsun,77,Canik,6153,Ambarpınar Köyü,170797
+3365,Samsun,77,Canik,6153,Avluca Köyü,181276
+3366,Samsun,77,Canik,6153,Başalan Köyü,170807
+3367,Samsun,77,Canik,6153,Başkonak Köyü,123576
+3368,Samsun,77,Canik,6153,Cinekoğlu,123569
+3369,Samsun,77,Canik,6153,Çağlayan Köyü,181292
+3370,Samsun,77,Canik,6153,Çamalan Köyü,170808
+3371,Samsun,77,Canik,6153,Demirci Köyü,123558
+3372,Samsun,77,Canik,6153,Dereler Köyü,123577
+3373,Samsun,77,Canik,6153,Devgeriş Köyü,123578
+3374,Samsun,77,Canik,6153,Düvecik,123579
+3375,Samsun,77,Canik,6153,Düzardıç Köyü,170805
+3376,Samsun,77,Canik,6153,Düzören Köyü,170798
+3377,Samsun,77,Canik,6153,Gazi,181088
+3378,Samsun,77,Canik,6153,Gecehan Köyü,170800
+3379,Samsun,77,Canik,6153,Gödekli Köyü,125493
+3380,Samsun,77,Canik,6153,Gökçepınar Köyü,123592
+3381,Samsun,77,Canik,6153,Gölalan Köyü,125492
+3382,Samsun,77,Canik,6153,Gültepe,205595
+3383,Samsun,77,Canik,6153,Gürgenyatak Köyü,123580
+3384,Samsun,77,Canik,6153,Hacıismail,123571
+3385,Samsun,77,Canik,6153,Hacınaipli Köyü,170801
+3386,Samsun,77,Canik,6153,Hasköy,123570
+3387,Samsun,77,Canik,6153,Hilaltepe Köyü,123581
+3388,Samsun,77,Canik,6153,İmamlar Köyü,170802
+3389,Samsun,77,Canik,6153,Kaleboğazı Köyü,123582
+3390,Samsun,77,Canik,6153,Kaşyayla Köyü,123583
+3391,Samsun,77,Canik,6153,Kestanepınar Köyü,170803
+3392,Samsun,77,Canik,6153,Kızıloğlak Köyü,123584
+3393,Samsun,77,Canik,6153,Kozlu Köyü,123585
+3394,Samsun,77,Canik,6153,Muratlı Köyü,203857
+3395,Samsun,77,Canik,6153,Sarıbıyık Köyü,123590
+3396,Samsun,77,Canik,6153,Tekkiraz Köyü,123591
+3397,Samsun,77,Canik,6153,Teknepınar,123573
+3398,Samsun,77,Canik,6153,Toygar Köyü,203714
+3399,Samsun,77,Canik,6153,Tuzaklı Köyü,123587
+3400,Samsun,77,Canik,6153,Uluçayır Köyü,170804
+3401,Samsun,77,Canik,6153,Üçpınar Köyü,123588
+3402,Samsun,77,Canik,6153,Yayla Köyü,123589
+3403,Samsun,77,Canik,6153,Yeni,181087
+3404,Samsun,77,Canik,6153,Yeniköy Köyü,180968
+3405,Samsun,77,Canik,6153,Yeşilpınar Köyü,170806
+3406,Samsun,77,İlkadım,6154,19 Mayıs,123540
+3407,Samsun,77,İlkadım,6154,19 Mayıs (Kı),125173
+3408,Samsun,77,İlkadım,6154,Ahulu,181074
+3409,Samsun,77,İlkadım,6154,Akgöl,203795
+3410,Samsun,77,İlkadım,6154,Aşağı Avdan,123548
+3411,Samsun,77,İlkadım,6154,Badırlı,123549
+3412,Samsun,77,İlkadım,6154,Baruthane,181046
+3413,Samsun,77,İlkadım,6154,Bilmece,123550
+3414,Samsun,77,İlkadım,6154,Cedit,123541
+3415,Samsun,77,İlkadım,6154,Cedit (Kı),125179
+3416,Samsun,77,İlkadım,6154,Çanakçı,123554
+3417,Samsun,77,İlkadım,6154,Çandır,123551
+3418,Samsun,77,İlkadım,6154,Çatalarmut,123556
+3419,Samsun,77,İlkadım,6154,Çelikalan,123553
+3420,Samsun,77,İlkadım,6154,Çivril,123555
+3421,Samsun,77,İlkadım,6154,Derebahçe,123568
+3422,Samsun,77,İlkadım,6154,Derecik,123604
+3423,Samsun,77,İlkadım,6154,Fuar,123539
+3424,Samsun,77,İlkadım,6154,Gürgendağ,123559
+3425,Samsun,77,İlkadım,6154,Hançerli,123547
+3426,Samsun,77,İlkadım,6154,Hançerli (Kı),125181
+3427,Samsun,77,İlkadım,6154,İlyasköy,123537
+3428,Samsun,77,İlkadım,6154,İlyasköy (Kı),125182
+3429,Samsun,77,İlkadım,6154,İstasyon,123572
+3430,Samsun,77,İlkadım,6154,Kadamut,123557
+3431,Samsun,77,İlkadım,6154,Kale,123538
+3432,Samsun,77,İlkadım,6154,Kale (Kı),125183
+3433,Samsun,77,İlkadım,6154,Kalkancı,123560
+3434,Samsun,77,İlkadım,6154,Kalkancı (Kı),125184
+3435,Samsun,77,İlkadım,6154,Kapaklı,123563
+3436,Samsun,77,İlkadım,6154,Kavacık,123561
+3437,Samsun,77,İlkadım,6154,Kılıçdede,123567
+3438,Samsun,77,İlkadım,6154,Kıran,123564
+3439,Samsun,77,İlkadım,6154,Kökcüoğlu,123546
+3440,Samsun,77,İlkadım,6154,Kökcüoğlu (Kı),125185
+3441,Samsun,77,İlkadım,6154,Kuşculu,123562
+3442,Samsun,77,İlkadım,6154,Pazar,123543
+3443,Samsun,77,İlkadım,6154,Pazar (Kı),125186
+3444,Samsun,77,İlkadım,6154,Saitbey,123544
+3445,Samsun,77,İlkadım,6154,Saitbey (Kı),125187
+3446,Samsun,77,İlkadım,6154,Selahiye,123542
+3447,Samsun,77,İlkadım,6154,Selahiye (Kı),125188
+3448,Samsun,77,İlkadım,6154,Tepecik,123574
+3449,Samsun,77,İlkadım,6154,Toybelen,123606
+3450,Samsun,77,İlkadım,6154,Ulugazi,123545
+3451,Samsun,77,İlkadım,6154,Ulugazi (Kı),125189
+3452,Samsun,77,İlkadım,6154,Uzgur,123565
+3453,Samsun,77,İlkadım,6154,Yeşiltepe,123552
+3454,Samsun,77,İlkadım,6154,Yukarı Avdan,123566
+3455,Sinop,79,Ayancık,822,Abdulkadir Köyü,155426
+3456,Sinop,79,Ayancık,822,Ağaçlı Köyü,155701
+3457,Sinop,79,Ayancık,822,Akçakese Köyü,155768
+3458,Sinop,79,Ayancık,822,Akören Köyü,154766
+3459,Sinop,79,Ayancık,822,Aliköy Köyü,154677
+3460,Sinop,79,Ayancık,822,Armutluyazı Köyü,152289
+3461,Sinop,79,Ayancık,822,Aşağıköy Köyü,153761
+3462,Sinop,79,Ayancık,822,Avdullu Köyü,151947
+3463,Sinop,79,Ayancık,822,Aygördü Köyü,155875
+3464,Sinop,79,Ayancık,822,Babaçay Köyü,153577
+3465,Sinop,79,Ayancık,822,Babaköyü Köyü,151910
+3466,Sinop,79,Ayancık,822,Bahçeli Köyü,135067
+3467,Sinop,79,Ayancık,822,Bakırlı Köyü,155094
+3468,Sinop,79,Ayancık,822,Bakırlızaviye Köyü,154054
+3469,Sinop,79,Ayancık,822,Belpınar Köyü,155083
+3470,Sinop,79,Ayancık,822,Beşiktaş,204013
+3471,Sinop,79,Ayancık,822,Büyükdüz Köyü,154718
+3472,Sinop,79,Ayancık,822,Büyükpınar Köyü,133844
+3473,Sinop,79,Ayancık,822,Cevizli,153103
+3474,Sinop,79,Ayancık,822,Çamyayla Köyü,134664
+3475,Sinop,79,Ayancık,822,Çaybaşı Köyü,152889
+3476,Sinop,79,Ayancık,822,Çayiçi,135080
+3477,Sinop,79,Ayancık,822,Çaylıoğlu Köyü,151948
+3478,Sinop,79,Ayancık,822,Davutlu Köyü,153041
+3479,Sinop,79,Ayancık,822,Dedeağaç Köyü,153593
+3480,Sinop,79,Ayancık,822,Denizciler,153303
+3481,Sinop,79,Ayancık,822,Dere Köyü,133987
+3482,Sinop,79,Ayancık,822,Dibekli Köyü,152994
+3483,Sinop,79,Ayancık,822,Doğanlı Köyü,200922
+3484,Sinop,79,Ayancık,822,Dolay Köyü,154668
+3485,Sinop,79,Ayancık,822,Erdemli Köyü,133975
+3486,Sinop,79,Ayancık,822,Erikli Köyü,153355
+3487,Sinop,79,Ayancık,822,Fındıklı Köyü,153917
+3488,Sinop,79,Ayancık,822,Göldağı Köyü,153090
+3489,Sinop,79,Ayancık,822,Gölköy Köyü,134692
+3490,Sinop,79,Ayancık,822,Gürpınar Köyü,136517
+3491,Sinop,79,Ayancık,822,Gürsökü Köyü,157552
+3492,Sinop,79,Ayancık,822,Hacılı Köyü,134076
+3493,Sinop,79,Ayancık,822,Hacıoğlu Köyü,155382
+3494,Sinop,79,Ayancık,822,Hatip Köyü,154062
+3495,Sinop,79,Ayancık,822,Hüseyinbey Köyü,153578
+3496,Sinop,79,Ayancık,822,İnaltı Köyü,151949
+3497,Sinop,79,Ayancık,822,Kaldırayak Köyü,152995
+3498,Sinop,79,Ayancık,822,Karakestane Köyü,157613
+3499,Sinop,79,Ayancık,822,Karapınar Köyü,155715
+3500,Sinop,79,Ayancık,822,Kestanelik Köyü,133736
+3501,Sinop,79,Ayancık,822,Kızılcakaya Köyü,135068
+3502,Sinop,79,Ayancık,822,Kozcuğaz Köyü,154240
+3503,Sinop,79,Ayancık,822,Kozsökü Köyü,153302
+3504,Sinop,79,Ayancık,822,Köseyakası Köyü,153651
+3505,Sinop,79,Ayancık,822,Kurt Köyü,151725
+3506,Sinop,79,Ayancık,822,Kütük Köyü,200923
+3507,Sinop,79,Ayancık,822,Maden Köyü,155859
+3508,Sinop,79,Ayancık,822,Mestan Köyü,155526
+3509,Sinop,79,Ayancık,822,Mustafakemalpaşa Köyü,133843
+3510,Sinop,79,Ayancık,822,Ortalık Köyü,151582
+3511,Sinop,79,Ayancık,822,Otmanlı Köyü,155836
+3512,Sinop,79,Ayancık,822,Ömerdüz Köyü,151782
+3513,Sinop,79,Ayancık,822,Pazarcık Köyü,153762
+3514,Sinop,79,Ayancık,822,Sofu Köyü,153102
+3515,Sinop,79,Ayancık,822,Söküçayırı Köyü,134077
+3516,Sinop,79,Ayancık,822,Sulusökü Köyü,135079
+3517,Sinop,79,Ayancık,822,Tarakçı Köyü,157199
+3518,Sinop,79,Ayancık,822,Tepecik Köyü,154951
+3519,Sinop,79,Ayancık,822,Tevfikiye Köyü,153366
+3520,Sinop,79,Ayancık,822,Topağaç Köyü,155364
+3521,Sinop,79,Ayancık,822,Türkmen Köyü,152877
+3522,Sinop,79,Ayancık,822,Uzunçam Köyü,152103
+3523,Sinop,79,Ayancık,822,Ünlüce Köyü,153547
+3524,Sinop,79,Ayancık,822,Yalı,134250
+3525,Sinop,79,Ayancık,822,Yarenler Köyü,153252
+3526,Sinop,79,Ayancık,822,Yemişen Köyü,153212
+3527,Sinop,79,Ayancık,822,Yenice Köyü,151783
+3528,Sinop,79,Ayancık,822,Yenigüler Köyü,151553
+3529,Sinop,79,Ayancık,822,Yeşilyurt Köyü,151770
+3530,Sinop,79,Ayancık,822,Zaviye Köyü,157185
+3531,Sinop,79,Boyabat,823,Akçakese Köyü,153918
+3532,Sinop,79,Boyabat,823,Akyörük Köyü,135211
+3533,Sinop,79,Boyabat,823,Alibeyli Köyü,155970
+3534,Sinop,79,Boyabat,823,Ardıç Köyü,155383
+3535,Sinop,79,Boyabat,823,Arıoğlu Köyü,200925
+3536,Sinop,79,Boyabat,823,Aşağıseyricek Köyü,203163
+3537,Sinop,79,Boyabat,823,Aşıklı Köyü,155372
+3538,Sinop,79,Boyabat,823,Aydoğan Köyü,200926
+3539,Sinop,79,Boyabat,823,Bağlıca Köyü,154782
+3540,Sinop,79,Boyabat,823,Bayamca Köyü,204876
+3541,Sinop,79,Boyabat,823,Bektaş Köyü,153009
+3542,Sinop,79,Boyabat,823,Bengübelen Köyü,152909
+3543,Sinop,79,Boyabat,823,Benişli Köyü,155528
+3544,Sinop,79,Boyabat,823,Binerli Köyü,203168
+3545,Sinop,79,Boyabat,823,Boyalı Köyü,134677
+3546,Sinop,79,Boyabat,823,Bölüklü Köyü,155929
+3547,Sinop,79,Boyabat,823,Bürüm Köyü,154484
+3548,Sinop,79,Boyabat,823,Büyük Karaağaç Köyü,153429
+3549,Sinop,79,Boyabat,823,Camiikebir,135069
+3550,Sinop,79,Boyabat,823,Cemalettin Köyü,153782
+3551,Sinop,79,Boyabat,823,Curkuşlar Köyü,203166
+3552,Sinop,79,Boyabat,823,Çaltu Köyü,133831
+3553,Sinop,79,Boyabat,823,Çamlıca,133737
+3554,Sinop,79,Boyabat,823,Çarşak Köyü,155553
+3555,Sinop,79,Boyabat,823,Çatpınar Köyü,153957
+3556,Sinop,79,Boyabat,823,Çattepe Köyü,154241
+3557,Sinop,79,Boyabat,823,Çaybaşı Köyü,154065
+3558,Sinop,79,Boyabat,823,Çeşnigir Köyü,170336
+3559,Sinop,79,Boyabat,823,Çorak Köyü,157187
+3560,Sinop,79,Boyabat,823,Çukurhan Köyü,203169
+3561,Sinop,79,Boyabat,823,Çulhalı Köyü,134827
+3562,Sinop,79,Boyabat,823,Dağtabaklı Köyü,200928
+3563,Sinop,79,Boyabat,823,Darıözü Köyü,153884
+3564,Sinop,79,Boyabat,823,Daylı Köyü,133832
+3565,Sinop,79,Boyabat,823,Dereçatı Köyü,171640
+3566,Sinop,79,Boyabat,823,Dodurga Köyü,154671
+3567,Sinop,79,Boyabat,823,Doğrul Köyü,203162
+3568,Sinop,79,Boyabat,823,Doğuca Köyü,153072
+3569,Sinop,79,Boyabat,823,Düzkaraağaç Köyü,134678
+3570,Sinop,79,Boyabat,823,Edil Köyü,155365
+3571,Sinop,79,Boyabat,823,Eğlence Köyü,155877
+3572,Sinop,79,Boyabat,823,Ekinören Köyü,153814
+3573,Sinop,79,Boyabat,823,Emiroğlu Köyü,153444
+3574,Sinop,79,Boyabat,823,Engilekin Köyü,153815
+3575,Sinop,79,Boyabat,823,Erkeç Köyü,155373
+3576,Sinop,79,Boyabat,823,Esengazili Köyü,155861
+3577,Sinop,79,Boyabat,823,Esentepe,153356
+3578,Sinop,79,Boyabat,823,Esentepe Köyü,157176
+3579,Sinop,79,Boyabat,823,Gazidere Köyü,134388
+3580,Sinop,79,Boyabat,823,Gazidere Tabaklı Köyü,134057
+3581,Sinop,79,Boyabat,823,Gökçeağaçsakızı Köyü,153979
+3582,Sinop,79,Boyabat,823,Gökçukur Köyü,200929
+3583,Sinop,79,Boyabat,823,Gökdere,155773
+3584,Sinop,79,Boyabat,823,Göve Köyü,155951
+3585,Sinop,79,Boyabat,823,Günpınar Köyü,171641
+3586,Sinop,79,Boyabat,823,Hacıahmetli Köyü,155331
+3587,Sinop,79,Boyabat,823,Hamzalı Köyü,134241
+3588,Sinop,79,Boyabat,823,Ilıca Köyü,133769
+3589,Sinop,79,Boyabat,823,İmamlı Köyü,155366
+3590,Sinop,79,Boyabat,823,İsaoğlu Köyü,152104
+3591,Sinop,79,Boyabat,823,Kadınlı Köyü,153104
+3592,Sinop,79,Boyabat,823,Karacaören Köyü,151555
+3593,Sinop,79,Boyabat,823,Karamusalı Köyü,171642
+3594,Sinop,79,Boyabat,823,Kartaloğlu Köyü,204428
+3595,Sinop,79,Boyabat,823,Kavacık Köyü,171643
+3596,Sinop,79,Boyabat,823,Kavak Köyü,133846
+3597,Sinop,79,Boyabat,823,Kayaboğazı Köyü,155428
+3598,Sinop,79,Boyabat,823,Kese Köyü,151600
+3599,Sinop,79,Boyabat,823,Kılıçlı Köyü,170337
+3600,Sinop,79,Boyabat,823,Killik Köyü,157155
+3601,Sinop,79,Boyabat,823,Koçak Köyü,154035
+3602,Sinop,79,Boyabat,823,Kovaçayır Köyü,156984
+3603,Sinop,79,Boyabat,823,Kozanlı Köyü,155270
+3604,Sinop,79,Boyabat,823,Kozkule Köyü,170338
+3605,Sinop,79,Boyabat,823,Köprücek Köyü,154096
+3606,Sinop,79,Boyabat,823,Kumluk,151726
+3607,Sinop,79,Boyabat,823,Kurtlu Köyü,171644
+3608,Sinop,79,Boyabat,823,Kurusaray Köyü,154768
+3609,Sinop,79,Boyabat,823,Kuyucakpınar Köyü,204836
+3610,Sinop,79,Boyabat,823,Kuzveren Köyü,204789
+3611,Sinop,79,Boyabat,823,Mahmutlu Köyü,204847
+3612,Sinop,79,Boyabat,823,Maruf Köyü,151366
+3613,Sinop,79,Boyabat,823,Marufalınca Köyü,200930
+3614,Sinop,79,Boyabat,823,Muratlı Köyü,203167
+3615,Sinop,79,Boyabat,823,Oğlakçılar Köyü,152117
+3616,Sinop,79,Boyabat,823,Okçumehmetli Köyü,155271
+3617,Sinop,79,Boyabat,823,Osmanköy Köyü,134828
+3618,Sinop,79,Boyabat,823,Ömerköy Köyü,155258
+3619,Sinop,79,Boyabat,823,Ören Köyü,155818
+3620,Sinop,79,Boyabat,823,Paşalıoğlu Köyü,171645
+3621,Sinop,79,Boyabat,823,Pehlivanlar Köyü,204873
+3622,Sinop,79,Boyabat,823,Pirefendi Köyü,171646
+3623,Sinop,79,Boyabat,823,Salar Köyü,157553
+3624,Sinop,79,Boyabat,823,Sarıağaççayı Köyü,155454
+3625,Sinop,79,Boyabat,823,Sarıyer Köyü,153105
+3626,Sinop,79,Boyabat,823,Şeyhler Köyü,155164
+3627,Sinop,79,Boyabat,823,Şıhlı Köyü,155470
+3628,Sinop,79,Boyabat,823,Taşhanlı Köyü,171647
+3629,Sinop,79,Boyabat,823,Tekke Köyü,154679
+3630,Sinop,79,Boyabat,823,Tırnalı Köyü,153184
+3631,Sinop,79,Boyabat,823,Uzunçay Köyü,171648
+3632,Sinop,79,Boyabat,823,Yabanlı Köyü,134046
+3633,Sinop,79,Boyabat,823,Yaylacık Köyü,152878
+3634,Sinop,79,Boyabat,823,Yazı Köyü,134078
+3635,Sinop,79,Boyabat,823,Yeni Camili Köyü,151911
+3636,Sinop,79,Boyabat,823,Yeni Kayalı Köyü,134070
+3637,Sinop,79,Boyabat,823,Yeni Memetli Köyü,155332
+3638,Sinop,79,Boyabat,823,Yeniköy Köyü,171649
+3639,Sinop,79,Boyabat,823,Yenimahalle,154056
+3640,Sinop,79,Boyabat,823,Yeşilçam Köyü,171650
+3641,Sinop,79,Boyabat,823,Yeşilköy Köyü,171651
+3642,Sinop,79,Boyabat,823,Yeşilyurt Köyü,204821
+3643,Sinop,79,Boyabat,823,Yıldız,204905
+3644,Sinop,79,Boyabat,823,Yukarıseyricek Köyü,203165
+3645,Sinop,79,Boyabat,823,Zincirlikuyu,203161
+3646,Sinop,79,Dikmen,824,Akçakese Köyü,13016
+3647,Sinop,79,Dikmen,824,Babalıoğlu,12385
+3648,Sinop,79,Dikmen,824,Bucak Köyü,13208
+3649,Sinop,79,Dikmen,824,Büyükdağ Köyü,12630
+3650,Sinop,79,Dikmen,824,Büyükkızık Köyü,12476
+3651,Sinop,79,Dikmen,824,Çanakçı Köyü,12511
+3652,Sinop,79,Dikmen,824,Çevikli Köyü,136534
+3653,Sinop,79,Dikmen,824,Çorak,13166
+3654,Sinop,79,Dikmen,824,Çukurcaalan Köyü,12623
+3655,Sinop,79,Dikmen,824,Dağköy Köyü,12711
+3656,Sinop,79,Dikmen,824,Dudaş Köyü,11870
+3657,Sinop,79,Dikmen,824,Dumanlı Köyü,13146
+3658,Sinop,79,Dikmen,824,Göllü Köyü,12884
+3659,Sinop,79,Dikmen,824,Görümcek Köyü,13068
+3660,Sinop,79,Dikmen,824,Kadı Köyü,12781
+3661,Sinop,79,Dikmen,824,Karaağaç Köyü,13754
+3662,Sinop,79,Dikmen,824,Karakoyun Köyü,11989
+3663,Sinop,79,Dikmen,824,Kerim Köyü,12836
+3664,Sinop,79,Dikmen,824,Kırçal,153816
+3665,Sinop,79,Dikmen,824,Kuzalan Köyü,13579
+3666,Sinop,79,Dikmen,824,Küçükkızık Köyü,13074
+3667,Sinop,79,Dikmen,824,Küplüce Köyü,200932
+3668,Sinop,79,Dikmen,824,Saray Köyü,151912
+3669,Sinop,79,Dikmen,824,Şeyh Hüseyın Köyü,12552
+3670,Sinop,79,Dikmen,824,Üçpınar Köyü,13577
+3671,Sinop,79,Dikmen,824,Yakuplu Köyü,12978
+3672,Sinop,79,Dikmen,824,Yaykın Köyü,12872
+3673,Sinop,79,Dikmen,824,Yaylabeyi Köyü,152509
+3674,Sinop,79,Dikmen,824,Yeniköy Köyü,13420
+3675,Sinop,79,Dikmen,824,Yukarıçekmez Köyü,12547
+3676,Sinop,79,Dikmen,824,Yumaklı Köyü,12867
+3677,Sinop,79,Durağan,825,Akbel Köyü,205471
+3678,Sinop,79,Durağan,825,Akçaalan Köyü,155759
+3679,Sinop,79,Durağan,825,Akçabük Köyü,13478
+3680,Sinop,79,Durağan,825,Akpınar Köyü,155260
+3681,Sinop,79,Durağan,825,Alpaşalı Köyü,12742
+3682,Sinop,79,Durağan,825,Alpuğan Köyü,154243
+3683,Sinop,79,Durağan,825,Altınkaya,206456
+3684,Sinop,79,Durağan,825,Aşağıalınca Köyü,154720
+3685,Sinop,79,Durağan,825,Aşağıkaracaören Köyü,153290
+3686,Sinop,79,Durağan,825,Başağaç Köyü,152510
+3687,Sinop,79,Durağan,825,Bayat Köyü,153753
+3688,Sinop,79,Durağan,825,Beyardıç Köyü,12866
+3689,Sinop,79,Durağan,825,Beybükü Köyü,153108
+3690,Sinop,79,Durağan,825,Boyabükü Köyü,154703
+3691,Sinop,79,Durağan,825,Boyalıca Köyü,12576
+3692,Sinop,79,Durağan,825,Buzluk,206457
+3693,Sinop,79,Durağan,825,Cevizlibağ Köyü,152303
+3694,Sinop,79,Durağan,825,Çaltucak Köyü,205478
+3695,Sinop,79,Durağan,825,Çamlıca Köyü,157001
+3696,Sinop,79,Durağan,825,Çampaşasakızı Köyü,13058
+3697,Sinop,79,Durağan,825,Çandağı Köyü,134411
+3698,Sinop,79,Durağan,825,Çayağzı Köyü,153662
+3699,Sinop,79,Durağan,825,Çerçiler Köyü,155625
+3700,Sinop,79,Durağan,825,Çorakyüzü Köyü,151592
+3701,Sinop,79,Durağan,825,Çöve Köyü,14143
+3702,Sinop,79,Durağan,825,Dağdelen Köyü,153801
+3703,Sinop,79,Durağan,825,Dereli Köyü,153282
+3704,Sinop,79,Durağan,825,Erduası Köyü,134072
+3705,Sinop,79,Durağan,825,Erenköy Köyü,155580
+3706,Sinop,79,Durağan,825,Gökçebelen Köyü,154046
+3707,Sinop,79,Durağan,825,Gökdoğan Köyü,134059
+3708,Sinop,79,Durağan,825,Gökırmak,206458
+3709,Sinop,79,Durağan,825,Gölalan Köyü,157540
+3710,Sinop,79,Durağan,825,Gölgerişi Köyü,153422
+3711,Sinop,79,Durağan,825,Güngören Köyü,13525
+3712,Sinop,79,Durağan,825,Gürpınar Köyü,12875
+3713,Sinop,79,Durağan,825,Hacımahmutlu Köyü,155153
+3714,Sinop,79,Durağan,825,Hacıoğlan Köyü,205477
+3715,Sinop,79,Durağan,825,İncir Köyü,13188
+3716,Sinop,79,Durağan,825,Kaplangı Köyü,157340
+3717,Sinop,79,Durağan,825,Karagüney Köyü,154213
+3718,Sinop,79,Durağan,825,Karataş Köyü,12663
+3719,Sinop,79,Durağan,825,Kavaklı Köyü,13133
+3720,Sinop,79,Durağan,825,Kemerbahçe Köyü,205479
+3721,Sinop,79,Durağan,825,Kılıçaslan Köyü,13622
+3722,Sinop,79,Durağan,825,Kızılcapelit Köyü,12714
+3723,Sinop,79,Durağan,825,Kirencik Köyü,156795
+3724,Sinop,79,Durağan,825,Köklen Köyü,13342
+3725,Sinop,79,Durağan,825,Köseli Köyü,154575
+3726,Sinop,79,Durağan,825,Kuzköy Köyü,155386
+3727,Sinop,79,Durağan,825,Kuzuluk Köyü,155863
+3728,Sinop,79,Durağan,825,Merkez,13655
+3729,Sinop,79,Durağan,825,Olucak Köyü,157310
+3730,Sinop,79,Durağan,825,Olukbaşı Köyü,154936
+3731,Sinop,79,Durağan,825,Ortaköy Köyü,13432
+3732,Sinop,79,Durağan,825,Salarkolu Köyü,155096
+3733,Sinop,79,Durağan,825,Sarıkadı Köyü,154576
+3734,Sinop,79,Durağan,825,Sarıyar Köyü,12732
+3735,Sinop,79,Durağan,825,Sırnıkalınca Köyü,152879
+3736,Sinop,79,Durağan,825,Sofular Köyü,151728
+3737,Sinop,79,Durağan,825,Ulupınar Köyü,136657
+3738,Sinop,79,Durağan,825,Uzunöz Köyü,13194
+3739,Sinop,79,Durağan,825,Yağbasan Köyü,134961
+3740,Sinop,79,Durağan,825,Yalnızkavak Köyü,152135
+3741,Sinop,79,Durağan,825,Yanalak Köyü,155642
+3742,Sinop,79,Durağan,825,Yandak Köyü,14290
+3743,Sinop,79,Durağan,825,Yassıalan Köyü,12843
+3744,Sinop,79,Durağan,825,Yemişen Köyü,12900
+3745,Sinop,79,Durağan,825,Yeniköy Köyü,13787
+3746,Sinop,79,Durağan,825,Yeşilkent Köyü,12808
+3747,Sinop,79,Durağan,825,Yeşilyurt,206459
+3748,Sinop,79,Durağan,825,Yeşilyurt Köyü,13263
+3749,Sinop,79,Durağan,825,Yukarıkaracaören Köyü,200933
+3750,Sinop,79,Erfelek,826,Abdurrahmanpaşa Köyü,13368
+3751,Sinop,79,Erfelek,826,Ahmetmuhipdıranas Köyü,12999
+3752,Sinop,79,Erfelek,826,Akcaçam Köyü,13429
+3753,Sinop,79,Erfelek,826,Akçasöğüt Köyü,13427
+3754,Sinop,79,Erfelek,826,Avlağısökü Köyü,153960
+3755,Sinop,79,Erfelek,826,Aydınlar Köyü,13452
+3756,Sinop,79,Erfelek,826,Balıfakı Köyü,13451
+3757,Sinop,79,Erfelek,826,Başaran Köyü,13576
+3758,Sinop,79,Erfelek,826,Çayır Köyü,155703
+3759,Sinop,79,Erfelek,826,Dağyeri Köyü,13621
+3760,Sinop,79,Erfelek,826,Değirmencili Köyü,13695
+3761,Sinop,79,Erfelek,826,Dere Köyü,134682
+3762,Sinop,79,Erfelek,826,Emirhalil Köyü,12234
+3763,Sinop,79,Erfelek,826,Gökçebel Köyü,13741
+3764,Sinop,79,Erfelek,826,Gümüşsuyu Köyü,13206
+3765,Sinop,79,Erfelek,826,Güven Köyü,13539
+3766,Sinop,79,Erfelek,826,Hacılar Köyü,12496
+3767,Sinop,79,Erfelek,826,Hamidiye Köyü,12473
+3768,Sinop,79,Erfelek,826,Hasandere Köyü,13900
+3769,Sinop,79,Erfelek,826,Himmetoğlu Köyü,14590
+3770,Sinop,79,Erfelek,826,Horzum Köyü,155097
+3771,Sinop,79,Erfelek,826,Hürremşah Köyü,13571
+3772,Sinop,79,Erfelek,826,İncirpınarı Köyü,154226
+3773,Sinop,79,Erfelek,826,İnesökü Köyü,12587
+3774,Sinop,79,Erfelek,826,Kaldırayak Köyü,13288
+3775,Sinop,79,Erfelek,826,Karacaköy Köyü,13114
+3776,Sinop,79,Erfelek,826,Kazmasökü Köyü,13493
+3777,Sinop,79,Erfelek,826,Kınık,205362
+3778,Sinop,79,Erfelek,826,Kızılcaelma Köyü,12898
+3779,Sinop,79,Erfelek,826,Kızılcaot Köyü,12650
+3780,Sinop,79,Erfelek,826,Kirazlık Köyü,13611
+3781,Sinop,79,Erfelek,826,Kurcalı Köyü,13341
+3782,Sinop,79,Erfelek,826,Merkez,205364
+3783,Sinop,79,Erfelek,826,Mescitdüzü Köyü,13526
+3784,Sinop,79,Erfelek,826,Meydan Köyü,157311
+3785,Sinop,79,Erfelek,826,Ormantepe Köyü,13099
+3786,Sinop,79,Erfelek,826,Salavat,205363
+3787,Sinop,79,Erfelek,826,Salı Köyü,155247
+3788,Sinop,79,Erfelek,826,Sarıboğa Köyü,13733
+3789,Sinop,79,Erfelek,826,Selbeyi Köyü,12996
+3790,Sinop,79,Erfelek,826,Soğucalı Köyü,12738
+3791,Sinop,79,Erfelek,826,Sorgun Köyü,13857
+3792,Sinop,79,Erfelek,826,Şerefiye Köyü,13559
+3793,Sinop,79,Erfelek,826,Tatlıca Köyü,13598
+3794,Sinop,79,Erfelek,826,Tekke Köyü,13565
+3795,Sinop,79,Erfelek,826,Tombul Köyü,13024
+3796,Sinop,79,Erfelek,826,Veysel Köyü,13014
+3797,Sinop,79,Erfelek,826,Yeniçam Köyü,13057
+3798,Sinop,79,Erfelek,826,Yeniköy Köyü,13624
+3799,Sinop,79,Gerze,827,19 Mayıs,206631
+3800,Sinop,79,Gerze,827,Abdaloğlu Köyü,155154
+3801,Sinop,79,Gerze,827,Acısu Köyü,136674
+3802,Sinop,79,Gerze,827,Akgüney Köyü,134550
+3803,Sinop,79,Gerze,827,Akkıraç Köyü,153535
+3804,Sinop,79,Gerze,827,Altunyayla Köyü,155457
+3805,Sinop,79,Gerze,827,Atatürk,13096
+3806,Sinop,79,Gerze,827,Başsökü Köyü,13473
+3807,Sinop,79,Gerze,827,Belören Köyü,14383
+3808,Sinop,79,Gerze,827,Bolalı Köyü,12733
+3809,Sinop,79,Gerze,827,Boyalı Köyü,13283
+3810,Sinop,79,Gerze,827,Boyalıca Köyü,12439
+3811,Sinop,79,Gerze,827,Cumhuriyet,134974
+3812,Sinop,79,Gerze,827,Çağlayan Köyü,155627
+3813,Sinop,79,Gerze,827,Çakallı Köyü,133978
+3814,Sinop,79,Gerze,827,Çalboğaz Köyü,154937
+3815,Sinop,79,Gerze,827,Çarşı,151772
+3816,Sinop,79,Gerze,827,Çırnık Köyü,157365
+3817,Sinop,79,Gerze,827,Gürsökü Köyü,155262
+3818,Sinop,79,Gerze,827,Güzelyurt Köyü,154563
+3819,Sinop,79,Gerze,827,Hacıselli Köyü,134088
+3820,Sinop,79,Gerze,827,Hamidiye,12911
+3821,Sinop,79,Gerze,827,Hıdırlı Köyü,136675
+3822,Sinop,79,Gerze,827,Hizarçayı Köyü,134695
+3823,Sinop,79,Gerze,827,Kabanlar Köyü,154965
+3824,Sinop,79,Gerze,827,Kahramaneli Köyü,155838
+3825,Sinop,79,Gerze,827,Karlı Köyü,12546
+3826,Sinop,79,Gerze,827,Kızılcalı Köyü,153403
+3827,Sinop,79,Gerze,827,Kirençukuru Köyü,133996
+3828,Sinop,79,Gerze,827,Köşk,12787
+3829,Sinop,79,Gerze,827,Kuzsökü Köyü,13436
+3830,Sinop,79,Gerze,827,Mahmuttırı Köyü,153456
+3831,Sinop,79,Gerze,827,Pirahmet Köyü,153224
+3832,Sinop,79,Gerze,827,Sarımsak Köyü,153239
+3833,Sinop,79,Gerze,827,Sarıyer Köyü,157160
+3834,Sinop,79,Gerze,827,Sarnıç Köyü,134048
+3835,Sinop,79,Gerze,827,Sazak Köyü,12834
+3836,Sinop,79,Gerze,827,Sorkun Köyü,134061
+3837,Sinop,79,Gerze,827,Şeyhli Köyü,13019
+3838,Sinop,79,Gerze,827,Tatlıcak Köyü,135187
+3839,Sinop,79,Gerze,827,Tepealtı Köyü,155839
+3840,Sinop,79,Gerze,827,Tokuşlar Köyü,134034
+3841,Sinop,79,Gerze,827,Türkmen Köyü,134973
+3842,Sinop,79,Gerze,827,Türkmenlioğlu Köyü,13362
+3843,Sinop,79,Gerze,827,Yakadibi Köyü,155555
+3844,Sinop,79,Gerze,827,Yamacık Köyü,12909
+3845,Sinop,79,Gerze,827,Yaykıl Köyü,11755
+3846,Sinop,79,Gerze,827,Yenikent Köyü,157312
+3847,Sinop,79,Gerze,827,Yenimahalle,206632
+3848,Sinop,79,Gerze,827,Yuvalı Köyü,153076
+3849,Sinop,79,Saraydüzü,828,Akbelen Köyü,12764
+3850,Sinop,79,Saraydüzü,828,Arım Köyü,13574
+3851,Sinop,79,Saraydüzü,828,Asarcık Camili Köyü,12925
+3852,Sinop,79,Saraydüzü,828,Asarcık Hacı Köyü,153134
+3853,Sinop,79,Saraydüzü,828,Asarcık Kayalı Köyü,13660
+3854,Sinop,79,Saraydüzü,828,Asarcık Kazaklı Köyü,13463
+3855,Sinop,79,Saraydüzü,828,Aşağı Akpınar Köyü,12813
+3856,Sinop,79,Saraydüzü,828,Aşağıdarıçay Köyü,154749
+3857,Sinop,79,Saraydüzü,828,Avluca Köyü,13077
+3858,Sinop,79,Saraydüzü,828,Bahçeköy Köyü,13023
+3859,Sinop,79,Saraydüzü,828,Bahşaşlı Köyü,156401
+3860,Sinop,79,Saraydüzü,828,Başekin Köyü,13435
+3861,Sinop,79,Saraydüzü,828,Cuma Kayalı Köyü,12842
+3862,Sinop,79,Saraydüzü,828,Cuma Köyü Köyü,12940
+3863,Sinop,79,Saraydüzü,828,Cuma Tabaklı Köyü,13123
+3864,Sinop,79,Saraydüzü,828,Çalpınar Köyü,13662
+3865,Sinop,79,Saraydüzü,828,Çampaşalı Köyü,12291
+3866,Sinop,79,Saraydüzü,828,Çorman Köyü,13826
+3867,Sinop,79,Saraydüzü,828,Fakılı Köyü,12891
+3868,Sinop,79,Saraydüzü,828,Göynükveren Köyü,158974
+3869,Sinop,79,Saraydüzü,828,Hacıçayı Köyü,153805
+3870,Sinop,79,Saraydüzü,828,Hanoğlu Köyü,12870
+3871,Sinop,79,Saraydüzü,828,Karaçaygöleti Köyü,153873
+3872,Sinop,79,Saraydüzü,828,Korucuk Köyü,154266
+3873,Sinop,79,Saraydüzü,828,Saraydüzü,203170
+3874,Sinop,79,Saraydüzü,828,Tepeköy Köyü,13486
+3875,Sinop,79,Saraydüzü,828,Uluköy Köyü,13448
+3876,Sinop,79,Saraydüzü,828,Yalmansaray Köyü,12438
+3877,Sinop,79,Saraydüzü,828,Yaylacılı Köyü,12809
+3878,Sinop,79,Saraydüzü,828,Yenice Köyü,12871
+3879,Sinop,79,Saraydüzü,828,Yukarıakpınar Köyü,13029
+3880,Sinop,79,Saraydüzü,828,Yukarıarım Köyü,205269
+3881,Sinop,79,Saraydüzü,828,Zaim Köyü,158611
+3882,Sinop,79,Merkez,829,Abalı Köyü,123634
+3883,Sinop,79,Merkez,829,Ada,123627
+3884,Sinop,79,Merkez,829,Ahmetyeri Köyü,123635
+3885,Sinop,79,Merkez,829,Akbaş Köyü,123636
+3886,Sinop,79,Merkez,829,Alasökü Köyü,123637
+3887,Sinop,79,Merkez,829,Aloğlu Köyü,123638
+3888,Sinop,79,Merkez,829,Avdan Köyü,123639
+3889,Sinop,79,Merkez,829,Bektaşağa Köyü,123640
+3890,Sinop,79,Merkez,829,Bostancılı Köyü,123641
+3891,Sinop,79,Merkez,829,Camikebir,123628
+3892,Sinop,79,Merkez,829,Çakıldak Köyü,125488
+3893,Sinop,79,Merkez,829,Çiftlik Köyü,123642
+3894,Sinop,79,Merkez,829,Çobanlar Köyü,123643
+3895,Sinop,79,Merkez,829,Demirci Köyü,123644
+3896,Sinop,79,Merkez,829,Dibekli Köyü,123645
+3897,Sinop,79,Merkez,829,Dizdaroğlu Köyü,123646
+3898,Sinop,79,Merkez,829,Erikli Köyü,123647
+3899,Sinop,79,Merkez,829,Eymür Köyü,13380
+3900,Sinop,79,Merkez,829,Fidanlık Köyü,200936
+3901,Sinop,79,Merkez,829,Gelincik,123629
+3902,Sinop,79,Merkez,829,Göller Köyü,123649
+3903,Sinop,79,Merkez,829,Göllü Köyü,123650
+3904,Sinop,79,Merkez,829,Hacıoğlu Köyü,123651
+3905,Sinop,79,Merkez,829,İncedayı,206630
+3906,Sinop,79,Merkez,829,Kabalı Köyü,123652
+3907,Sinop,79,Merkez,829,Kaleyazısı,123630
+3908,Sinop,79,Merkez,829,Karapınar Köyü,123653
+3909,Sinop,79,Merkez,829,Kefevi,123631
+3910,Sinop,79,Merkez,829,Kılıçlı Köyü,123654
+3911,Sinop,79,Merkez,829,Kirençukuru Köyü,123655
+3912,Sinop,79,Merkez,829,Korucuk Köyü,123656
+3913,Sinop,79,Merkez,829,Kozcuğaz Köyü,123657
+3914,Sinop,79,Merkez,829,Lala Köyü,123658
+3915,Sinop,79,Merkez,829,Melikşah Köyü,123659
+3916,Sinop,79,Merkez,829,Mertoğlu Köyü,123660
+3917,Sinop,79,Merkez,829,Meydankapı,123632
+3918,Sinop,79,Merkez,829,Oğuzeli Köyü,200711
+3919,Sinop,79,Merkez,829,Ordu Köyü,123661
+3920,Sinop,79,Merkez,829,Osmaniye Köyü,123662
+3921,Sinop,79,Merkez,829,Sarıkum Köyü,123664
+3922,Sinop,79,Merkez,829,Sazlı Köyü,123663
+3923,Sinop,79,Merkez,829,Sinecan Köyü,123665
+3924,Sinop,79,Merkez,829,Şamlıoğlu Köyü,123666
+3925,Sinop,79,Merkez,829,Tangaloğlu Köyü,123667
+3926,Sinop,79,Merkez,829,Taşmanlı Köyü,123668
+3927,Sinop,79,Merkez,829,Taypaklı Köyü,123669
+3928,Sinop,79,Merkez,829,Tıngıroğlu Köyü,123670
+3929,Sinop,79,Merkez,829,Uzungürgen Köyü,123671
+3930,Sinop,79,Merkez,829,Yalı Köyü,123672
+3931,Sinop,79,Merkez,829,Yeni,123633
+3932,Sinop,79,Merkez,829,Zeytinlik,205602
+3933,Sinop,79,Türkeli,830,Akçabük Köyü,13292
+3934,Sinop,79,Türkeli,830,Alagöz Köyü,13524
+3935,Sinop,79,Türkeli,830,Ayaz Köyü,12904
+3936,Sinop,79,Türkeli,830,Çatakgeriş Köyü,12761
+3937,Sinop,79,Türkeli,830,Çatakgüney Köyü,13511
+3938,Sinop,79,Türkeli,830,Çatakörencik Köyü,13215
+3939,Sinop,79,Türkeli,830,Direkli Köyü,12075
+3940,Sinop,79,Türkeli,830,Düzköyü Köyü,157436
+3941,Sinop,79,Türkeli,830,Düzler Köyü,12539
+3942,Sinop,79,Türkeli,830,Gaziler Köyü,12451
+3943,Sinop,79,Türkeli,830,Gemiyanı,13564
+3944,Sinop,79,Türkeli,830,Gencek Köyü,13424
+3945,Sinop,79,Türkeli,830,Gökçealan Köyü,12533
+3946,Sinop,79,Türkeli,830,Gündoğdu Köyü,13087
+3947,Sinop,79,Türkeli,830,Güzelyurt,206633
+3948,Sinop,79,Türkeli,830,Hacıköyü Köyü,156535
+3949,Sinop,79,Türkeli,830,Hamamlı Köyü,13173
+3950,Sinop,79,Türkeli,830,Helaldı Köyü,158080
+3951,Sinop,79,Türkeli,830,Işıklı Köyü,13549
+3952,Sinop,79,Türkeli,830,Karabey Köyü,12532
+3953,Sinop,79,Türkeli,830,Kayabaşı Köyü,12559
+3954,Sinop,79,Türkeli,830,Keş Köyü,160299
+3955,Sinop,79,Türkeli,830,Kuşcular Köyü,158795
+3956,Sinop,79,Türkeli,830,Kuzköyü Köyü,154785
+3957,Sinop,79,Türkeli,830,Oymayaka Köyü,12736
+3958,Sinop,79,Türkeli,830,Sarmaşık Köyü,13056
+3959,Sinop,79,Türkeli,830,Satı Köyü,157793
+3960,Sinop,79,Türkeli,830,Sazkışla Köyü,13535
+3961,Sinop,79,Türkeli,830,Tacahmet Köyü,158560
+3962,Sinop,79,Türkeli,830,Taşgüney Köyü,12482
+3963,Sinop,79,Türkeli,830,Turhan Köyü,12920
+3964,Sinop,79,Türkeli,830,Tümerkan,206634
+3965,Sinop,79,Türkeli,830,Yalı,207760
+3966,Sinop,79,Türkeli,830,Yapraklı Köyü,12827
+3967,Sinop,79,Türkeli,830,Yazıcı Köyü,12031
+3968,Sinop,79,Türkeli,830,Yeşiloba Köyü,12596
+3969,Sinop,79,Türkeli,830,Yusuflu Köyü,13108
